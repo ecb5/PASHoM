@@ -1,0 +1,4072 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <docinfo>
+    <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
+  <article xml:id="PASHOM-records">
+    <title>Philadelphia Area Seminar on the History of Mathematics (PASHOM)</title>
+
+    <section  xml:id="section-HistoricalSummary">
+      <title>History of PASHoM</title>
+      <p>
+        Tom Bartlow described the genesis of PASHoM in  the summer of 2004 as follows:
+      </p>
+      <blockquote>
+        <p>
+          For many years friends interested in history of mathematics from
+          colleges and universities in and around Philadelphia would greet one
+          another at national meetings with the question, "Why do we have to
+          travel hundreds of miles to talk about our common interest in history
+          of mathematics? Why don't we get together at home?" In the fall of
+          2000 David Zitarelli of Temple University and Paul Wolfson of West
+          Chester University took the initiative, independently inviting people
+          to colloquia at their institutions. At West Chester spoke on in
+          November and in December at Temple Jim Stasheff talked about his
+          experiences as a graduate student at Princeton in the 1950's.
+        </p>
+        <p>
+          These two efforts prompted Tom Bartlow of Villanova University to
+          invite all interested persons to an organizational meeting at
+          Villanova University in January 2001. There it was agreed to establish
+          the Philadelphia Area Seminar on the History of Mathematics to share
+          our common interest in mathematics, to encourage one another in our
+          research efforts, and to offer a forum for reporting on work in
+          progress. Rudiger Thiele, who happed to be in town at the time,
+          attended, offered us encouragement, and spoke informally about his
+          investigation of Hilbert's twenty-fourth problem. He continues to
+          claim status as the only foreign associate of PASHoM. Since then the
+          seminar has met monthly, with interruptions in December and for
+          summer. There are no officers or formal structure but David Zitarelli
+          and Tom Bartlow have voluntarily assumed responsibility for necessary
+          arrangements.
+        </p>
+        <p>
+          The seminar will resume in the fall with a talk by Frederick
+          W. Hartman of Villanova University on "Apollonius’ Ellipse and Evolute
+          Revisited" on September 18, 2003 and a talk by Amy Ackerberg-Hastings
+          on October 23, 2003.
+        </p>
+        <p>
+
+          Meetings are at Villanova University, usually on the third Thursday of
+          the month.
+        </p>
+      </blockquote>
+      <p>
+        Tom Bartlow retired leadership in Summer 2012. Alan Gluchoff took over
+        Fall 2012.
+      </p>
+    </section>
+
+    <!-- <section  xml:id=""> -->
+    <!--   <title>   </title> -->
+    <!--   <p> -->
+    <!--     <dl> -->
+    <!--       <li> -->
+    <!--         <title></title> -->
+    <!--         <p> -->
+    <!--           <alert>Speaker: </alert> -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Title: </alert> <pubtitle> </pubtitle> -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Abstract: </alert> -->
+    <!--         </p> -->
+    <!--       </li> -->
+    <!--       <li> -->
+    <!--         <title></title> -->
+    <!--         <p> -->
+    <!--           <alert>Speaker: </alert> -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Title: </alert> <pubtitle> </pubtitle> -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Abstract: </alert> -->
+    <!--         </p> -->
+    <!--       </li> -->
+    <!--       <li> -->
+    <!--         <title></title> -->
+    <!--         <p> -->
+    <!--           <alert>Speaker: </alert> -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Title: </alert> <pubtitle> </pubtitle> -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Abstract: </alert> -->
+    <!--         </p> -->
+    <!--       </li> -->
+    <!--     </dl> -->
+    <!--   </p> -->
+    <!-- </section> -->
+
+    <section  xml:id="fall-2023">
+      <title> Fall 2023  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 7</title>
+            <p>
+              <alert>Speaker: </alert> Maryam Vulis, St. John’s University and Norwalk
+              Community College 
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The History of Markov Chains </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              This presentation will review the origins of Markov chains. Notably,
+              Markov was inspired by poetry in his development of the chain link
+              theory. His 1906 paper was the first to mention the idea of chains in
+              which he stated that the that it was not necessary for “quantities” to
+              be independent for the validity of the Law of Large Numbers. Markov’s
+              interest in studying chain dependence stemmed from a dispute with Pavel
+              Nekrasov from Moscow Mathematical School. Nekrasov, a deeply religious
+              man, believed that the Weak Law of Large numbers was true for pairwise
+              independent events only due to <q>free will.</q> Markov intended to refute
+              Nekrasov’s statement and eventually proved that the Law of Large Numbers
+              did not have to apply to independent events only. Why Markov chains or
+              the chains of linked events are of interest now? The insight is that the
+              current event depends only on the immediate previous event, not on the
+              prior events and this process can be used in AI such as chatbots. Thus,
+              100 years after the Markov Chains were introduced they are used in
+              chatbots which prominently emerged in popular culture. Markov’s work has
+              a great impact on today’s technology.
+            </p>
+          </li>
+          <li>
+            <title>November 16</title>
+            <p>
+              <alert>Speaker: </alert> Benjamin B. Olshin, University of the Arts, Bryn Mawr
+              College
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Early Circular Maps: An Example of Perspectographic Imaging? </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              A great deal has been written about map projections, and their
+              development over the many centuries that human beings have engaged in
+              map-making. From the time of Ptolemy, there have been various methods to
+              carry out such projections, with the fundamental goal being the
+              rendering of the globe or part of the globe onto a two-dimensional
+              surface. Traditionally, history tells us that there were crude circular
+              maps in the Middle Ages, and then a marked transition to Ptolemaic
+              (mathematical) projections, followed by increasingly advanced
+              projections, such as Mercator's. However, this lecture will present the
+              conjecture that many of the circular maps from the late medieval and
+              early Renaissance period were created using Albrecht Dürer's simple
+              method of drawing a 3D object in 2D through the use of a device known as
+              a perspectograph. This lecture will show how this method might have
+              worked, and how it might have represented a way of creating 2D maps
+              without formal projective geometry.  
+
+            </p>
+          </li>
+          <li>
+            <title>October 19</title>
+            <p>
+              <alert>Speaker: </alert> Benjamin B. Olshin, University of the Arts, Bryn Mawr
+              College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Leonardo da Vinci and the Deconstruction of Perpetual Motion </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              The engineering drawings of Leonardo da Vinci are famous for both their
+              ingenuity and aesthetic qualities. But Leonardo used drawing in a rather
+              unique way as a method of “visual thinking” or formal analysis, to
+              investigate and work out problems in fields ranging from anatomy to
+              mechanics to hydraulics. Interestingly, Leonardo used this same method
+              to investigate the possibility ― or impossibility ― of perpetual motion.
+              In many of his notebook folio pages, we find pictures and text dealing
+              with a range of designs for perpetual motion machines powered by weights
+              or water. One can actually find a thorough typology in his renderings of
+              various schemes for perpetual motion machines: a classification scheme
+              based upon the various mechanical elements, and motive forces employed,
+              that Leonardo posited or analyzed in these devices. This presentation
+              shows that these are not random sketches, but rather a systematic and
+              even mathematical "deconstruction" of the myth of perpetual motion. 
+
+            </p>
+          </li>
+          <li>
+            <title>September 21</title>
+            <p>
+              <alert>Speaker: </alert> Lawrence D'Antonio, Ramapo College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Edmond Halley, Samuel Pepys, and the “Historia Piscium” </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              In this talk, we will look at the remarkable life of Edmond Halley (1656
+              – 1742). Not just a predictor of comets, Halley produced the first star
+              catalog of stars visible from the Southern Hemisphere. He also
+              discovered an interesting root solving method, became the Savilian
+              Professor of Geometry at Oxford after the death of Wallis, was a sea
+              captain, and was named the second Astronomer Royal (succeeding John
+              Flamsteed). Halley also played a major role in the Royal Society of
+              London. It was a visit by Halley that encouraged Newton to write the
+              Principia Mathematica and Halley used his own funds to publish the first
+              edition. Halley also played a key role in the controversy surrounding
+              the publication of Flamsteed’s star catalog (the controversy ended with
+              a book burning!). Finally, we will discuss Halley’s election as the
+              Clerk of the Royal Society which will help explain the title of this talk. 
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2023">
+      <title> Spring 2023  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 20</title>
+            <p>
+              <alert>Speaker: </alert> David Richeson, Dickinson College
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>A Romance of Many (and Fractional) Dimensions  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert> Dimension seems like an intuitive
+              idea. We are all familiar with zero-dimensional points,
+              one-dimensional curves, two-dimensional surfaces, and
+              three-dimensional solids. Yet dimension is a slippery idea
+              that took mathematicians many years to understand. We will
+              discuss the history of dimension, which includes Cantor’s
+              troubling discovery, the surprise of space-filling curves,
+              the public’s infatuation with the fourth dimension, time as
+              an extra dimension, the meaning of non-integer dimensions,
+              and the unexpected properties of high-dimensional spaces.
+            </p>
+          </li>
+          <li>
+            <title>March 16</title>
+            <p>
+              <alert>Speaker: </alert> Annalisa Crannell, Franklin and Marshall College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Drawing Conclusions from Drawing a Square </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              The Renaissance famously brought us amazingly realistic perspective art.
+              Creating that art was the spark from which projective geometry caught
+              fire and grew. This talk looks directly at projective geometry as a tool
+              to illuminate the way we see the world around us, whether we look with
+              our eyes, with our cameras, or with the computer (via our favorite
+              animated movies). One of the surprising results of projective geometry
+              is that it implies that every quadrangle (whether convex or not) is the
+              perspective image of a square. We will describe implications of this
+              result for computer vision, for photogrammetry, for applications of
+              piecewise planar cones, and of course for perspective art and projective
+              geometry. 
+
+            </p>
+          </li>
+          <li>
+            <title>February 16</title>
+            <p>
+              <alert>Speaker: </alert> Ezra Brown, Virginia Tech:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>A Tour of the Birth and Early Development of Finite Geometries,
+              Combinatorial Designs, and Normed Algebras </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              In this tak, we give a brief tour of the birth and early development of
+              finite geometries, combinatorial designs, and normed algebras. Arthur
+              Cayley (1845), Jakob Steiner (1853) and Gino Fano (1892) are credited
+              with the creation of (respectively) the 8-dimensional real normed
+              algebra, certain block designs with block size 3, and the first finite
+              geometry. During our tour, we learn about the truly ground-breaking work
+              of Julius Pl ̈ucker, John Graves (motivated by William Hamilton's
+              quaternions), Wesley Woolhouse and Thomas Kirkman, work that anticipated
+              Cayley, Steiner and Fano by one, 18, and 57 years, respectively.
+
+            </p>
+          </li>
+          <li>
+            <title>January 19</title>
+            <p>
+              <alert>Speaker: </alert> Maryam Vulis, St John's University, Norwalk Community
+              College and CCNY:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Ukrainian Mathematicians in the Soviet Ukraine </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              Our presentation will discuss the work and life of two Ukrainian
+              mathematicians who lived in worked in the Soviet Ukraine - Mykhaylo
+              Kravchuk and Nina Virchenko. The mathematician Mykhaylo Kravchuk was an
+              important part of Ukrainian mathematics who dedicated his life to
+              promoting Ukrainian culture and education. He was a member of the
+              Ukrainian Academy of Sciences and in fact, his two-volume publication on
+              differential equations was translated into English by the computer
+              pioneer John Atanasoff who found Kravchuk’s results for his computer
+              construction. Kravchuk was well-known in international circles, and
+              perhaps it cost him his life as he met the fate of many members of
+              intelligentsia. One must mention Nina Virchenko, a mathematics
+              researcher and a follower of Kravchuk. She was also persecuted by
+              Soviets, amazingly survived incarceration in a camp, and continued for
+              decades to work on mathematics and to promote the achievements of
+              Kravchuk. Naturally, the recognition of the Ukrainian mathematicians’
+              achievements came with Ukrainian gaining independence in 1991.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2022">
+      <title> Fall 2022  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 8</title>
+            <p>
+              <alert>Speaker: </alert> Amy Ackerberg-Hastings, Independent Scholar, Editorial
+              Staff of Convergence, MAA:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>HoM Toolbox: Historiography and Methodology for Mathematicians </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              I have been contemplating creating an article series for MAA Convergence
+              that introduces historiography and methodology in ways that are
+              accessible to undergraduate mathematics students and instructors. The
+              current plan is to begin with an overview of the principles for
+              researching and writing history by considering five questions: 1) What
+              is history? Why should readers want to research and write it well? 2)
+              How do we know about the past? 3) How do we create history based on what
+              we know about the past? 4) What is the history of the history of
+              mathematics? 5) How can readers articulate their own philosophies of the
+              history of mathematics?
+            </p>
+            <p>
+
+              I have been contemplating creating an article series for MAA Convergence
+              that introduces historiography and methodology in ways that are
+              accessible to undergraduate mathematics students and instructors. The
+              current plan is to begin with an overview of the principles for
+              researching and writing history by considering five questions: 1) What
+              is history? Why should readers want to research and write it well? 2)
+              How do we know about the past? 3) How do we create history based on what
+              we know about the past? 4) What is the history of the history of
+              mathematics? 5) How can readers articulate their own philosophies of the
+              history of mathematics?
+
+            </p>
+          </li>
+          <li>
+            <title>November 17</title>
+            <p>
+              <alert>Speaker: </alert> Ximena Catepillan, Professor Emeritus, Millersville
+              University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Maya Calendar Computations </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              The civilization of the Maya, which began ca. 1200 BC, had a long
+              history generally divided into three periods: The Pre-Classic period ca.
+              1200BC - 200AD, the Classic period 200AD - 900AD, and the Post-Classic
+              period 900AD - 519AD. The Maya civilization extended from what it is now
+              Belize, Central and Southern Mexico, Guatemala, El Salvador, and parts
+              of Honduras. About thirty Mayan languages are still spoken in the
+              above-mentioned regions, with a modern Maya population of about 5
+              million. The Maya developed a glyph writing system, vigesimal and
+              quasi-vigesimal number systems, and they mastered several areas of
+              science, art, and architecture. Based on astronomical observations, the
+              Maya created an elaborate system of calendars. In this talk, their
+              number systems will be discussed, and algorithms for converting among
+              the calendars that are simple enough to do with paper and pencil will be
+              presented. This presentation will be available for incorporating
+              ethnomathematics into mathematics courses and ethnomathematics focused
+              courses. 
+
+            </p>
+          </li>
+          <li>
+            <title>October 20</title>
+            <p>
+              <alert>Speaker: </alert> Tom Archibald, Department of Mathematics, Simon Fraser
+              University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Justifying abstraction? Examples from Integration Theory to 1940 </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              Making sense of mid-twentieth century abstraction posed problems for
+              both new and ongoing practitioners. To historicize aspects of processes
+              of generalization and abstraction can be tricky as it is easy to be
+              anachronistic. Hilbert's Grundlagen der Geometrie, for example,
+              indicates the recognition of several possible positions on the nature of
+              axioms, for example as ``self-evident'', as idealizations of experience,
+              or as rules. Since the axioms interact with definitions, this variation
+              in ideas about axioms is accompanied by different ideas about
+              definitions, ranging from definitions as descriptions to definitions as
+              prescriptions. Description, though, is an equivocal term, since one can
+              be describing an object one thinks of as existing, or as one that we are
+              in a sense designing.
+              </p>
+              <p>
+                Historical questions arise: in what ways, and in what terms, do
+                researchers attempt to justify their particular approaches to
+                abstraction and generalization? How do these justifications function? In
+                the first half of the 20th c. they were not merely conventional in my
+                view. In what follows, we discuss some research papers and look at
+                explicit or implicit efforts to explain the value of the approach. Such
+                justifications are so familiar now from textbook and other writing that
+                they are easy to overlook.These various ways of justifying one's
+                approach serve as a kind of guide to how the main models of innovation
+                in twentieth century mathematics became standard. We look in particular
+                at a set of examples around the ``Lebesgue-Nikodym'' Decomposition
+                theorem in analysis.  
+
+            </p>
+          </li>
+          <li>
+            <title>September 15</title>
+            <p>
+              <alert>Speaker: </alert> Karen Parshall, Commonwealth Professor of History and
+              Mathematics, University of Virginia:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>American Mathematicians and World War II </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              When the United States entered World War II in December 1941, America’s
+              mathematicians had already been bracing themselves for war. This talk
+              will examine the various venues in which they contributed to the war
+              effort and indicate the sorts of contributions they made.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2022">
+      <title>     Spring 2022  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April  21</title>
+            <p>
+              <alert>Speaker: </alert> David Derbes, U of Chicago Lab School (retired):
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Mark Kac’s First Publication, /On a new way of solving equations of the
+              third degree/ </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert> In his autobiography, Mark Kac
+              relates that as a teenager he became obsessed with the
+              problem of deriving the Cardano formula for the roots of
+              a cubic polynomial. He had been told that it was too
+              hard for him. He succeeded, and it led to his becoming a
+              mathematician. The derivation itself has been nearly
+              impossible to locate, but it will be explained in this
+              talk. Interestingly, it has some features in common with
+              Lodovico Ferrari’s solution of the
+              quartic. Additionally, some history of the cubic’s
+              solution, some biographical details concerning Kac, and
+              finally what may be the simplest derivation of the
+              Cardano formula, due to François Viète, will be given in
+              detail. This derivation seems easily within the reach of
+              high school students. If time allows, Viète’s
+              trigonometric solution to the casus irreducibilis (three
+              real roots) will be sketched.
+            </p>
+            <p>
+              Based on 
+              <url href="https://maa.org/press/periodicals/convergence/mark-kac-s-first-publication-a-translation-of-o-nowym-sposobie-rozwi-zywania-r-wna-stopnia-trzeciego" visual="https://maa.org/press/periodicals/convergence/mark-kac-s-first-publication-a-translation-of-o-nowym-sposobie-rozwi-zywania-r-wna-stopnia-trzeciego"> Convergence article April 2021</url>
+            </p>
+            <p>
+              PDF talk available upon request.
+            </p>
+            <p>
+              Zoom recording available for a limited time.
+            </p>
+          </li>
+          <li>
+            <title>March 17</title>
+            <p>
+              <alert>Speaker: </alert> William Dunham, Bryn Mawr College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Math Matriarchs of Bryn Mawr </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+              Over its first 50 years, Bryn Mawr College boasted three remarkable
+              mathematicians who, one after the other, left deep footprints on the
+              institution and on the U.S. mathematical community. They were Professors
+              Charlotte Angas Scott (British), Anna Pell Wheeler (American), and Emmy
+              Noether (German). In this lecture, we meet these women and flesh out
+              their biographies with plenty of local color … not to mention a
+              real-life assassin in a supporting role. From 1885 to 1935, they gave
+              Bryn Mawr a record of women in mathematics unsurpassed by any college,
+              anywhere. [Zoom recording available upon request.]
+
+            </p>
+          </li>
+          <li>
+            <title>February 17</title>
+            <p>
+              <alert>Speaker: </alert> Julian Gould, University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Nazi regime effect on Mathematics  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The founding of the Weimar Republic in Germany at the end of World War
+One opened the doors of mathematics academia for Jewish people. The rise
+of the Nazi party in the 1930s closed those doors more tightly than ever
+before. What happened in math departments in Germany under the Nazi
+regime? How did the content, teaching, and research of mathematics
+change? In this talk, we will first dissect the anatomy of mathematics
+academia and identify key questions about the intersection of
+mathematics and politics. Next, we will look the history of mathematics
+under the Third Reich, with an emphasis on the way Nazi politics and
+culture impacted the anatomy. This important period of history has
+relevant lessons about how mathematics can be politicized today and in
+the future.  
+
+            </p>
+          </li>
+          <li>
+            <title>January 20</title>
+            <p>
+              <alert>Speaker: </alert> Maryam Vulis, St. John's University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Sophia Yanovskaya (1896-1966) and Soviet Mathematical Logic  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The goal of our discussion is to present the portrait of Sophia
+Yanovskaya, a mathematician and educator who made invaluable
+contributions to the development of mathematical logic, history and
+philosophy of mathematics, and research in the USSR. In 1933 Yanovskaya
+and Vygodsky started the Seminar on History of Mathematics, and in 1943
+Yanovskaya and Novikov organized the Seminar on Mathematical Logic and
+Philosophy of Mathematics - the center of research in mathematical
+logic. 1936 saw the first official course in Mathematical Logic taught
+at Moscow State University by Sophia Yanovskaya. In 1959 Yanovkaya
+oversaw the creation of the Division of Mathematical Logic at MSU in
+1959. Dr. Yanovskaya’s publications included topics on history and
+philosophy of mathematics, foundations of mathematics, mathematical
+logic, and applications. There are many stories about Yanovskaya’s
+dedication to her students and support of young mathematicians. The
+biography of the Sophia Yanovskaya was complicated and currently many
+regard her position to be not without a fault. One should remember that
+the scientists of that era had little choice but to go along with the
+political climate of the country.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2021">
+      <title>     Fall 2021  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 9</title>
+            <p>
+              <alert>Speaker: </alert> Colin McKinney, Wabash College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Clairaut’s Quatre Problèmes sur de Nouvelles Courbes  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1726, Alexis Clairaut presented four new families of curves to the
+Royal Academy of Sciences in Paris, at the age of twelve and a half. He
+subsequently published an article featuring these curves in 1734.
+Clairaut gives the algebraic and geometric properties of each curve, and
+shows how they can be used to solve the ancient problem of finding any
+number of mean proportionals between two given straight lines. He also
+finds tangents to his curves, and computes their quadratures. In our
+presentation, we will motivate Clairaut’s investigations and relate one
+of his family of curves to those given by Descartes in La Géométrie.
+We’ll also discuss our process of creating a critical edition of
+Clairaut’s French text and translating the work into English. 
+
+            </p>
+          </li>
+          <li>
+            <title>November 18</title>
+            <p>
+              <alert>Speaker: </alert> Professor Emeritus James T. Smith of San Fransisco
+State University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>What Specific Contributions of Mario Pieri and Alfred Tarski are
+Discernible in Typical Mathematical-logic Textbooks?  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Tarski’s are famous, but Pieri’s? I will trace back two themes in
+axiomatics: selecting primitive concepts and formulating postulates
+sufficient to develop a familiar informal theory; and deducing its
+theorems as logical consequences. The modern concept of logical
+consequence stems from Tarski (1953, 1935), then Ajdukiewicz (1921),
+Pieri (1898), and Bolzano (1830s). I will sketch Tarski’s and Pieri’s
+milieux in Warsaw and Turin, and survey Pieri’s pioneering development
+of postulate systems. This presentation is extracted from three recent
+books written with coauthors Elena Marchisotto and Francisco
+Rodríguez-Consuegra and with Andrew and Joanna McFarland. 
+
+            </p>
+          </li>
+          <li>
+            <title>October 21</title>
+            <p>
+              <alert>Speaker: </alert> Fred Rickey:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Stanislaw Lesniewski, Logician Extraordinaire </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Stanislaw Lesniewski (1886--1939) received his Ph.D. at Lwow University
+under the direction of Kazimierz Twardowski in 1912. After a few years
+of teaching in schools for girls he left for Poland and soon joined the
+codebreaking group that helped Poland win the battle of the Vistual. In
+1919 he became Extraordinary Professor of the Foundations of Mathematics
+at Warsaw University, a position created especially for him. His
+obsession with the Russell Antinomy led him to create three foundational
+system for mathematics: Protothetic, Ontology, and Mereology. His
+concern for rigor led him to formulate the rules of procedure in a
+precise way that was unmatched. We will discuss the basic ideas of his
+systems and their fate. 
+
+            </p>
+          </li>
+          <li>
+            <title>September 16</title>
+            <p>
+              <alert>Speaker: </alert> Dan Velleman, Amherst College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Fundamental Theorem of Algebra: History in Pictures  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The fundamental theorem of algebra says that every nonconstant
+polynomial with complex coefficients has a root in the complex plane. In
+this talk I will present a method of visualizing functions on the
+complex plane and use this method illustrate proofs by D'Alembert,
+Gauss, and Argand. At the end of the talk I will describe recent work on
+filling a gap in Gauss's proof.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+
+    <section  xml:id="spring-2021">
+      <title>     Spring 2021  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 15</title>
+            <p>
+              <alert>Speaker: </alert> Brenda Davidson, Simon Fraser University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Stokes and the Pendulum </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+During the first half of the 19th century, the pendulum occupied an
+important place in experimental physics and in surveying. Precision
+pendulum measurements were used, for example, to determine accurate
+values of the gravitational constant and to determine the exact shape of
+the earth. The desire for exceedingly precise measurement meant that
+temperature, humidity, altitude, external vibrations, and the medium
+through which the pendulum swung had to be controlled or corrected for.
+Simultaneous measurements being made at a variety of locations around
+the world meant that assurance was needed that what was being compared
+from one location to the other was actually comparable. Further, theory
+was needed to support the various experimental results and to predict
+the effect of changing conditions on the pendulum period. In particular,
+the computation, from theory, of a vacuum to air correction factor for a
+given pendulum was important. Sir George Gabriel Stokes provided this
+theory in 1848 and he used divergent series to do so. This talk will use
+a portion of the fascinating history of the pendulum during the early
+19th century to establish their importance and then will take a close
+look at the mathematics that Stokes developed in support of this effort. 
+
+            </p>
+          </li>
+          <li>
+            <title>February 18</title>
+            <p>
+              <alert>Speaker: </alert> Maria Zack, Mathematics, Information and Computer
+Science, Point Loma University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Cycloid, A Very Popular Curve </pubtitle>
+            </p>
+
+          </li>
+          <li>
+            <title>January 21</title>
+            <p>
+              <alert>Speaker: </alert> Maryam Vulis, St. Johns University, NY, Norwalk
+Community College, CT
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Polish Mathematical School: Zygmunt Janiszewski (1888 -1920)  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The Polish mathematician Zygmunt Janiszewski made important mathematical
+contributions during his life cut short by the 1918 influenza pandemic.
+Janiszewski studied mathematics in Europe and after defending his
+dissertation /Sur les Continus Irréductibles Entre Deux Points/ (1911)
+under Lebesgue’s supervision, continued visiting mathematical centers in
+Europe and attending conferences. Consequently, his meeting with the
+Lwow mathematicians Józef Puzyna and Waclaw Sierpinski at the Congress
+of Polish Scientists and Physicians in Krakow brought Janiszewski to
+Lwow where he obtained his habilitation in 1913. WWI, however,
+interrupted his plans of becoming a professor at the Lwow University and
+Janiszewski joined the Polish Legion to fight in the war. During the war
+years he came back to Lwow to substitute for Sierpinski, but was not
+able to stay due to political reasons. Zygmunt Janiszewski went on to
+become a professor at the University of Warsaw, even one of the
+Mathematics Chairs. Janiszewski continued his research working alongside
+with Stefan Mazurkiewicz and Waclaw Sierpinski. Zygmundt Janiszewski
+published several important articles in pure mathematics and is
+considered to be one the founders of the Polish Mathematics School.
+Janiszewski was instrumental in setting the direction of Polish
+mathematics at the time and establishing the journal “Fundamenta
+Mathematicae” based on the novel idea of the journal devoted to a single
+mathematical field. One cannot talk about Zygmunt Janiszewski without
+adding that he was a Polish patriot and a humanitarian whose liberal
+views were not easily shared by his colleagues.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+
+    <section  xml:id="fall-2020">
+      <title>     Fall 2020  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 10</title>
+            <p>
+              <alert>Speaker: </alert> Larry D'Antonio, Ramapo College :
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Newton and his Fudge Factors  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Newton remarked to Halley that lunar theory gave him a headache. In
+particular the calculation of the motion of the lunar apsides frustrated
+Newton (an apse is an endpoint of the major axis of the ellipse defining
+the orbit of a body). The lunar apsides rotate approximately 3 degrees
+per month, but Newton’s calculations only showed half of this amount,
+leading Newton to say that the problem was “too complicated and
+cluttered with approximations.” In this talk we will examine Newton’s
+lunar theory, his failures and successes, and his occasional use of a
+fudge factor to get the theory to align with observation. Newton’s
+biographer, Richard Westfall, once commented that “no one can manipulate
+the fudge factor as the master mathematician himself.”
+
+            </p>
+          </li>
+          <li>
+            <title>October 8</title>
+            <p>
+              <alert>Speaker: </alert> Chris Rorres, Professor Emeritus of Mathematics Drexel
+University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Olympic Starting Lines, Pistons, and Black Holes  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The overall theme of my talk is circularity. It pivots around research I
+conducted with an archaeologist to find the center of an ancient
+circular Olympic starting line. I'll begin with some history of the
+ancient and modern Olympics (hopefully next in Tokyo in 2021) and finish
+with examples of the importance of measuring the precision of circles in
+engineering (pistons, shafts, bearings, etc.) and in astronomy (event
+horizons of black holes, planetary orbits, Ptolemaic epicycles).  
+            </p>
+          </li>
+          <li>
+            <title>September 17</title>
+            <p>
+              <alert>Speaker: </alert> Laura Turner, Monmouth University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>E. V. Huntington </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In addition to publishing postulate-theoretic results directed at his
+research-oriented contemporaries, Harvard mathematician Edward V.
+Huntington (1874-1952) wrote a number of pedagogical and expository
+works in which he outlined the principles and aims of postulate theory,
+and pointed to certain roles it might serve in mathematics and well
+beyond. In this talk we explore some of these roles, focusing on his
+arguments for the pedagogical and practical value of postulate theory,
+and the reasons for which he sought to present this material to
+non-research and even non-mathematical publics in the first place. 
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2020 ">
+      <title>     Spring 2020   </title>
+<p>
+Online meetings began this semester due to the global Covid-19 pandemic.
+</p>
+      <p>
+        <dl>
+          <li>
+            <title>March 18</title>
+            <p>
+              <alert>Speaker: </alert> Ellen Abrams, Cornell University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle> Axiom Systems and American Mathematics: Which Shall Be Regarded as the
+Best? </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In the early twentieth century, researchers in the United States engaged
+with foundational studies in mathematics by building and evaluating
+axiom, otherwise known as postulate, systems. At the same time, their
+contemporaries were evaluating the meaning and politics of knowledge
+more broadly. In this talk, I explore the ways in which the study of
+postulates in the United States was tied to important Progressive Era
+questions about the nature of knowledge, the status of the knower, and
+the development of American Pragmatism. While most investigations of
+postulate studies have considered their implications within mathematical
+research and education, I look instead to the role of postulate studies
+in the professionalization of mathematics in the United States and to
+its cultural status more broadly.  
+
+            </p>
+          </li>
+          <li>
+            <title>February 20</title>
+            <p>
+              <alert>Speaker: </alert>  Dr. David Richeson, Dickinson College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Geometric Constructions Using a Compass and Marked Straightedge  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+It is impossible to trisect an arbitrary angle, to double the cube, and
+to construct every regular polygon with a compass and straightedge. But
+Archimedes showed that if a straightedge is marked so it is able to make
+one measurement, then, by using a technique called a neusis
+construction, it is possible to trisect any angle. It is also possible
+to double the cube and to construct additional regular polygons. In this
+talk, we look at the history of the neusis construction from Archimedes
+to the present day, and we discuss what additional geometric
+constructions are possible using these tools.
+
+            </p>
+          </li>
+          <li>
+            <title>January 23</title>
+            <p>
+              <alert>Speaker: </alert> Maryam Vulis, St. Johns University, NY, Norwalk
+Community College, CT:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Lvov School of Mathematics </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The Lvov School of Mathematics officially existed from 1919 to 1939,
+when the city of Lvov was part of Poland. The end of the school came
+with the 1939 annexation of Lvov to the USSR and the German occupation
+during WWII. We will discuss the works of the Polish mathematicians and
+the establishment of the Lvov School as a natural outcome of the
+development of mathematics prior to 1918, when Poland finally regained
+independence. It is often called the school of functional analysis. We
+will discuss the contributions of mathematicians who worked with Stefan
+Banach, Stanislaw Ulam, Marc Kac, Stanislaw Mazur, Hugo Steinhaus,
+Kazimierz Kuratowski. Sadly, many mathematicians from Lvov did not
+survive WWII. Research was conducted at the University, which was
+founded in 1661 and was affiliated with different countries over its
+long history. Lvov Polytechnic was also a place for mathematical studies
+Lvov School of Mathematics left invaluable legacy, and contributions
+various mathematicians are numerous.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2019">
+      <title>     Fall 2019  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 12</title>
+            <p>
+              <alert>Speaker: </alert>  Karen Parshall, University of Virginia:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Growing Research-Level Mathematics in 1930s America?: An Historical
+Paradox </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+World War I had marked a break in business as usual within the American
+mathematical research community. In its aftermath, there was a strong
+sense of entering into “a new era in the development of our science.”
+And then the stock market crashed. Would it be possible in such newly
+straitened times to sustain into the 1930s the momentum that American
+mathematicians had managed to build in the 1920s? This talk will explore
+the contours of an answer to that question.
+
+            </p>
+          </li>
+          <li>
+            <title>November 21</title>
+            <p>
+              <alert>Speaker: </alert>  Brittany Shields, University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Engineering Education for “Vital War Industries”: Mathematical
+Foundations in the US Engineering, Science and Management War Training
+Program during the Second World War </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The US Office of Education trained over 1.8 million citizens during the
+Second World War in emergency courses through the Engineering, Science
+and Management War Training Program. Spanning the duration of the war,
+the program established regional administrators to oversee the
+development and implementation of courses understood to be of vital
+importance to defense related industries. Over 200 colleges and
+universities participated in this robust program. In this talk, I will
+discuss how the mathematical sciences fit into the larger engineering
+training program with a focus on the northeastern region of the US. 
+
+            </p>
+          </li>
+          <li>
+            <title>October 24</title>
+            <p>
+              <alert>Speaker: </alert>  Shelley Costa, Swarthmore College and West Chester
+University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Exchange of Geometrical Problem-Solving in 18th- and 19th-century
+Japan  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The unique cultural traditions we associate with Japan flourished over
+the century and a half during which Japan’s borders were closed to
+foreign influence during the Edo period (1603-1867). Among the many
+practices that were refined during this period, Japanese abstract
+mathematics is not one of the most familiar. In this talk I give a
+glimpse of some powerful techniques and problem-solving conventions
+unique to Japanese mathematics, with a focus on how the ways they were
+shared were in keeping with ancient Japanese culture. In particular, I
+summarize the marvelous work done to date on historicizing the practice
+of sharing geometrical problems via wooden prayer boards — “sangaku” —
+displayed to the public at shrines and temples. In our discussion I
+bring to bear my own work on public problem-solving exchange in early
+18th-c. Europe and introduce questions about the roles of economics,
+social expectations, gender, and faith in the mathematical exchanges of
+each cultural tradition. I offer this talk shortly after having been
+privileged to spend the first six months of 2019 in Kyoto, Japan, whose
+thousands of active shrines and temples allow a wonderful ancient wisdom
+to permeate postmodern urban society. If any would like to explore this
+elegant and challenging geometry ahead of time, attached are
+reproductions of two of the more accessible problems.
+
+            </p>
+          </li>
+          <li>
+            <title>September 19</title>
+            <p>
+              <alert>Speaker: </alert> David Perry, National Security Agency:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Cracking of Enigma </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Although most people have heard of Alan Turing and his colleagues at
+Bletchley Park successfully breaking the Enigma, it is less well known
+that the Polish Cipher Bureau broke the Enigma during the 1930s, using
+the mathematics of permutations in a way that had not been
+anticipated.Because of this story, code making and codebreaking became
+the purview of mathematicians thereafter.In this talk, we provide the
+details of what Marian Rejewski and his colleagues did to crack the Enigma.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+
+    <section  xml:id="spring-2019">
+      <title>     Spring 2019  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 25</title>
+            <p>
+              <alert>Speaker: </alert> John Dawson, Professor Emeritus, Penn State University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>How Relevant Has Logic Been To Mathematical Practice?  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+For centuries mathematics has been regarded as the exemplar of rigor us
+deductive reasoning. Yet for much of its history it has not been, and
+few universities today require mathematics graduates to have had a
+course in formal logic. To what extent then have results in formal logic
+actually affected progress in mathematics? And what accounts for the
+popular view that deductive logic is central to mathematical practice?  
+
+            </p>
+          </li>
+
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2018">
+      <title>     Fall 2018  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 13</title>
+            <p>
+              <alert>Speaker: </alert> Mariya Boyko, Math Circles Instructor, Department of
+Mathematics, University of Toronto:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Soviet Mathematics Education Reforms of the 1970's and Their Aftermath </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+During the 1960's Soviet government initiated major education reform in
+USSR. Professor of Mathematics at the Moscow State University Andrei
+Kolmogorov got appointed as the head of the mathematics committee of the
+Scientific Methodological Council and got heavily involved in
+restructuring the current mathematics curriculum.He aimed to merge the
+rigorous and non-rigorous ways of mathematical thinking in the minds of
+the students.Kolmogorov introduced a collection of pedagogical
+innovations and emphasized the set theory, deductive logical approach,
+and pre-calculus in the new curriculum. These changes in the curriculum
+were influenced by trends in modern mathematical research, such as the
+emphasis on rigorous and deductive logical approach, as well as, social
+and ideological tendencies that prevailed in the Soviet society, such as
+the rise of the Socialist Competition.Soon, however, the community of
+mathematics educators discovered various shortcomings in the new
+curriculum, and the decision to conduct counter-reforms were made.We
+will discuss the intellectual, political and ideological factors that
+shaped the development of the new Soviet mathematics curriculum, analyze
+the legacy of the reforms, and explore the reasons for the decline of
+the reforms.
+
+            </p>
+          </li>
+          <li>
+            <title>November, 15</title>
+            <p>
+              <alert>Speaker: </alert>, Professor Emeritus John Dawson, Pennsylvania State
+University, York
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>
+Formal Logic </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+For centuries mathematics has been regarded as the exemplar of rigorous
+deductive reasoning.Yet for much of its history it has been, and few
+universities today require mathematics graduates to have had a course in
+formal logic. To what extent then have results in formal logic actually
+affected mathematical practice? And what accounts for popular impression
+that deductive logic is central to mathematical practice?"  
+
+            </p>
+          </li>
+          <li>
+            <title>October, 11</title>
+            <p>
+              <alert>Speaker: </alert>, Adrian Rice, Professor of Mathematics, Randolph-Macon
+College:
+Ada Lovelace: The Making of a Computer Scientist
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>
+
+Ada Lovelace is widely regarded as an early pioneer of computer science,
+due to an 1843 paper about Charles Babbage's Analytical Engine, which,
+had it been built, would have been a general-purpose computer.Her paper
+contains an account of the principles of the machine, along with a table
+often described as 'the first computer program'. However, over the
+years, there has been considerable disagreement among scholars as to her
+mathematical proficiency, with opinions ranging from 'genius' to
+'charlatan'. This talk presents an analysis of Lovelace's extant
+mathematical writings and will attempt to convey a more nuanced
+assessment of her mathematical abilities than has hitherto been the case. 
+
+September 20, 2018, Chris Rorres, Professor Emeritus, Drexel University: 
+ </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+One of the oldest and best known mathematical puzzles is Archimedes
+Cattle Problem, which was not completely solved until 1965. In this talk
+I will present the long history of this problem and its influence on
+number theory, especially on the Pell Equation. I will also be
+presenting my own thoughts on this problem together with some materials
+that I recently came across: 
+<url href="https://www.math.nyu.edu/~crorres/Archimedes/Cattle/Statement.html" visual="https://www.math.nyu.edu/~crorres/Archimedes/Cattle/Statement.html">Article website</url>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2018">
+      <title>     Spring 2018  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 19</title>
+            <p>
+              <alert>Speaker: </alert>, John Botzum of Kutztown University of Pennsylvania:/
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>
+The Phi-bonacci Sequence </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Sometimes innocent questions from students can stir long-forgotten
+memories and stimulate mathematical investigation.Last year I took over
+my wife's Discrete Mathematics course for a week.I spent much of the
+first class working out elementary induction proofs and introducing
+recurrence relations.At the end of the class, one of the students asked
+if there was a recurrence relation for the nth term of the Fibonacci
+sequence.I was in a hurry to teach a class 45 minutes away, so I
+foolishly replied that I did not think there was.On the drive to my
+other job, I recalled Binet's formula which prompted me to dig up notes
+on this subject that I had long since forgotten.This paper will discuss
+my discovery and re-discovery of the beautiful interplay between Binet's
+recurrence relation, the Golden Mean, and the Fibonnacci Sequence, as
+well as, discuss whether Binet was the first to discover the formula.
+
+            </p>
+          </li>
+          <li>
+            <title>March 15</title>
+            <p>
+              <alert>Speaker: </alert> Christopher J. Phillips , Carnegie Mellon University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The New Math and Mid-Century American Politics  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The new math changed the way Americans think about mathematics. The
+mathematicians and teachers who designed the new math—a novel curriculum
+lavishly supported by the National Science Foundation in the 1950s and
+1960s—believed they were doing more than improving computational ability
+or producing more mathematicians. The new math embodied a plan to reform
+American society by revolutionizing the way schoolchildren learned to
+think. Forged in the crucible of Cold War fears of intellectual
+inadequacy, deployed in the heyday of the liberal Great Society, and
+criticized by ascendant conservatives in the 1970s, the new math was
+fundamentally political. Debates about the math curriculum were debates
+about how to shape American citizens.
+
+            </p>
+          </li>
+          <li>
+            <title>January 18</title>
+            <p>
+              <alert>Speaker: </alert> V. Fred Rickey, Professor Emeritus, West Point Military
+Academy:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Professor Bolesław Sobociński and Logic at Notre Dame </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Bolesław Sobociński (1906–1980) received his Ph.D. in 1938 under the
+direction of Jan Łukasiewicz (1878–1960) and then served as assistant to
+Stanisław Leśniewski (1886–1939). This close contact with the two
+founders of the Warsaw School of Logic determined the course of his
+research. He played an important role in the Polish underground during
+WW II, escaped to Brussels where he worked for several years and then
+emigrated to the US. After a few years in St. Paul, MN, he joined the
+faculty at the University of Notre Dame. He founded the Notre Dame
+Journal of Formal Logic and edited it for 19 years. We will discuss his
+interesting life and make some remarks about his contributions to logic.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2017">
+      <title>     Fall 2017  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 14</title>
+            <p>
+              <alert>Speaker: </alert> Peter Freyd, University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Stable Marriage Problem </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 2012 the Nobel memorial prize ( for "economics") was awarded to Lloyd
+Shapley for work on the "stable marriage problem," specifically for the
+1962 paper with David Gale "College Admissions and the Stability of
+Marriage" published in -- of all places -- the MAA Monthly and I'm sure
+that Gale would have shared the prize if he had been alive. The paper
+was intended to be -- mostly -- a nice example of mathematics about
+something other than numbers or geometry. In 1961 Gale and I were both
+at Brown University for a good part of the summer and my talk will be
+more of an "oral history" than anything scholarly. But it is a tale I
+think worth telling.  
+
+            </p>
+          </li>
+          <li>
+            <title>November 16</title>
+            <p>
+              <alert>Speaker: </alert> Lindsay Roberts , Prince George’s Community College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>An Antebellum Algebra Textbook: Proofs, Algorithms, and Slavery  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1857 Daniel Harvey Hill, a professor at Davidson College in North
+Carolina, published a textbook titled Elements of Algebra, aimed at the
+college market. A twenty-first century mathematical reader will find in
+Hill’s book features both familiar and unfamiliar, and will gain insight
+into the state of the field at the time. Hill is comfortable with
+well-defined algorithms and symbol manipulation, but he flubs a proof
+involving the fundamental properties of prime numbers, and he treats
+imaginary numbers with trepidation. Hill, an ardent southern loyalist
+who would later serve as a general in the Confederate army, also spices
+his book with anti-Yankee sentiments and unapologetic references to
+slavery. This talk will touch on both the mathematical and ideological
+aspects of Hill’s book, comparing it with some similar books of roughly
+the same time period.  
+
+            </p>
+          </li>
+          <li>
+            <title>October 19</title>
+            <p>
+              <alert>Speaker: </alert> Laura Turner, Monmouth University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>E.V. Huntington's Postulates for the Real Numbers: a Preliminary Report  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+ In this talk, we consider five texts written by the Harvard
+mathematician Edward V. Huntington (1874-1952) and attempt to pin down
+particular mathematical values informing and exemplified within his
+work. In these texts, published in the first years of the 20th century,
+Huntington presents a number of different sets of postulates defining
+the algebra of real quantities and the underlying linear continuum. As
+we will see, these postulate sets, which initially demonstrate striking
+parsimony, ultimately reveal a pedagogically-informed classical,
+analytical perspective, expressed in the logical formulation
+characteristic of the the modernist transformation of mathematics that
+took place in the late 19th and early 20th centuries.
+
+            </p>
+          </li>
+          <li>
+            <title>September 21</title>
+            <p>
+              <alert>Speaker: </alert> Marina Vulis, Norwalk Community College and CUNY
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Saint Petersburg Academy of Sciences and Mathematics in the
+18th-19th Century Russia  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Peter the Great established the Saint Petersburg Academy of Sciences in
+1724, and after its first meeting in August of 1725 the Academy quickly
+became the center of scientific research in Russia. Mathematics
+education at the University and Gymnasium part of the Academy became
+vital for preparing research mathematicians and mathematics teachers. Of
+course, the name of the Academy immediately brings to mind Leonhard
+Euler; we however will focus on the other mathematicians who made
+important contributions to mathematics. Our discussion will also include
+the original papers from the Academy Archives on Vasievskij Ostrov.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2017">
+      <title>     Spring 2017  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 20</title>
+            <p>
+              <alert>Speaker: </alert> Amy Ackerberg-Hastings:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>John Playfair and His Misnamed Axiom  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The term "Playfair's Axiom" is a mainstay of school geometry textbooks
+as well as one of the few things many mathematicians know about John
+Playfair (1748–1819), Professor of Mathematics and then of Natural
+Philosophy at the University of Edinburgh. However, the ubiquity of the
+phrase masks considerable historical complexity. At least three
+different versions of the statement circulate among speakers of
+English—only two of which appeared in the editions of Playfair's
+Elements of Geometry—while the underlying concept dates back to Proclus.
+Additionally, the versions are not logically equivalent with each other.
+I will discuss recent research that has revealed new information about
+when and why "Playfair's Axiom" became commonplace as a label.  
+
+            </p>
+          </li>
+          <li>
+            <title>March 16</title>
+            <p>
+              <alert>Speaker: </alert> Erich H. Reck, University of California, Riverside:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Dedekind and the Structuralist Transformation of Mathematics </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In recent history and philosophy of mathematics, “structuralism" has
+become an important theme. There are two different ways in which this
+theme is typically approached: (a) by focusing on a structuralist
+methodology for mathematics (concerning the tools used, the ways in
+which various parts of mathematics are organized, etc.); (b) in terms of
+a structuralist semantics for mathematics (a conception, or several
+related conceptions, of what we talk about when we study “the natural
+numbers”, “the real numbers”, “the cyclic group with five elements",
+etc.). In this talk, I will show that Richard Dedekind’s writings from
+the nineteenth century should be seen as one of the main historical
+sources for both strands. Moreover, the two strands are intimately
+connected for him, as I will also try to establish. This will involve
+comparing his foundational work (on the natural and real numbers) with
+his contributions to algebra and number theory (his investigation of the
+notions of algebraic number, group, field, ring, lattice, etc.,
+including his famous theory of ideals). Dedekind built on the work of
+his teachers and mentors, to be sure, especially Gauss, Dirichlet, and
+Riemann. But he went significantly beyond them precisely by initiating a
+structuralist transformation of modern mathematics, one that was later
+continued by Hilbert, Noether, Bourbaki, and in category theory. Some of
+the contents of this talk appeared in Professor Reck’s article
+“Dedekind’s Contributions to the Foundations of Mathematics” in the
+Stanford Encyclopedia of Philosophy.  
+
+            </p>
+          </li>
+          <li>
+            <title>February 16</title>
+            <p>
+              <alert>Speaker: </alert> Shelley Costa, Swarthmore College and West Chester
+University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Themes on Gender and Mathematics as Expressed Through Modern Plays  </pubtitle>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2016">
+      <title>     Fall 2016  </title>
+      <p>
+        <dl>
+          <li>
+            <title>September 15</title>
+            <p>
+              <alert>Speaker: </alert> Fred Rickey, Professor Emeritus, West Point Military
+Academy:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>E228  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+How's that for the shortest title ever? How can you decide if a number
+is the sum of two squares? Euler begins with the dumbest possible
+algorithm you can think of: Take the number, subtract a square, and
+check if the remainder is a square. If not, repeat, repeat, repeat. But
+Euler, being Euler, finds a way of converting all those subtractions
+into additions. He applies this to 1,000,009, and---in less than a
+page---finds that there are two ways to express this as a sum of
+squares. Hence, by earlier work in E228, it is not a prime. Amusingly,
+when he later described how to prepare a table of primes ``ad millionem
+et ultra'' (E467), he includes this number as prime. So he then feels
+obliged to write another paper, E699, using another refinement of his
+method, to show that 1,000,009 is not prime.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2016">
+      <title>     Spring 2016  </title>
+      <p>
+        <dl>
+          <li>
+            <title>February 18</title>
+            <p>
+              <alert>Speaker: </alert> Lawrence D’Antonio, Ramapo College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>When Mathematicians were Rock Stars: the Academies of Science in the
+18th Century  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+During the Enlightenment, the university was not the primary center of
+intellectual activity. Instead, the major institutions for mathematics
+and natural philosophy were the Academies of Science. The Paris, Berlin,
+St. Petersburg Academies of Science and the Royal Society of London
+sponsored research, gave academy members opportunities to present their
+research in oral and written form, and encouraged communication among
+the prominent scholars during the Enlightenment. The duty of the
+scientific academies was to drive out superstition and ignorance by
+establishing secure knowledge, of which mathematics is the most perfect
+model. Mathematicians played central roles, both intellectual and
+political, in these Academies.  
+
+            </p>
+          </li>
+          <li>
+            <title>January 21</title>
+            <p>
+              <alert>Speaker: </alert> Chris Rorres, Drexel University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Law of the Lever: Archimedes vs. Mach </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Over a century ago Ernst Mach, the famous Austrian physicist and
+philosopher of science, wrote a blistering criticism of Archimedes'
+celebrated proof of the Law of the Lever. Mach accused Archimedes of
+overusing his "Grecian mania for demonstration" and succeeding in his
+proof only "by the help of the very proposition he sought to prove". His
+attack drew the expected objections from many historians and
+philosophers of science who, in turn, accused Mach of not understanding
+the subtleties of Archimedes' proof. I will give my own interpretation
+of this controversy from a mathematician’s point of view, concluding
+with my belief that, while Archimedes did indeed prove something, it can
+hardly be called a proof of the Law of the Lever. 
+
+</p>
+<p>
+
+
+<url href="https://math.nyu.edu/~crorres/Archimedes/Lever/LeverIntro.html" visual="https://math.nyu.edu/~crorres/Archimedes/Lever/LeverIntro.html">Article website</url>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2015">
+      <title>     Fall 2015  </title>
+      <p>
+        <dl>
+          <li>
+            <title>November 19</title>
+            <p>
+              <alert>Speaker: </alert> John Bukowski, Juniata College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Christiaan Huygens Solves the Problem of the Hanging Chain – Again! </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1646 the 17-year-old Christiaan Huygens proved that the hanging chain
+did not take the shape of a parabola, as was commonly thought at the
+time. Forty-four years later, no one had yet described the actual shape
+of the chain, so Jakob Bernoulli posed the problem publicly in 1690.
+Huygens then studied several aspects of this curve, which he called the
+catenary, and published them in a short article one year later. We will
+quickly review the earlier work of Huygens and concentrate on the work
+from his notebooks in 1691. This talk is a continuation of the story
+begun at PASHoM in April 2009, although attendance at that talk is not a
+prerequisite for this one.
+
+            </p>
+          </li>
+          <li>
+            <title>October 5</title>
+            <p>
+              <alert>Speaker: </alert> (Monday!) Robin Wilson, Open University, UK:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>A Century of Graph Theory </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+This talk covers the period from around 1890, when graph theory was
+mainly a collection of isolated results, to the 1990s when it had become
+part of mainstream mathematics. Among many other topics it includes
+material on the four-colour problem, trees, graph structure, and graph
+algorithms. No particular knowledge of graph theory is assumed.  
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2015">
+      <title>     Spring 2015  </title>
+      <p>
+        <dl>
+          <li>
+            <title>March 19</title>
+            <p>
+              <alert>Speaker: </alert>: Robert Naugle, Shepherd University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Archimedes, Codex C, "The Method of Mechanical Theorem" : Controversy  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The only extant copy of "The Method of Mechanical Theorems" in the
+original Greek has been known to exist in Codex C since Johan Ludvig
+Heiberg (1854-1928) examined it at the turn of the 20th Century. Heiberg
+succeeded in deciphering most of its contents using light, a magnifying
+glass and a camera. Proposition 14, determining the planar cut of a
+cylinder encased in a cube, a "hoof", had a large gap hidden from
+Heiberg in the gutter of Codex C. Heiberg wrote in Latin that "I shall
+not speculate as to what could have been written in such a large gap."
+This gap was exposed by unbinding and modern imaging during the recovery
+of the Archimedes palimpset after its sale to a private buyer in 1998.
+Dr. Reviel Netz, a Classics scholar at Stanford who is fluent in the
+Doric dialect of Archimedes and who was at the time completing an
+extensive translation and commentary of Archimedes mathematics was
+called in to consult after the codex was unbound. Dr. Netz subsequently
+claimed that information hidden in the gutter of Codex C suggests that
+Archimedes had considered a 19th century concept of infinity (actual,
+completed infinity) in Proposition 14 of The Method. We will use this as
+motivation for examining The Method through Proposition 1 in which
+Archimedes shows Eratosthenes his heuristic method of realizing that the
+area of a circumscribing parabola is 4/3 that of the triangle it
+encloses and move to Proposition 14, show the rudiments of The Method
+applied again and the Doric Greek hidden in the gutter that led Netz to
+make his claim. 
+
+            </p>
+          </li>
+          <li>
+            <title>February 19</title>
+            <p>
+              <alert>Speaker: </alert>, Robert Bradley, Adelphi University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>L’Hôpital’s Synthesis of Calculus and Geometry  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Guillaume François Antoine, the Marquis de l’Hôpital, wrote the first
+differential calculus textbook, which he published in 1696. Leibniz’
+calculus, which the Marquis had learned from Johann Bernoulli, was at
+this time a calculus of algebraic functions only. Nevertheless, by
+combining the techniques of the new calculus with methods of Euclidean
+geometry, Leibniz and the Bernoullis were able to investigate the
+properties of wide a variety of transcendental curves, including the
+cycloid, the quadratrix, and various spirals. Through his groundbreaking
+textbook, the Marquis de l’Hôpital shared these new methods with the
+French mathematical community. In this talk, I will describe l’Hôpital’s
+calculus, providing a variety of examples drawn from my forthcoming
+translation of Analyse des infiniment petits, a joint project with Sal
+Petrilli and Ed Sandifer. 
+
+            </p>
+          </li>
+          <li>
+            <title>January 22</title>
+            <p>
+              <alert>Speaker: </alert>, William Noel, University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>EUREKA! The Archimedes Palimpsest </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The Archimedes Palimpsest, a 10th century manuscript, is the unique
+source for two of Archimedes treatises, The Method and Stomachion, and
+it is the unique source for the Greek text of ON Floating Bodies. All
+these texts were erased in the thirteenth century, and written over. In
+private hands throughout much of the 20th century, the manuscript was
+sold at auction to a private collector in 1998, and subsequently
+deposited at The Walters Art Museum in Baltimore, Maryland by the owner
+a few months later. Since that date the manuscript has been the subject
+of conservation, imaging, and scholarship. Entirely new texts from the
+ancient world have been discovered, and transcribed, using many
+different imaging techniques, including X ray flourescence imaging at
+SLAC. This lecture will describe the history of the Palimpsest, its
+imaging, and the recent discoveries. 
+
+            </p>
+          </li>
+
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2014">
+      <title>     Fall 2014  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 4</title>
+            <p>
+              <alert>Speaker: </alert>, Stephanie Dick, Junior Fellow Harvard Society of
+Fellows, Harvard University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>After Math: Following Mathemetics into the Digital Age </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The advent of modern digital computing in the mid-twentieth century
+precipitated many transformations in the practices of mathematical
+knowledge production. However, early computing practitioners throughout
+the United States subscribed to complicated and conflicting visions of
+just how much the computer could contribute to mathematics - each
+suggesting a different division of mathematical labor between humans and
+computers and a hierarchization of the tasks involved. Some imagined
+computers as mere plodding "slaves" who would take over tedious and
+mechanical elements of mathemtical research. Others imagined them more
+generously as "mentors" or "collaborators" that could offer novel
+insight and direction to human mathematicians. Still others believed
+that computers would eventually become autonomous agents of mathematical
+reasearch. And computing communities did not simply narrativize the
+potential of the computer differently; they also built those different
+visions right in to computer programs that enabled new ways of doing
+mathematics with computers. With a focus on communities based in the
+United States in the second half of the twentieth century, this talk
+will explore different visions of the computer as a mathematical agent,
+the software that was crafted to animate those imaginings, and the
+communities and practices of mathematical knowledge-making that emerged
+in tandem. 
+
+            </p>
+          </li>
+          <li>
+            <title>November 20</title>
+            <p>
+              <alert>Speaker: </alert>, Shelley Costa, Swarthmore College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Ladies' Diary: Society, Gender and Mathematics in early 18th-c.
+England </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Some of you may be familiar with my work on the Ladies' Diary, an 18th-
+and 19th-c. British annual periodical that contained advanced
+mathematical problems (see esp. Osiris, 2002). Most of the research
+contained in my PhD dissertation (Cornell Univ., 2000) has remained
+unpublished. In this talk I will outline the historical perspectives
+that informed my approach to this material and report on my present
+experience of newly revising it for publication nearly 15 years on. From
+Anne’s reign to Victoria’s, the Ladies’ Diary or Woman’s Almanack hosted
+an annual mathematical exchange among an enthusiastic readership of men
+and women. In the dissertation I analyze the social structures that
+shaped the Diary’s first fifty years, including a feverishly consumerist
+print culture, genteel expectations of femininity, and the
+mathematization of early industrial technology. 
+
+            </p>
+          </li>
+          <li>
+            <title>October 23</title>
+            <p>
+              <alert>Speaker: </alert>, Victor Katz, University of District of Columbia
+retired (author of "A History of Mathematics, An Introduction"):
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Recreational Problems in Medieval Mathematics </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Recreational problems have been a fixture in mathematics problem solving
+from antiquity. it has long been known that the same problems reappear
+in cultures all over the world - from ancient Egypt and Babylonia
+through Greece, medieval China and India, and on into medieval Europe
+and the Renaissance, as well as into modern times. What is surprising,
+perhaps, is that often the exact same problems reappear, even with the
+same numerical values, in cultures separated by many years and many
+miles. We frequently have no idea of the paths these problems took in
+moving from civilization to civilization. In this talk, we will look at
+some appearances of two of these classic recreational problem types and
+see how different people at different times solved them. Perhaps we can
+also gain some insight into the methods of travel of these problems. 
+
+            </p>
+          </li>
+          <li>
+            <title>September 18</title>
+            <p>
+              <alert>Speaker: </alert>, Peggy Kidwell, Smithsonian Institute:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Handheld Electronic Calculators Enter American Life </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+This talk explores the history of the handheld electronic calculator in
+American culture, as suggested by an ongoing examination of surviving
+examples in the collections of the Smithsonian Institution. During the
+first half of the 1970s, with the advent of inexpensive microprocessors,
+the electronic calculator became a commonplace. Arithmetic, which had
+been regarded by nineteenth century mathematicians such as Frederick P.
+Barnard of Columbia University as "toil of pure intelligence," could be
+performed routinely by instruments that cost only a few dollars. In the
+1980s, with the advent of programming graphing caluclators, the new
+technology attracted the attention of college and university mathematics
+teachers, and inspired discussions of curriculum reform. 
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2014">
+      <title>     Spring 2014  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 24</title>
+            <p>
+              <alert>Speaker: </alert>, Shelley Costa, Swarthmore College, West Chester University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Theory of Differences: How and why the most famous science writer in
+19th-century England could not get her mathematical textbook published </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Mary Fairfax Somerville's writings on mathematics and science made her a
+household name in Victorian England. Her most well-known work was
+Mechanism of the Heavens (1831), a highly valued exposition of Laplace.
+While most of her titles were popular expositions, her book on Physical
+Geography was used as a standard textbook until the 20th century. Her
+publisher treated her with great deference and her influential writings
+led her to receive an annual pension from the British government from
+1835 until her death in 1872. Yet Mary Somerville could not get her
+favorite project, a mathematical textbook on the calculus of variations,
+published. Why??? In answering this question, I will explore the concept
+of originality in mathematics (and in publishing), and how class and
+gender might have played a role. The talk will summarize my research on
+the manuscript and the correspondence between her and her publisher, and
+how I was led to this topic as part of researching a project currently
+under contract with Johns Hopkins University Press: The Material of
+Intellect: A Historical Sourcebook on Women and Mathematics, 1500-1900. 
+
+            </p>
+          </li>
+          <li>
+            <title>March 20</title>
+            <p>
+              <alert>Speaker: </alert>. V Frederick Rickey, The United States Military Academy
+at West Point:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Washington and Mathematics </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+There are many interesting things in the cyphering books that George
+Washington compiled as a teenager: His study of decimal arithmetic is
+straightforward, but understanding some of the errors he made can be
+fun. He had a technique for partitioning a plot of land into two equal
+pieces, bit it was wrong---and so was his source. Some things are hard
+to understand for time has passed them by. For example, his pre-Eulerian
+trigonometry is a mystery today, so we shall elucidate it. We shall
+present some pages of the cyphering books that the Library of Congress
+did not digitize because they were at Cornell, Dartmouth and the
+Historical Society of Pennsylvania.  
+
+            </p>
+          </li>
+          <li>
+            <title>February 20</title>
+            <p>
+              <alert>Speaker: </alert>. Paul Wolfson, West Chester University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Planetary Orbits and the Calculus Controversy </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The conflict between the Newtonians and the Leibnizians is often
+portrayed as a dispute over priority for the invention of the calculus.
+It was that, but it was much more, since the participants differed on
+matters of substance concerning theology, natural philosophy, and
+mathematics. The first and second editions of Newton’s Principia were
+published during this protracted conflict. By examining a few
+propositions about orbits and some continental reactions to them we can
+infer some of the differences between the two schools concerning
+mathematical methods and values.
+
+            </p>
+          </li>
+          <li>
+            <title>January 23</title>
+            <p>
+              <alert>Speaker: </alert> Nicholas Scoville, Ursinus College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Topology and its History: Must There Be a Separation? </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+A first course in point-set topology tends to not only be divorced from
+history, but also divorced from any other branch of mathematics in the
+minds of many students. This makes continued motivation of new
+topological concepts difficult. In contrast, the historical development
+of certain concepts provides automatic motivation and places the concept
+in its larger mathematical context. In this talk, we will outline a
+preliminary list of topics which trace the evolution of connectedness.
+Beginning with Cantor and a problem of Fourier series, we investigate
+the contributions of Jordan and Schoenflies, culminating in the current
+definition first given by Lennes. We share pedagogical suggestions to
+connect the thought of these mathematicians to build a coherent
+narrative which teaches some of the main properties of connectedness
+through part of its historical development.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2013">
+      <title>     Fall 2013  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 12</title>
+            <p>
+              <alert>Speaker: </alert>. Amy Ackerberg-Hastings, Smithsonian Institute:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Themes Observed and Lessons Learned in the NMAH Mathematics Collections </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+For over a decade, the Smithsonian Institution has gradually been
+digitizing catalog records for its 137 million objects and making them
+available to the public viahttp://collections.si.edu. More recently,
+staff members at the Smithsonian's National Museum of American History
+(NMAH) have been organizing object records into groups and posting them
+as mini-exhibits at
+http://americanhistory.si.edu/collections/object-groups. Thanks to the
+generosity of slide rule collectors Ed and Diane Straker, I have been
+able to assist with both efforts for the past 27 months. This talk will
+provide a tour of the resources available on these websites,
+particularly as they relate to mathematics. Since my appointment is
+winding down, I will also utilize this opportunity to reflect on how we
+might better understand the history of mathematics by looking closely at
+object groups. These groups include slide rules, planimeters, sectors,
+protractors, dividers and drawing compasses, scale rules, parallel
+rules, and sets of drawing instruments—in all, over 650 objects and
+related documentation from the NMAH mathematics collections. [This is a
+completely different talk from my presentation at the AMS Eastern
+Section Meeting at Temple University in October.] 
+
+            </p>
+          </li>
+          <li>
+            <title>November 21</title>
+            <p>
+              <alert>Speaker: </alert>. David Leep, University of Kentucky, Lexington 
+            </p>
+          </li>
+          <li>
+            <title>October 10</title>
+            <p>
+              <alert>Speaker: </alert>. David Zitarelli, Temple University
+            </p>
+          </li>
+          <li>
+            <title>September 19</title>
+            <p>
+              <alert>Speaker: </alert>. Peggy Kidwell, Smithsonian Institute:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Toys for Drawing Figures: The Polygraph to the Spirograph </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+From the late nineteenth century, Americans have made and sold special
+forms of drawing instruments for recreational use. Drawing instruments –
+unlike playing cards, tangrams, the fifteen puzzle and dissections –
+were initially made as useful tools for architects, navigators,
+engineers and craftsmen. A few manufacturers offered special designs for
+entertainment. Mathematicians and mathematics educators occasionally
+took an interest in these toys, both as inspiration for research and as
+classroom novelties. Instruments for drawing geometric figures, sold as
+the polygraph, the Wondergraph, the Hoot Nanny, and, most successfully,
+the Spirograph, merit particular attention. Versions of the pantograph,
+a machine for enlarging and reducing figures, also deserve brief mention. 
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2013">
+      <title>     Spring 2013  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 18</title>
+            <p>
+              <alert>Speaker: </alert>. David Lindsay Roberts, Prince George's Community
+College 
+            </p>
+          </li>
+          <li>
+            <title>March 14</title>
+            <p>
+              <alert>Speaker: </alert>. Tom Drucker, University of Wisconsin, Whitewater
+            </p>
+          </li>
+          <li>
+            <title>February 14</title>
+            <p>
+              <alert>Speaker: </alert> Chris Rorres
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>
+Correcting an Error in Book I of Archimedes' "On Floating Bodies" </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Archimedes is credited with quantifying the concept of the center of
+gravity of an object and in his works he determined the locations of the
+centers of gravity of many planar and solid bodies. His calculations,
+however, implicitly assumed that the body was immersed in a uniform
+gravitational field, so he was actually determining the location of the
+body's center of mass (or centroid). He did not realize that the concept
+of a center of gravity is not applicable in a nonuniform gravitational
+field, a fact that many are not aware of even today. This led to his
+incorrectly proving an erroneous theorem at the end of Book 1 of his
+work "On Floating Bodies". His theorem states that a truncated sphere
+floating in a body of water on a spherical earth that attracts objects
+to its center will float stably with its base horizontally under very
+general conditions. I'll discuss his error and suggest an alternate
+proof of a similar correct result. 
+
+</p>
+<p>
+
+
+<url href="https://www.math.nyu.edu/~crorres/Archimedes/Floating/floating.html" visual="https://www.math.nyu.edu/~crorres/Archimedes/Floating/floating.html">Article website</url>
+
+            </p>
+          </li>
+          <li>
+            <title>January 17</title>
+            <p>
+              <alert>Speaker: </alert>William Huber, Haverford College
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2012">
+      <title>     Fall 2012 
+<mdash/> Alan Gluchoff takes over  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 13</title>
+            <p>
+              <alert>Speaker: </alert>. Steve Weintraub, Lehigh University
+            </p>
+          </li>
+          <li>
+            <title>November 15</title>
+            <p>
+              <alert>Speaker: </alert>. Amy Shell-Gellasch, Hood College
+            </p>
+          </li>
+          <li>
+            <title>October 25</title>
+            <p>
+              <alert>Speaker: </alert> William Dunham, Muhlenberg College :
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Heron, Newton, Euler, and Barney </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Heron's formula, giving the area of a triangle in terms of the lengths
+of its sides, is one of the great, peculiar results of plane geometry.
+It is thus to be expected that, over the years, there have been multiple
+demonstrations of this remarkable formula. Here, I consider four such
+proofs. Heron's original was a clever if convoluted exercise in
+Euclidean geometry. Centuries later, Isaac Newton gave a demonstration
+whose heavy lifting was done by algebra rather than geometry. Leonhard
+Euler’s proof was geometric and exhibited his characteristic flair. Then
+in 1990 Barney Oliver, a former recipient of the National Medal of
+Science, shared with me an elegant trigonometric argument where the
+symmetry of the formula was mirrored by the symmetry of the proof
+itself. The first two of these – Heron’s and Newton’s – I’ll mention
+only briefly. The second pair – Euler’s and Barney’s – I'll prove in
+detail. Taken together, these should remind us why the history of our
+discipline is such a fine source for wonderful mathematics.  
+
+            </p>
+          </li>
+          <li>
+            <title>September 20</title>
+            <p>
+              <alert>Speaker: </alert>. David Richeson, Dickinson College
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2012">
+      <title>     Spring 2012 <mdash/> Tom Bartlow retires leadership </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 19</title>
+            <p>
+              <alert>Speaker: </alert> Francine F. Abeles, Kean University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Hypotheticals, Conditionals, and Implication in Nineteenth Century Britain </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Modern logicians ordinarily do not distinguish between the terms
+hypothetical and conditional. Yet in the late nineteenth century their
+meanings were quite different.and their tie to implication unclear. In
+this paper, I will explore the views of four prominent British logicians
+of the period, W. E. Johnson, J.N. Keynes, H. MacColl, and J. Venn on
+these issues.
+
+            </p>
+          </li>
+          <li>
+            <title>March 22</title>
+            <p>
+              <alert>Speaker: </alert> Robert E. Bradley, Adelphi University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Origins and Contents of de l’Hôpital’s Analyse </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Guillaume François Antoine de l’Hôpital’s /Analyse des infiniment
+petits/ (1696) was the first ever calculus textbook. It was also
+something of an enigma. For one thing, it was published anonymously,
+although de L’Hôpital’s authorship was no secret. Also, it made no
+mention of the integral calculus: instead, its introduction to the
+differential calculus was followed by what can only be described as an
+advanced text on differential geometry, motivated by what were then
+cutting-edge problems in mechanics and optics. However, the oddest
+aspect of this book is its genesis. The introductory chapters were based
+on Johann Bernoulli’s /Lectiones de calculo differentialium/, lessons
+that only ever existed in manuscript form and were unknown to the
+scholarly community until 1921. De l’Hôpital received his copy when he
+hired Bernoulli to tutor him in 1691-92. Subsequently, he “purchased”
+the advanced material of the later chapters, in an arrangement under
+which he supported Bernoulli with a stipend in 1694-95. In this talk, we
+will consider both the mathematics that was presented in the Analyse and
+the process by which in came into being. We will compare de l’Hôpital’s
+exposition of the elements of the differential calculus with that of
+Bernoulli and examine some of the more advanced results presented in the
+Analyse.
+
+            </p>
+          </li>
+          <li>
+            <title>February 16</title>
+            <p>
+              <alert>Speaker: </alert> Marina Vulis , Fordham University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Tales of Nineteenth Century Russian Mathematics </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The Moscow Mathematical Society, which grew out of a math circle, had
+its first meeting on September 27, 1864. It was founded with the purpose
+of promoting mathematical sciences in Russia. In few years, it started
+the publication of the “Mathematichekij Sbornik,” the first Russian
+Mathematics Journal. The Moscow Society reflected the philosophy of the
+Moscow School of Mathematics which rejected the importance of applied
+mathematics and emphasized mysticism and spirituality, whereas the St.
+Petersburg School of Mathematics, influenced by the French school, saw
+the importance of practical applications in development of mathematical
+ideas.  
+
+            </p>
+          </li>
+          <li>
+            <title>January 19</title>
+            <p>
+              <alert>Speaker: </alert>. Thomas L. Bartlow, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>A Tentative Look at American Postulate Theory </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+American postulate theory is the body of work of several American
+mathematicians in the first few decades of the twentieth century,
+concerned with studying the structure of established mathematical
+theories by examining fundamental assumptions. They examined alternative
+postulational formulations and considered desirable features of a
+postulate system: consistency, independence, completeness, categoricity,
+brevity. John Corcoran, “On Definitional Equivalence and Related
+Topics,” History of Symbolic Logic 1 (1980), 231—234, introduced the
+term “American postulate theory,” identified some of its practitioners
+and suggested a need for historical study of their work. Michael Scanlan
+“Who Were the American Postulate Theorists?,” The Journal of Symbolic
+Logic 56 (1991), 981—1002 and “American Postulate Theorists and Alfred
+Tarski,”History and Philosophy of Logic 24 (2003), 307-325 identified
+others, compared two American postulate theorists to European
+contemporaries, and analyzed their influence on mathematical logicians.
+I will undertake a broader review, attempting at least partial answers
+to the following questions: Who contributed to American Postulate
+Theory? What were the characteristics of their research? Who or what
+influenced them? Were there mutual influences or rivalries among them?
+What influence did they have on other lines of mathematical research?
+Did a theory of postulation develop? 
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2011">
+      <title>     Fall 2011  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 8</title>
+            <p>
+              <alert>Speaker: </alert> Brittany Shields of the University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Architecture of Mathematical Institutes: A Comparative Study of
+Göttingen and NYU’s Mathematical Institutes under the Leadership of
+Richard Courant </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In this study of the cultural history of mathematics, I consider the
+architecture of mathematical institutes as historical artifacts. The
+buildings in which mathematical research and teaching take place offer
+incredible insight into the work practices, as well as social and
+cultural identities, of the mathematicians who inhabit these spaces. As
+a case study, I consider the career of the mathematician Richard Courant
+(1888-1972), who served as director during the construction of two
+world-class mathematical institutes – the first, in the late 1920s at
+the University of Göttingen (where he was exiled in 1933), and then in
+the 1960s at New York University. In both cases, I consider the
+buildings’ planning, development, construction, and habitation
+processes, examining blueprints, committee meeting minutes, and
+correspondence between the mathematicians, university administrators,
+government officials and philanthropy representatives. Ultimately, I
+hope to explore how the built environment mattered to those whose work
+required a certain type of private workspace, desk, and chalkboard
+–situated in the right relationship to shared workspaces, a mathematics
+library, classrooms, and other scientific departments. What can the
+physical environment of mathematical institutes tell the historian about
+the work practices and social identities of mathematicians?
+
+            </p>
+          </li>
+          <li>
+            <title>November 17</title>
+            <p>
+              <alert>Speaker: </alert> Chris Rorres, University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Turn of the Screw: The History and Optimal Design of an Archimedes
+Screw </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The Archimedes Screw is one of the oldest machines still in use today.
+It is now enjoying renewed popularity because of its proven trouble-free
+design, its ability to lift wastewater and debris-laden water
+effectively, and its gentle treatment of aquatic life. Within the last
+decade it has also found a new application in the generation of
+electricity by being run backwards. In this presentation I will give a
+history of this device from Archimedes' time (3rd century BC) to the
+present day and also discuss my past and proposed research on the design
+of the Screw that maximizes the amount of water lifted or lowered in
+each turn of the screw. 
+
+</p>
+<p>
+<url href="https://www.math.nyu.edu/~crorres/Archimedes/Screw/SourcesScrew.html" visual="https://www.math.nyu.edu/~crorres/Archimedes/Screw/SourcesScrew.html">Article website</url>
+            </p>
+          </li>
+          <li>
+            <title>October 20</title>
+            <p>
+              <alert>Speaker: </alert> Patricia Allaire, Queensborough Community College, City
+University of New York:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Yours truly, D. F. Gregory </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Duncan F. Gregory (1813-1844) was a proponent of the Calculus of
+Operations and a founding editor of the /Cambridge Mathematical
+Journal/. Extant is a series of six letters that Gregory wrote to a
+friend in 1839. This correspondence provides a glimpse into life at
+early-Victorian Cambridge, reveals something of the character of Gregory
+and his dedication to the /CMJ/, and shows some of the mathematical
+problems he pondered.In this talk, we will look briefly at Cambridge,
+Gregory and the /CMJ/, and will examine several of the problems.
+
+            </p>
+          </li>
+          <li>
+            <title>September 15</title>
+            <p>
+              <alert>Speaker: </alert> V. Frederick Rickey, United States Military Academy:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Polish Logic from Warsaw to Dublin: The Life and Work of Jan Lukasiewicz  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+A few years after earning his Ph.D. in Lwow under Twardowski, Jan
+Lukasiewicz (1878-1956) joined the faculty of the newly reopened
+University of Warsaw where he became, along with Lesniewski and his
+student Tarski, one of the founders of the Warsaw School of Logic. He
+did seminal research in many-valued logics, propositional calculi, modal
+logic, and the history of logic, especially concerning Aristotle's
+syllogistic. He left Warsaw toward the end of World War II and found a
+new home at the Royal Irish Academy in Dublin where he continued his
+creative work.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2011">
+      <title>     Spring 2011  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 14</title>
+            <p>
+              <alert>Speaker: </alert> David Zitarelli,Temple University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>David Hilbert's American Colony </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+No, David Hilbert never crossed the Atlantic. Yet at Gottingen he
+produced an outstanding cadre of American doctoral students who played
+important roles in the development of mathematics in the U.S. during the
+first half of the twentieth century. In this talk we describe the life
+and careers of those mathematicians who obtained doctorates under
+Hilbert 1899-1910, emphasizing the critical role they played in what was
+then the southwestern part of the country, particularly at the
+University of Missouri. We end by comparing the schools of American
+students produced by Felix Klein, Sophus Lie, and David Hilbert
+
+            </p>
+          </li>
+          <li>
+            <title>March 17</title>
+            <p>
+              <alert>Speaker: </alert> Florence Fasanelli, American Association for the
+Advancement of Science:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Andrew Ellicott: Surveyor, Town Planner, Mentor, Teacher </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Since ancient times conquerors have sent mathematicians out to survey
+what has been taken. Andrew Ellicott (1754-1820), surveyor and
+mathematician, had a profound impact on the shape of this country (and
+opined about what had been taken), establishing boundaries of states and
+cities as well as its international boundaries both north and south. In
+1785 he set the boundary of western Pennsylvania and in 1791 surveyed
+the territory now known as the District of Columbia which was my first
+motivation in studying Ellicott. In 1796, he surveyed the international
+border between the U.S. and Spanish territories in Florida under the San
+Lorenzo Treaty. In 1817, he was appointed astronomer for the United
+States establishing the boundary between the US and Canada concluding
+the War of 1812. As a teacher his most famous student was Meriwether
+Lewis (a second motivation) who needed field instruction before Lewis
+and Clark's great expedition to the west. In 1813, he was appointed by
+President Monroe as a professor of mathematics at the Military Academy
+at West Point where he was among the first in the country who taught a
+class in calculus (a third motivation). I will speak somewhat briefly
+about each of these events.
+
+            </p>
+          </li>
+          <li>
+            <title>February 17</title>
+            <p>
+              <alert>Speaker: </alert> Alan Gluchoff, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Status (“Respect”) in Mathematics: The Case of Nomography </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Nomography can be defined as the study and preparation of graphical
+representations of mathematical equations. These representations usually
+take the form of charts or diagrams from which the values of certain
+variables in the relation can be read once others have been given. The
+subject has a history which goes back several centuries and is closely
+tied with engineering applications. It was organized as a body of
+knowledge by Maurice d’Ocagne, a French engineer, at the turn of the
+twentieth century. Nomography then spread to other countries, including
+America, in later years, where it became of use to engineers and
+scientists, and of interest to mathematicians. From an American
+Nomography text of 1947 used at MIT comes the following quote: “The
+theory of the nomgraphic chart cannot be dismissed as a simple topic.
+Mathematicians who do so are unaware that a complete treatment of the
+subject draws on every aspect of analytic, descriptive, and projective
+geometries, the several fields of algebra, and other mathematical
+fields. This suggests a conflict over the status of nomography as a
+mathematical area: how deep is the mathematics of this subject? Is it
+more than just a set of techniques for drawing charts? Can nomography
+give rise to problems of genuine mathematical interest? We will examine
+these questions as they presented themselves to American mathematicians
+of the era 1900-1950 and give examples of the connections between
+nomography and: elementary properties of determinants, the duality
+principle of projective geometry, classification problems in elementary
+algebraic forms, finding roots of real polynomials, simple partial
+differential equations, cubic curves, and Hilbert’s thirteenth problem
+(number of examples to be limited by time constraints). An attempt will
+be made to determine how American mathematicians of this era felt about
+the mathematical status of nomography.
+
+            </p>
+          </li>
+          <li>
+            <title>January 20</title>
+            <p>
+              <alert>Speaker: </alert> Eugene Boman, Pennsylvania State University, Harrisburg
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Benjamin Robins' 'Treatise on Fluxions': An Early Response to Berkeley </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1734 Bishop George Berkeley published "The Analyst; or A Discourse
+Addressed to an Infidel Mathematician," wherein he, quite famously and
+in some cases correctly, criticized Newton's Doctrine of Fluxions.
+Maclaurin's 1742 book "The Elements of the Method at Fluxions" is
+usually taken to be the definitive Newtonian response to Berkeley. But
+there were earlier attempts to clarify and/or rigorize Newton. One was
+Benjamin Robins' "Treatise on Fluxions" published only one year after
+Berkeley. In his introduction Robins explains his purpose , "For though
+Sir Isaac Newton has very distinctly explained... these subjects... yet
+as the great author's great brevity has made a more diffusive
+illustration not altogeher unnecessary; (1) have here endeavored to
+consider more at large each of these methods; whereby, I hope, it will
+appear that they have all the accuracy of the strictest mathematical
+demonstration That is, Robins presents his text as simply " filling in
+the blanks" left by Newton. I will examine some key theorems/proofs from
+Robins' text.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2010">
+      <title>     Fall 2010  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 9</title>
+            <p>
+              <alert>Speaker: </alert> Paul Wolfson of West Chester University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Geometry of Relativistic Velocities </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Almost immediately after Einstein published his first paper on
+relativity in 1905, others reworked some of his arguments in a more
+geometrical language. Minkowski's was, of course, the broadest and most
+successful effort, but beginning in 1909, Sommerfeld and Varicak
+developed a geometric representation of relativistic velocities. In this
+talk I shall discuss these developments and explain the setting in which
+Felix Klein unified them.
+
+            </p>
+          </li>
+          <li>
+            <title>November 18</title>
+            <p>
+              <alert>Speaker: </alert> J. W. Dawson,  Pennsylvania State University, York:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Role of Alternative Proofs in Mathematical Practice </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+I will consider expanding my article "Why do mathematicians re-prove
+theorems?" into a book-length study of the roles that new proofs of old
+theorems play in mathematical practice. I will consider alternative
+proofs of various well-known theorems (the fundamental theorems of
+arithmetic and algebra, the infinitude of the primes, the Pythagorean
+theorem, the law of quadratic reciprocity, the prime number theorem,
+etc.) and solicit suggestions for further examples to study.
+
+            </p>
+          </li>
+          <li>
+            <title>October 21</title>
+            <p>
+              <alert>Speaker: </alert> Betty Mayfield of Hood College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Women, Mathematics, Euler and Undergraduates </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+What happens when two faculty members and four undergraduates spend the
+summer researching Women and Mathematics in the Time of Euler? In 2007,
+my colleague Kimber Tysdal and I did just that. I will describe our
+experienceand what we learned.
+
+            </p>
+          </li>
+          <li>
+            <title>September 16</title>
+            <p>
+              <alert>Speaker: </alert>  Karen Parshall, University of Virginia:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Algebra: Creating New Mathematical Entities in Victorian Britain </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Analytic geometry and mathematical physics may have interested a
+majority of mathematicians in Victorian Britain, but algebra also served
+to focus their mathematical attention.In the century’s first half,
+algebraic work centered on the development of the so-called “symbolical
+algebra” and the creation of new algebras, while in its second, the
+theory of invariants dominated and the theory of groups witnessed key
+developments.Underlying much of this research was the philosophical
+question of how free mathematicians were to create new mathematical
+entities.The Victorian British response to that question was ultimately,
+“quite."
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2010">
+      <title>     Spring 2010  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 15</title>
+            <p>
+              <alert>Speaker: </alert> Alan Gluchoff, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Introduction and Spread of Nomography in America, 1900-1950 </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Nomography can be roughly defined as the theory and methods by which
+numerical evaluation of ordinary functional relations can be
+accomplished geometrically. (The slide rule is a simple example of one
+such method.)It was established as a mathematical discipline in 1899 by
+Maurice d'Ocagne (1862-1938), an accomplished French engineer who
+synthesized earlier work on this subject. His 1899 volume "Traite de
+Nomographie" is a systematic development of the construction and use of
+what came to be called nomograms (variously called charts, alignment
+diagrams, intersection diagrams, or abaques) for use in computations in
+diverse engineering disciplines. While the use of nomograms to aid in
+calculation became widespread in Europe in the following years, the
+mathematics associated with their construction received attention as
+well. This resulted in articles in mathematical journals and a mention
+of the field by Hilbert in connection with problem 13 of his list of 23
+problems of 1900. Nomograms have been described by one writer as the
+"fractals of their day" due to their relation to mathematical law and
+visual appeal.
+
+</p>
+<p>
+
+This talk attempts to survey how nomography was introduced into the
+United States in the years following the publication of d'Ocagne's book,
+looking at its debut in the various communities of mechanical, civil,
+and electrical engineers, scientists, and mathematicians, with special
+focus on the latter. During the period from 1900 to 1950 mathematicians
+such as Frank Morley,E. H. Moore, T. H. Gronwall, O. D. Kellogg, Lester
+Ford and Edward Kasner concerned themselves with popularizing,
+extending, and using the ideas of nomography. The subject was taught in
+colleges and technical institutes, often out of textbooks written by the
+instructors. It appealed to all types of mathematical people:pure
+researchers, college professors and high school teachers, and had its
+enthusiasts among algebraists, geometers and analysts. Nomograms became
+particularly popular as a graphical method for solving polynomial
+equations of degree five or less, and found a place in the changing
+nature of college algebra during this time. We also will mention some
+mathematical obstacles which occurred as they came into wider use in
+scientific, engineering and industrial settings.
+            </p>
+          </li>
+          <li>
+            <title>March 18</title>
+            <p>
+              <alert>Speaker: </alert> Eisso Atzema, University of Maine:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Beyond the Compass: On the Mechanical Construction of the Conic Sections </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+As is well known, there was little concern in Apollonius' Conics about
+the actual "mechanical" construction of the conic sections. In fact, it
+is not entirely clear whether there ever was an interest in Classical
+Antiquity in any tool that would draw a given conic section in the same
+way one can draw a circle with the help of a compass. There certainly
+was an interest in such a tool among Muslim mathematicians. In
+Renaissance Europe, a number of mathematicians suggested various
+mechanical ways to construct the conic sections as well-although no
+actual drawing devices seem to have been built. 
+
+            </p>
+          </li>
+          <li>
+            <title>February 18</title>
+            <p>
+              <alert>Speaker: </alert>   Steven H. Weintraub, Lehigh University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>On Legendre's Work on the Law of Quadratic Reciprocity </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+As is well-known, Legendre was the first to state the Law of Quadratic
+Reciprocity in the form that we now know it (though an equivalent result
+had earlier been conjectured by Euler), and he was able to prove it in
+some but not all cases, with the first complete proof being given by
+Gauss. In this talk we trace the evolution of Legendre's work on
+quadratic reciprocity in his four great works on number theory, from
+1785, 1797, 1808, and 1830. 
+
+            </p>
+          </li>
+          <li>
+            <title>January 21 </title>
+            <p>
+              <alert>Speaker: </alert>  Eugene (Bud) Boman, Pennsylvania State University,
+Harrisburg:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Ghosts of Departed Errors: A Look at Bishop Berkeley's "The
+Analyst" and the Scientific Community's Initial Response to It </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1734 Bishop Berkeley criticized the logical foundations of the
+Calculus in /The Analyst/ and set off a small 'pamphlet war'. James
+Jurin and John Walton replied immediately and angrily. Berkeley then
+responded to each of them. Shortly after this exchange Jurin and
+Benjamin Robins engaged in a lengthy and eventually acrimonious public
+debate on the same topic. Somewhat later Benjamin Robins, Collin
+Maclaurin, Thomas Simpson and others wrote treatises on <q>The Method of
+Fluxions</q>	which were at least in part intended as responses to <q>The
+Analyst</q>. view of Calculus in its earliest stages. I will attempt to
+peer through that window.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2009">
+      <title>     Fall 2009  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 10</title>
+            <p>
+              <alert>Speaker: </alert> John W. Dawson, Penn State, York:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Development of the Notion of Compactness in Topology and Logic  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+During the early decades of the twentieth century the notion of a
+compact topological space arose as a generalization of results obtained
+in studies of the topology of the real line (in particular, the
+Heine-Borel theorem). Somewhat later, what is now called the Compactness
+Theorem for first-order logic was proved by Godel as a lemma in his
+proof that every first-order axiom system is semantically complete. But
+for years thereafter connections between the two notions of compactness
+lay unrecognized and applications of compactness in logical contexts
+were not pursued. This talk will survey how the Compactness Theorem
+eventually came to be regarded as a fundamental tool in model theory and
+algebra, and will explore why recognition of it's usefulness was so long
+delayed.
+
+            </p>
+          </li>
+          <li>
+            <title>November 19</title>
+            <p>
+              <alert>Speaker: </alert> Shelly Costa:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Throwing the Book at Mathematical Talent  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In this talk I contrast the careers of late
+seventeenth-/mid-eighteenth-century mathematical authors Guillaume de I'
+Hôpital (1661-1704), Emilie du Châtelet (1706-1749), and Maria Gaetana
+Agnesi (1718-1799). My basic aim is to assess the impact of social
+factors such as class, gender, and economic status on contemporary
+perceptions of mathematical talent and originality. I will recount my
+recent attempts to do so through a /materia/l approach--that is, through
+a close inspection of the physical features of relevant primary sources.
+
+            </p>
+          </li>
+          <li>
+            <title>October 15</title>
+            <p>
+              <alert>Speaker: </alert> Frank Swetz:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Glimpses of Chinese Mathematics </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The history of mathematics in traditional China is often clouded by myth
+and uncertainty. For the Chinese Empire, mathematics was not a priority.
+Mathematicians were not highly honored nor recognized for their work.
+They worked in isolation. Social and political upheavals within the
+Kingdom were frequent, resulting in the destruction of books and
+libraries. In such a climate of turmoil, efforts at preservation focused
+on Confucian and philosophical classics. Scientific works, including
+those about mathematics were frequently destroyed and lost. Later
+mathematicians were forced to rediscover techniques and concepts
+established by their predecessors. Thus, in examining the state and
+content of traditional mathematics in China, one must rely on "glimpses.
+" This talk will survey some of the accomplishments of traditional
+Chinese mathematics and discuss the interaction of societal pressures on
+the development of mathematical thinking.
+
+            </p>
+          </li>
+          <li>
+            <title>October 8</title>
+            <p>
+              <alert>Speaker: </alert> Danny Otero, Xavier University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Determining the Determinant </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Nearly every undergraduate student of mathematics learns how to solve
+linear systems with the help of determinants, so it may come as a
+surprise that the history of the development of the determinant is not
+better known than it is. In fact, there may be a good reason for this:
+befitting the complexity of the idea, its history is also quite
+complicated. The story of its genesis and evolution involves the
+interplay of a number of different problems, perspectives and
+approaches, and contributions were made by dozens of people over
+centuries. We plan to survey a key period of this history, for the time
+of Leibniz at the end of the 17th century, up to the watershed day of
+November 30, 1812, when Binet and Cauchy both presented papers on the
+determinant at the same meeting in Paris.
+
+            </p>
+          </li>
+          <li>
+            <title>September 17</title>
+            <p>
+              <alert>Speaker: </alert> Craig P. Bauer, York College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Cryptology on Campus During World War II  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Over 30 colleges and universities offered cryptology courses during
+World War II. There was great diversity in who delivered the classes.
+Mathematicians were represented, as were the departments of astronomy,
+biology, classics, English, geology, Greek, philosophy, and psychology.
+Even a dean managed to make himself useful...Some classes were secret,
+run for the benefit of the military, while others were open to all. The
+lecture surveys these courses, along with biosketches of the professors
+and, in some cases, describes original research contributions they made
+to the field of cryptology.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2009">
+      <title>     Spring 2009  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 16</title>
+            <p>
+              <alert>Speaker: </alert> John Bukowski, Juniata College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Christiaan Huygens and the Hanging Chain  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In the mid-seventeenth century, it was generally thought that the shape
+of a hanging chain was a parabola. In a series of letters with Marin
+Mersenne, the 17-year-old Christiaan Huygens showed that the hanging
+chain did not in fact take the form of a parabola. We will investigate
+some of Huygens's geometrical arguments in detail, and we will discuss
+some of the general history of the problem.
+
+            </p>
+          </li>
+          <li>
+            <title>March 19</title>
+            <p>
+              <alert>Speaker: </alert> Marina Vulis, Independent Scholar:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Russian Mathematics Textbooks </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1703, Leonty Magnitsky, a mathematics teacher at a Moscow school,
+published the book "Arithmetika, i.e. the Science of Numbers". This was
+the first Russian mathematics textbook written by a Russian author.This
+presentation will discuss the contents of "Arifmetika" and the story of
+its publication.
+
+            </p>
+          </li>
+          <li>
+            <title>February 19</title>
+            <p>
+              <alert>Speaker: </alert>  Paul Wolfson, West Chester University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>After Galois, What? </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Many accounts of the nineteenth century theory of equations emphasize
+the contributions of Abel and Galois and the resulting shift towards
+algebra. Nevertheless, some followed other lines of research.
+Mathematicians had originally introduced a resolvent equation as a step
+towards solving a given equation by radicals. After Galois' theory
+became known, mathematicians still studied resolvent equations, but now
+with new aims. This talk is the outgrowth of my attempt understand the
+background to one of the late manuscripts of Arthur Cayley that were
+previously discussed by Dr. Weintraub.
+
+            </p>
+          </li>
+          <li>
+            <title>January 15</title>
+            <p>
+              <alert>Speaker: </alert>  Yibao Xu, Borough of Manhattan Community College, City
+University of New York:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Mathematicians and Mathematics in China during the Cultural Revolution </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The Cultural Revolution (1966-1976) was the most destructive political
+movement in modern China. During that tumultuous ten-year period
+millions died as a direct consequence of political struggles and tens of
+millions were dislocated. Higher education was abandoned for the first
+five years. Leading experts in virtually all academic areas were
+deprived their rights of conducting research of their own interest. The
+promise of mathematical research during the first fifteen years of the
+newly created Communist China came to a halt, and then faded away. After
+briefly describing the status of mathematical research in Communist
+China before 1966, the speaker will provide a setting for the Cultural
+Revolution by showing a 10-minute documentary film. He will then take
+two leading Chinese mathematicians, Wu Wenjun, better known in the West
+as Wen- tsun Wu, and Gong Sheng, as examples, to discuss how the
+Cultural Revolution affected mathematicians’ personal lives and
+research. In order to show how politics and Marxist ideology determined
+mathematical research in mainland China during this period, the talk
+will also discuss Chinese translations of Karl Marx’s Mathematical
+Manuscripts and the nation-wide discussion of the Manuscripts.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+
+    <section  xml:id="fall-2008">
+      <title>     Fall 2008  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 11</title>
+            <p>
+              <alert>Speaker: </alert> Thomas L. Bartlow, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Edward V. Huntington and Engineering Education </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Edward V. Huntington is best known as a prototypical American postulate
+theorist (Michael Scanlon, Who were the American Postulate Theorists?,
+The Journal of Symbolic Logic 56:3 (Sep 1991), 981--1002) and as the
+mathematician behind the method of apportioning Representatives among
+the states (Thomas L. Bartlow, Mathematics and Politics: Edward V.
+Huntington and the Apportionment of the United States Congress,
+Proceedings of the Canadian Society for History and Philosophy of
+Mathematics 19 (2006), 29--54). However, much of his teaching was in the
+Lawrence Scientific School at Harvard and, in 1907, he became chairman
+of the Committee on the Teaching of Mathematics to Students of
+Engineering, a joint committee of the AMS and the AAAS. This led him to
+become involved in the Society for the Promotion of Engineering
+Education and to write several papers on mathematics and mechanics in
+the training of engineers.
+
+            </p>
+          </li>
+          <li>
+            <title>November 20</title>
+            <p>
+              <alert>Speaker: </alert> George M. Rosenstein, Emeritus Professor of
+Mathematics, Franklin &amp; Marshall College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>How Did Gibbs Discover the Gibbs Phenomena? A Speculation </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Although it is very easy with computers to demonstrate the Gibb's
+Phenomena to today's students of Fourier Series, it was not a simple
+matter in 1899. I will trace the interesting history leading up to
+Gibb's announcement, and then speculate on his discovery.
+
+            </p>
+          </li>
+          <li>
+            <title>October 16</title>
+            <p>
+              <alert>Speaker: </alert> Steven Weintraub, Lehigh University :
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Cayley Documents in Lehigh's Possession </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The Lehigh University Library has acquired a set of letters and an
+unpublished manuscript by Arthur Cayley. I will report on this
+collection and its background, both mathematical and historical.
+
+            </p>
+          </li>
+          <li>
+            <title>September 18</title>
+            <p>
+              <alert>Speaker: </alert> Patricia Kenschaft, Montclair State University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Minority Mathematicians </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+A summary of some of the known facts about minority participation in the
+mathematical community, including some biographies, some statistical
+information, and a report of a survey of black mathematicians of New
+Jersey twenty years ago.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2008">
+      <title>     Spring 2008 (poem to Tom here)  </title>
+<!-- <p> -->
+<!-- <verbatim> -->
+<!-- *To Tom on his Retirement [from Villanova University] -->
+<!-- *by** Doug Norton**May 13, 2008** -->
+
+<!-- The hist’ry of things mathematical -->
+<!-- At times can make folks quite fanatical; -->
+<!-- But someone we know, -->
+<!-- Our own Tom Bartlow, -->
+<!-- Instead made a move not so radical: -->
+
+<!-- Along with his bud Zitarelli, -->
+<!-- He runs a series that’s quite swell. He, -->
+<!-- With grace and aplomb, -->
+<!--  Hosts talks at PASHoM -->
+<!--   [The Philadelphia Area Seminar on the History of Mathematics], -->
+<!-- And also puts food in your belly -->
+<!--   [As usual, I will provide a light supper, at a cost of $6, or $7, or -->
+<!-- $8 …]. -->
+
+<!-- So now that his teaching he’s leaving, -->
+<!-- You Math Hist’ry folks: please, no grieving! -->
+<!-- With all that free time, -->
+<!-- He’s still in his prime: -->
+<!-- Math Hist’ry we’ll all keep receiving. -->
+
+<!-- So as you go off in the sunset, -->
+<!-- We all know you are not quite done yet: -->
+<!-- You’ll make with Michele -->
+<!-- More stories to tell; -->
+<!-- We know you’re not through having fun yet! -->
+<!-- </verbatim> -->
+<!-- </p> -->
+      <p>
+        <dl>
+          <li>
+            <title>April 10</title>
+            <p>
+              <alert>Speaker: </alert> Babak Ashrafi, Executive Director of the Philadelphia
+Area Center for History of Science (PACHS):
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Using the Ether to Save Quantum Mechanics </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+As Max Born fled Germany in 1933, he started a research project in which
+he used concepts and methods from ether theory to reformulate classical
+electrodynamics in order to produce a quantum electrodynamics. In this
+talk, I will describe the circumstances that led Born to leap backwards
+in order to try and leap forwards, what he and his collaborators
+achieved, and what this episode tells us about the history of the
+development of quantum mechanics.
+
+            </p>
+          </li>
+          <li>
+            <title>March 13</title>
+            <p>
+              <alert>Speaker: </alert> Amy K. Ackerberg-Hastings, University of Maryland
+University College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Acknowledged National Standard": Charles Davies, A. S. Barnes, and
+Textbooks as Teaching Tools </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Book historians have added a number of dimensions to our understanding
+of texts in the history of science and mathematics, including how
+readers and publishers participate alongside authors in the transmission
+of knowledge, how patterns of use indicate intellectual reception, and
+how textbooks communicate scientific ideas to popular audiences.
+However, promotion has been at least as important a factor as
+pedagogical and intellectual superiority in determining which objects
+have become widely established instruments for teaching mathematics and
+science. This talk explores the evolution of the textbook into a
+commercialized teaching tool by concentrating on how the partnership of
+Charles Davies (1798-1876) and Alfred Smith Barnes (1817-1888) shaped
+mathematics instruction in the United States. Davies parlayed his
+reputation as a professor at the United States Military Academy at West
+Point into a successful career of defining himself primarily as a
+producer of textbooks. Barnes, his publisher, organized the books into
+graded series and utilized aggressive marketing techniques. Together,
+the men sought to enlarge their audience of American students and laid
+claim to national status as the standard for the nascent mathematics
+textbook industry. This talk is based upon the first chapter of/Material
+to Learn: Tools of American Mathematics Teaching, 1800-2000/, a
+forthcoming book prepared jointly with Peggy Aldrich Kidwell and David
+Lindsay Roberts, and will include a few highlights from the entire volume.
+
+            </p>
+          </li>
+          <li>
+            <title>February 21</title>
+            <p>
+              <alert>Speaker: </alert> Paul Pasles, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Benjamin Franklin's Numbers </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Quantitative literacy is a necessity for good citizenship, so it is
+appropriate that the "first American" was numerate in the extreme.
+That's not to say that Ben Franklin ever proved a novel theorem, but he
+was willing to apply basic mathematics to situations where only
+qualitative arguments had been admitted previously. This talk will
+explore the various mathematical aspects of Franklin’s life.
+
+            </p>
+          </li>
+          <li>
+            <title>January 17</title>
+            <p>
+              <alert>Speaker: </alert> Alan Gluchoff, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Philip Schwartz, Probable Error, and the Variability of the Ballistic
+Trajectory </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+At the close of World War I those who studied ballistics began to turn
+their attention to the "second order effects" - how such factors as
+wind, density of air, and small changes in initial velocity affected the
+range of a projectile.Related to these questionsis the matter of the
+dispersion of a series of shots fired under as nearly identical
+conditions as possible, and how one measures this dispersion. In the
+United States efforts were made to introduce standard tools of
+elementary probability: mean, standard deviation (actually "probable
+error") , and normal distribution of errors, into this milieu, with
+mixed results.The talk highlights the attempt of Philip Schwartz, a
+young artillery officer with some mathematical background and an
+associate of Oswald Veblen, to analyze these concepts as they were used
+in dealing with the data of artillery firing.Emphasis is given on how
+difficult men found it to understand, defend, and apply these concepts
+by viewing a controversy played out in the pages of the Coast Artillery
+Journal during the years 1924-1930. No knowledge other than that of
+elementary probability and the normal distribution is required.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2007">
+      <title>     Fall 2007  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 13</title>
+            <p>
+              <alert> POSTPONED </alert>
+            </p>
+          </li>
+          <li>
+            <title>November 15</title>
+            <p>
+              <alert>Speaker: </alert> Maryam Vulis:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Life and Work of Luca Pacioli </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+We will examine Luca Pacioli’s contributions to mathematics. The Italian
+mathematician Luca Pacioli discussed mathematics with Leonardo Da Vinci,
+wrote books on arithmetic, and worked on chess problems. His long-lost
+manuscript on chess was recently discovered in Italy. Pacioli’s system
+of double-entry bookkeeping has a group structure and can be viewed as
+error-detecting code. We will also discuss some of the controversy
+surrounding his work and publications.
+
+            </p>
+          </li>
+          <li>
+            <title>October 18</title>
+            <p>
+              <alert>Speaker: </alert> Edward Hogan, East Stroudsburg University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Benjamin Peirce as Head of the Coast Survey </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Under Alexander Dallas Bache the United States Coast Survey grew into an
+important, perhaps the most important, institution for American science.
+With little graduate work available in the United States, it served as
+an essential training ground as well as a source of employment for
+American scientists. When Peirce took over the Coast Survey after
+Bache’s death, he had no administrative experience. Yet he was able to
+garner even better congressional support for the Survey than had the
+politically savvy Bache. Peirce continued to support a broad spectrum of
+scientific activity. He was also successful in expanding the Survey my
+making a geodetic link between the existing surveys on the east and west
+coasts.This was not only a political triumph, but a scientific one.It
+was the longest arc of a parallel ever surveyed by one country. The
+extended scope of the Survey led to it being renamed the United States
+Coast and Geodetic Survey. During his tenure as superintendent of the
+Coast Survey, Peirce maintained his professorship at Harvard and his
+residence in Cambridge.He also wrote his Linear Associate Algebra, his
+most important mathematical work, during this period.
+
+            </p>
+          </li>
+          <li>
+            <title>September 20</title>
+            <p>
+              <alert>Speaker: </alert> Zitarelli and Tom Bartlow
+
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>preliminary report on <q>Who Was Miss Mullikin?</q></pubtitle>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+    <section  xml:id="spring-2007">
+      <title>     Spring 2007  </title>
+      <p>
+        <dl>
+          <li>
+            <title>March 15</title>
+            <p>
+              <alert>Speaker: </alert> Dave Richeson, Dickenson College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Euler's Polyhedron Formula: a Prehistory of Topology </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+A polyhedron with V vertices, E edges, and F faces satisfies the
+relation V-E+F=2.
+This relationship was first noticed by Euler in 1750 (although a related
+formula was known to Descartes in 1630). Euler's proof turned out to be
+flawed. From 1750 to 1850 mathematicians tried to come to grips with
+this formula. Legendre, Cauchy, Staudt, and others presented new proofs
+and generalizations. Meanwhile, Lhuilier, Hessel, and Poinsot unveiled
+exotic "counterexamples". In this talk we present the history of this
+beloved formula up to the middle of the nineteenth century, while it was
+still a theorem about polyhedra and before it was recognized as a
+topological theorem.
+
+            </p>
+          </li>
+          <li>
+            <title>February 15</title>
+            <p>
+              <alert>Speaker: </alert> Lawrence D’Antonio, Ramapo College of New Jersey:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Euler’s Contributions to Diophantine Analysis </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 2007 we celebrate the 300th anniversary of Euler’s birth. Many
+aspects of Euler’s vast output will be examined during this year. In
+this talk we will focus on Euler’s research in the field of Diophantine
+problems. Such problems were a long-term interest of Euler and are still
+of interest today.We will consider particular highlights from Euler’s
+work on Diophantine equations, such as Euler’s landmark text
+Vollständige Anleitung zur Algebra, his work on Fermat’s Last Theorem
+and the Euler conjecture. This conjecture is related to Fermat’s Last
+Theorem. Euler had proven the special case that the sum of two cubes is
+never a cube. He then conjectured that the sum of three fourth-powers is
+never a fourth-power, the sum of four fifth-powers never a fifth power
+and so on. Many of the problems considered by Euler fall under the
+heading of what are now called Euler sums. These are Diophantine
+equations equating sums of like powers. For example, in a paper from
+1754 we see Euler discussing the problem of when the sum of three cubics
+will equal a cubic. We will examine the subsequent history of research
+on Euler sums.
+
+            </p>
+          </li>
+          <li>
+            <title>January 18</title>
+            <p>
+              <alert>Speaker: </alert> Jeff Suzuki,Brooklyn College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Fundamental Theorem of Algebra, or Why Did Gauss Title His
+Dissertation A "New" Proof? </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Gauss is usually credited with being the first to prove the fundamental
+theorem of algebra, but his dissertation is actually titled a "new"
+proof of the fundamental theorem.We will examine a few pre-Gaussian
+proofs, and make an argument that Lagrange, not Gauss, was the first to
+make a truly rigorous proof of the Fundamental Theorem.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2006">
+      <title>     Fall 2006  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 14</title>
+            <p>
+              <alert>Speaker: </alert> Paul Wolfson, West Chester University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Topology Visits Algebraic Invariant Theory  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+During the 1930’s and 40’s, several mathematicians—notably Stiefel,
+Whitney, Pontrjagin, and Chern—developed the basic ideas of
+characteristic classes. These cohomology classes of a bundle over a
+manifold measure how far that bundle is from being a product. The
+existence of non-zero classes proved the impossibility of certain
+embeddings of manifolds. While these results were being found, other
+results connected the characteristic classes to the curvature of the
+base manifold.  Then, André Weil systematized that connection /via/
+classical invariant theory. His unification led to new developments in
+topology and geometry.
+
+            </p>
+          </li>
+          <li>
+            <title>November 26</title>
+            <p>
+              <alert>Speaker: </alert> Adrian Rice, Randolph-Macon College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Life and Legacy of Augustus De Morgan (1806-1871) </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+De Morgan's Laws are familiar to any mathematician who has taken an
+undergraduate course in set theory.  Yet it is ironic that the man
+afterwhom they were named is remembered almost exclusively for a set of
+rules he did not invent in a subject he would never have known.  But the
+mathematical legacy of Augustus De Morgan spreads far wider than his
+limited fame of today would suggest.  In the last few decades historical
+research has shed light on forgotten aspects of De Morgan's work to give
+us a more complete picture of the range and diversity of his
+mathematical activities.  To mark the 200th anniversary of De Morgan's
+birth, this talk will examine the influence of these contributions and
+thus re-evaluate the impact of his work on the mathematical landscape of
+both his time and ours.
+
+            </p>
+          </li>
+          <li>
+            <title>October 12</title>
+            <p>
+              <alert>Speaker: </alert> Ed Sandifer, Western Connecticut State University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Some Number Theory that Gauss Learned from Euler   </pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>September 21</title>
+            <p>
+              <alert>Speaker: </alert> Alexander Soifer, Princeton University, Department of
+Mathematics,
+Rutgers University, Center for Discrete Mathematics (DIMACS), University
+of Colorado:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Bartel-Shur-Van der Waerden’s Theorem </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1926 Bartel L. van der Waerden proved – and in 1927 published – a
+magnificent theorem:  For any /k, l,/ there is/N/ =/N/(/k/,/l/)  such
+that the set of whole rational numbers 1, 2, ..., /N/, partitioned into
+/k /classes, contains an arithmetic progression of length /l /in one of
+the classes. This result, which I call (in honor of the authors of the
+conjecture and the author of the first proof) /Baudet-Schur-Van der
+Waerden Theorem/, belongs to a few revolutionary, classic results which
+form “/Ramsey Theory before Ramsey/”, and it has awakened my interest in
+the life of Van der Waerden. I found the literature about his life
+surprisingly contradictory. On the one hand, in the writings of Günther
+Frei, Yvonne Dold-Samplonius, W. Peremans, and most recently Rüdiger
+Thiele, I found the highest praise of Van der Waerden as a man of utmost
+integrity, a hero of the opposition to the Third Reich. On the other
+hand, Queen Wilhelmina of the Netherlands refused to sign off on Van der
+Waerden’s appointment to a chair at the University of Amsterdam in 1946,
+and Miles Reid in his 1988 book wrote that “a number of mathematicians
+of the immediate post-war period, including some of the leading
+algebraic geometers, considered him a Nazi collaborator
+            </p>
+<p>
+As a trained problem-solver, I commenced the search for the real Van der
+Waerden. Now, 12+ years and many hundreds of documents later, I can
+grant my predecessors one thing: it is hard to understand B. L. van der
+Waerden. And while a complete insight is impossible, my research has
+produced, I believe for the first time, a comprehensive portrait of Van
+der Waerden the man. I would have liked to share with you much of my
+findings, but it would take a few days, and thus overstep Tom Bartlow’s
+hospitality. I will therefore try to do my best with the time I am
+given. We will visit Van der Waerden during his early years, although my
+main interest will be the two turbulent decades of his life: 1931-1951. 
+
+</p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2006">
+      <title>     Spring 2006  </title>
+      <p>
+        <dl>
+          <li>
+            <title>May 18</title>
+            <p>
+              <alert>Speaker: </alert> Shelley Costa, Swarthmore College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Making a Name for Oneself in Professional Mathematics: Women’s Lives
+and “Women’s Work” in the 19th Century  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+The concept of the professional mathematician came relatively late to
+European history.(This truism is expressed in history of mathematics
+code as “Fermat was a lawyer)After the ingenious dabblers had had their
+due, an array of institutions, titles, degrees, prizes and
+professorships secured mathematics as a professional endeavor. Among its
+other consequences, the rise of professional mathematics created a new
+set of formal barriers to women.I will summarize the experiences of
+three who succeeded in the new atmosphere:Sophie Germain, Sofia
+Kovalevskaia, and Alicia Boole Stott.These 19th-century mathematicians
+came from different countries, were of three distinct generations and
+hailed from contrasting economic backgrounds.I am uniting them here not
+merely to pay homage to exceptional talent, luck, and resources, but to
+highlight commonalities in their experiences as women.I wish to pose an
+important and difficult question:What do these women’s experiences tell
+us about the construction of mathematical knowledge?
+
+            </p>
+          </li>
+          <li>
+            <title>April 20</title>
+            <p>
+              <alert>Speaker: </alert> Peter Freyd
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Saunders Mac Lane   </pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>March 16</title>
+            <p>
+              <alert>Speaker: </alert> David Zitarelli,Temple University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>J. B. Reynolds and the Research Mission at Lehigh University </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Joseph B. Reynolds (1881-1975) was a student and professor at Lehigh
+University from 1903 to 1948.We examine his major accomplishments in
+terms of Lehigh's change to a research mission in the 1920s.Reynolds's
+exploits include contributions to engineering as well as pure and
+applied mathematics.He is also viewed as an amateur historian,
+departmental administrator at Lehigh, and founder of our local EPADEL
+section.
+
+            </p>
+          </li>
+          <li>
+            <title>February 16</title>
+            <p>
+              <alert>Speaker: </alert> Bill Ewald, University of Pennsylvania :
+
+            </p>
+            <p>
+             Informal Presentation on the State of Hilbert's Papers and Progress on
+a Forthcoming Volume of Hilbert's Papers and Notebooks on Logic in the
+1920s              </p>
+       
+          </li>
+          <li>
+            <title>January 19</title>
+            <p>
+              <alert>Speaker: </alert> Chris Rorres, University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>If Archimedes Had a Computer: Continuing his Work on Floating Bodies </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+According to legend, Archimedes ran naked through the streets of ancient
+Syracuse shouting "Eureka!" after discovering his famous Law of
+Buoyancy, the basic law that determines how things float. He illustrated
+this law in his work "On Floating Bodies" by computing various floating
+positions of a solid paraboloid. With the geometric tools of his day
+Archimedes could only consider those cases when the flat base of the
+paraboloid is not cut by the water. However, as I show using modern
+computing power, the most interesting things happen when the base is cut
+by the water. For example, an iceberg that is slowly melting can
+suddenly overturn, or an obelisk originally sitting on solid ground can
+come crashing down when the soil under it liquefies during an
+earthquake. Such drastic phenomena are now studied in Catastrophe
+Theory, a field that Archimedes could have begun if he had had the
+computational tools to investigate all the possible cases of his
+floating paraboloids. 
+
+</p>
+<p>
+<url href="https://www.math.nyu.edu/~crorres/Archimedes/Floating/floating.html" visual="https://www.math.nyu.edu/~crorres/Archimedes/Floating/floating.html">Article website</url>
+
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2005">
+      <title>     Fall 2005  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 8</title>
+            <p>
+              <alert>Speaker: </alert> Alan Gluchoff, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Contributions of Four 'Mathematical People' to the Mathematical
+Ballistics of the World War I Era in America </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+By 1917 the American mathematical community was quitediverse and
+stratified, comprising, among others, word class researchers, university
+and college instructors, some applied mathematicians, and students with
+Masters and Bachelors degrees who found various uses for their talents.
+This work focus on four such "mathematical people," Gilbert Ames Bliss,
+Forest Ray Moulton, Roger Sherman Hoar, and Philip Schwartz, to the "New
+Ballistics" of the World War I era. Their efforts included a revision of
+the approach to calculating trajectories by the introduction of
+numerical integration, a tying of the new methods to the newly emerging
+research area of functional analysis, an organization of this mass of
+material into a coherent, presentable form with some physical motivation
+of required formulae, and a critical and experimental look at the
+resulting work. These efforts were characterized by an unusual emphasis
+on mathematical rigor which is in some ways analogous to the movement in
+sophistication from calculus to advanced calculus, but also included
+instructional activities geared to making the new methods accessible to
+its users.
+
+            </p>
+          </li>
+          <li>
+            <title>November 17</title>
+            <p>
+              <alert>Speaker: </alert> Reinhard Siegmund-Schultze, Agder University College,
+Norway:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Richard von Mises - a Non-Conformist Between Mathematics, Engineering,
+Philosophy and Politics  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+ The main focus of the talk is von Mises’s “outsider-position” or
+“non-conformism” in scientific, philosophical, and - to a lesser degree
+- political respects and the implications for the reception of his
+theory of probability, the one achievement he is still most known for
+today. Not unexpectedly, a considerable part of von Mises’
+“non-conformism” was related to his “betweenness” with respect to
+mathematics and its applications, which can be related to his education
+as an engineer and mathematician and to his practical work.
+Von Mises gave in 1919 a definition for the then rather new discipline
+“theory of probability” and tried to relate and connect it to existing
+“pure mathematics” on the one hand and to applications in statistics and
+physics on the other. This attempt was, indeed, very influential, if
+perhaps even more in a “critical” than in a constructive meaning,
+“critical” including both von Mises’s criticism of existing notions and
+applications of probability and ensuing criticism of von Mises’s
+proposals by others such as A.N.Kolmogorov and A.Ya.Khinchin.
+
+            </p>
+<p>
+Literature: Siegmund-Schultze, R.: A non-conformist longing for unity in
+the fractures of modernity: towards a scientific biography of Richard
+von Mises (1883-1953); Science in Context 17 (2004), 333-370.
+
+</p>
+          </li>
+          <li>
+            <title>September 15</title>
+            <p>
+              <alert>Speaker: </alert> Ed Sandifer, Western Connecticut State University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>A Series of Extraordinary Events:How Some Lesser Euler Fits Together </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Leonhard Euler (1707-1783) published more than 800 books and articles,
+many of which are among the most important mathematics ever discovered.
+Over 80 of his papers are about series, and two of his books deal
+primarily with series.Some of his results appear in "blockbuster" papers
+that make a huge contribution in just a single paper.Examples include
+the Basel Problem paper in which he evaluates zeta(2), Philip Naudé's
+problem in which he solves many problems of partition numbers, his paper
+on the Sum-Product formula for the zeta function and his paper on the
+foundations of continued fractions.There are other ideas, though, where
+the results are spread out over several papers, like the
+Euler-Mascheroni constant and Euler-Maclaurin series, were developed
+over several papers and several years.We will follow some of these
+lesser threads and trace a few of these longer stories, and connect them
+to the mathematical and scientific life in the 18th century.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2005">
+      <title>     Spring 2005  </title>
+      <p>
+        <dl>
+          <li>
+            <title>April 21</title>
+            <p>
+              <alert>Speaker: </alert> David L. Roberts, Prince George's Community College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Mathematicians in the Schools: The 'New Math' as an Arena of
+Professional Struggle, 1950-1970 </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+What is sometimes casually described as the "mathematics community" in
+the United States already by the late 19th century was displaying
+divisions, which became more distinct and variegated through the course
+of the 20th century. The aim of this talk is to use the arena of
+mathematics education during the 1950s and 1960s, which encompassed most
+of the so-called "new math" educational reforms, to illuminate fine
+distinctions between and within professional groups involved with
+mathematics, notably the American Mathematics Society, the Mathematical
+Association of America, and the National Council of Teachers of
+Mathematics. Simple dichotomies such as researchers versus teachers,
+pure mathematicians versus applied mathematicians, mathematicians versus
+mathematics educators, or progressive versus traditional educators offer
+only limited utility in understanding the complex jurisdictional
+struggle that in fact occurred.By close analysis of the career
+trajectories of several representative figures from the period, a more
+nuanced categorization will be proposed, yielding a better understanding
+of the outcome of the reforms.Special attention will be given to
+individuals associated with two of the most prominent curriculum reform
+projects: the University of Illinois Committee on School Mathematics
+(UICSM), and the School Mathematics Study Group (SMSG), originally
+headquartered at Yale and later at Stanford.
+
+            </p>
+          </li>
+          <li>
+            <title>March 24</title>
+            <p>
+              <alert>Speaker: </alert> Nathan L. Ensmenger, University of Pennsylvania:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Chess Players, Music Lovers, and Mathematicians: Towards a
+Psychological Profile of the Ideal Computer Scientist </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In the early 1950s, the academic discipline that we know today as
+computer science existed only as a loose association of institutions,
+individuals, and techniques. Although computers were widely used in this
+period as instruments of scientific production, their status as
+legitimate objects of scientific scrutiny had not yet been
+established.Computer programming in particular was considered by many to
+be a "black art", a private arcane matter. General programming
+principles were largely nonexistent" and the success of a program
+depended primarily on the programmer's private techniques and
+inventions. Those scientists and mathematicians who left "respectable"
+disciplines for the uncharted waters of computer science faced ridicule,
+self-doubt, and professional uncertainty. As the commercial computer
+industry expanded at the end of the decade, however, corporate interest
+in the science of computing increased significantly.Faced with a serious
+shortage of experienced, capable software developers, corporate
+employers turned to the universities as a source of qualified
+programmers.Academic researchers, unsure of what skills and knowledge
+were associated with computing expertise, began to develop a detailed
+psychological profile of the "ideal" computer scientist.Their profile
+included not only an aptitude for chess, music, and mathematics, but
+also specific personality characteristics ("uninterested in people,"
+"highly detail oriented," etc.).Many of these early empirical studies
+turned out to be of questionable validity and were of almost no use to
+potential employers; nevertheless, many of the characteristics
+identified in these early personality profiles survived in the cultural
+lore of the industry and are still believed to be indicators of computer
+science ability.   My paper explores the development of computer science
+as an academic discipline from the perspective of the corporate
+employers who encouraged it as a means of producing capable programming
+personnel. I explore the uneasy symbiotic relationship that existed
+between academic researchers and their more industrial-oriented
+colleagues. I focus on the use of psychological profiles and aptitudes
+as a means of identifying "scientific" and mathematical abilities and
+expertise.
+
+            </p>
+          </li>
+          <li>
+            <title>February 17</title>
+            <p>
+              <alert>Speaker: </alert> Paul Halpern, University of the Sciences in Philadelphia:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Rise and Decline of the Goettingen Mathematical Institute
+(1929-1945)  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1929, a new Mathematical Institute opened just outside the old city
+walls of Goettingen, with Richard Courant assuming its prestigious
+directorship. This modern facility offered the venerable department a
+spacious library, comfortable offices, housing facilities for visitors,
+and prominent exhibit space for its valuable collection of mathematical
+models and instruments. Only four years later, however, the ascendancy
+of the Nazi party forced the faculty to emigrate to the United States.
+Their hastily chosen replacements needed to steer an impossible course
+between the department's hallowed tradition and the odious dictates of
+the regime.
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="fall-2004">
+      <title>     Fall 2004  </title>
+      <p>
+        <dl>
+          <li>
+            <title>December 16</title>
+            <p>
+              <alert>Speaker: </alert> George Rosenstein, Franklin and Marshall College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Calculators for a New Century  </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+One of the unusual features of the 1904 edition of Granville's calculus,
+a book I have described as the first 20th century calculus text, is a
+final chapter called "Integraph. Table of Integrals".  In this chapter,
+Granville describes the theory and operation of a machine that draws
+integral curves by tracing a given curve. Later editions describe not
+only the Integraph, but also polar planimeters. By the 1941 edition,
+this material had disappeared. I will examine the operation of the
+relatively simple Integraph and speculate on the reasons for its
+inclusion in the text.
+
+            </p>
+          </li>
+          <li>
+            <title>November 18</title>
+            <p>
+              <alert>Speaker: </alert> Paul Pasles, Villanova University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Most Magically Magical Dr. Franklin </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In a parallel universe, the Philadelphia Area Seminar on the History of
+Mathematics celebrated its semiquincentennial in 2001. There, our
+alternate selves reflected on the founding members, local scholars who
+managed to do a little mathematics in the isolated colonial backwater
+called Philadelphia. Most prominent of these early mathematicians was
+Benjamin Franklin, master of the magic square.   Until recently it
+appeared that only two of Franklin's magic squares were still extant. In
+fact these were really two instances of the same example, extended to
+different orders. Now, however, it is clear that more than a half-dozen
+squares survive. How do these compare with their predecessors? How
+exactly did Franklin effect his numerical oddities? What is the state of
+the art today? We consider these questions as well as some other
+mathematics of the day.
+
+            </p>
+          </li>
+          <li>
+            <title>October 28</title>
+            <p>
+              <alert>Speaker: </alert> David Alan Grier, George Washington University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>When Computers were Human </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+Before we had electronic devices to do scientific computation, lengthy
+calculations were done by large groups of human computers. These
+individuals were usually intelligent persons who were unable to pursue a
+career in science because of their social or economic standing. They are
+best characterized as "blue collar mathematicians."  Several of the
+human computers, notably the staff at the U. S. Nautical Almanac, the
+workers at George Snedecor's Statistical Laboratory and the members of
+the WPA Mathematical Tables Project, made many small contributions to
+the development of numerical analysis. The Mathematical Tables Project,
+which was probably the largest computing group of modern time with over
+450 computers at its prime, became the basis for the Institute for
+Numerical Analysis at UCLA and the Applied Mathematics Laboratory at the
+National Bureau of Standards. This talk is based on a new book, which is
+being published by Princeton University Press
+
+            </p>
+          </li>
+          <li>
+            <title>September 23</title>
+            <p>
+              <alert>Speaker: </alert> Tom Archibald,Dibner Institute and Acadia University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Aspects of the Reception of Fredholm's Work on Integral Equations </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+In 1899, Ivar Fredholm (1866-1927) devised a method for solving a type
+of functional equation where the unknown function appears under the
+integral sign, a problem going back to Abel and which had already
+received some study at the hands of Vito Volterra and Picard's student
+J. Le Roux. This rather special-sounding problem had profound
+resonances. For one thing, it could be combined with methods of Carl
+Neumann and Henri Poincaré to prove the existence of solutions to many
+boundary-value problems, and indeed to find these solutions using
+Picard's successive approximation method. Still more far-reaching were
+the insights it provided to David Hilbert and his student Erhard
+Schmidt, who reinterpreted Fredholm's methods into the point of
+departure for what we now term operator theory on Hilbert spaces. In
+this paper, I examine the first of these threads, mostly concentrating
+on French and Italian work of the period from 1902 to 1910. This
+represents joint work with Rossana Tazzioli (Catania).
+
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2004">
+      <title>     Spring 2004  </title>
+      <p>
+        <dl>
+          <li>
+            <title>June 25</title>
+            <p>
+              <alert>Speaker: </alert> Ioan James:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Mind of the Mathematician </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+An introduction to the literature on the psychology of mathematicians,
+and other scientists. For example, highly intelligent people with mild
+forms of autism often love mathematics and tend to excel at it. This
+leads into a discussion of the nature of mathematical creativity and
+what has been learned about it since Poincare gave his famous lecture on
+the subject just a century ago.
+
+            </p>
+          </li>
+          <li>
+            <title>May 13</title>
+            <p>
+              <alert>Speaker: </alert> Alexander Soifer, Professor of Mathematics, Art &amp; Film
+History, University of Colorado at Colorado Springs, visiting at
+Princeton University:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle> Three Lives:Issai Schur, Bartel van der Waerden, Pierre Joseph Henry
+Baudet
+</pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert> A talk on the history of the classic van der Waerden-proved theorem
+onmonochromatic arithmetic progressions in finitely-coloredintegers.
+
+            </p>
+          </li>
+          <li>
+           <title></title>
+            <p>
+              <alert>Speaker: </alert>
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle> </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+            </p>
+          </li>
+          <li>
+            <title></title>
+            <p>
+              <alert>Speaker: </alert>
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle> </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+
+
+
+    <section  xml:id="fall-2002">
+      <title>Fall 2002  </title>
+      <p>
+        <dl>
+          <li>
+            <title>November 21</title>
+            <p>
+              <alert>Speaker: </alert> Paul Halpern, University of the Sciences in Philadelphia
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>History of Dimensionality </pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>October 24</title>
+            <p>
+              <alert>Speaker: </alert> Robert Jantzen, Villanova University
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Princeton Mathematics Community of the 1930's: An Oral History Project </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert> A paper only oral history project on the Princeton University math department and Institute for Advanced Study which shared a building on campus during this decade was converted to a web document at Princeton University and given context with mny history of math articles.
+            </p>
+          </li>
+          <li>
+            <title>September 19</title>
+            <p>
+              <alert>Speaker: </alert> William Dunham, Muhlenberg College
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Volterra and Pathological Functions from 19th Century Analysis </pubtitle>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section xml:id="spring-2002">
+      <title>Spring 2002</title>
+      <p>
+        <dl>   
+          <li>
+            <title>April 25</title>
+            <p>
+              <alert>Research-in-progress</alert> by Four Temple Graduate Students
+            </p>
+          </li>   
+          <li>
+            <title>March 21</title>
+            <p>
+              <alert>Speaker:</alert> Alan Gluchoff, Villanova University
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle> Thomas Gronwall</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>February 4 </title>
+            <p>
+              <alert>Speaker:</alert> George Rosenstein, Franklin and Marshal College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Man and His Book</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>January 22</title>
+            <p>
+              <alert>Speaker:</alert> Joel Goldstein
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>A Bridge over Troubled Waters: Evidences of Christianity Courses at Dissenting Academies and the Emergence of Rational Dissent, 1729-1798 </pubtitle>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+
+    <section  xml:id="fall-2001">
+      <title>Fall 2001</title>
+      <p>
+        <dl>
+          <li>
+            <title>November 30</title>
+            <p>
+              <alert>Speaker: </alert> Rob Bradley, Adelphi University
+            </p>
+            <p>
+              <alert>Title:</alert> <pubtitle>The Euler d'Alembert Correspondence and Complex Logarithms</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>October 25</title>
+            <p>
+              <alert>Speaker: </alert> Tom Foley, St. Joseph's University
+            </p>
+            <p>
+              <alert>Title:</alert> <pubtitle>The Golden Ratio in Physics</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>September 20 </title>
+            <p>
+              <alert>Speaker:</alert> Alan Gluchoff, Villanova University 
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Close-to-Convexity: An Episode in Function Theory, 1915-1952</pubtitle>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+
+    <section  xml:id="spring-2001">
+      <title>Spring 2001</title>
+      <p>
+        <dl>
+          <li>
+            <title>April 26</title>
+            <p>
+              <alert>Speaker: </alert>
+              Paul Wolfson, West Chester University
+            </p>
+            <p>
+              <alert>Title: </alert><pubtitle> How Relativity Changed Invariant Theory</pubtitle>
+            </p>
+          </li>  
+
+          <li>
+            <title>March 15</title>
+            <p>
+              <alert>Brief work-in-progress reports by members</alert>
+            </p>
+          </li>
+          <li>
+            <title>February 15</title>
+            <p>
+              <alert>Speaker: </alert> Fr. Homann, S.J., St. Joseph's University
+            </p>
+            <p>
+            <alert>Title: </alert> Mathematical History of Surveying</p>
+          </li>
+
+        </dl>
+      </p>
+    </section>
+
+  </article>
+</pretext>

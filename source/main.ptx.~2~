@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <docinfo>
+    <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
+  <article xml:id="PASHOM-records">
+    <title>Philadelphia Area Seminar on the History of Mathematics (PASHOM)</title>
+
+    <section  xml:id="section-HistoricalSummary">
+      <title>History of PASHoM</title>
+      <p>
+        Tom Bartlow described the genesis of PASHoM in  the summer of 2004 as follows:
+      </p>
+      <blockquote>
+        <p>
+          For many years friends interested in history of mathematics from
+          colleges and universities in and around Philadelphia would greet one
+          another at national meetings with the question, "Why do we have to
+          travel hundreds of miles to talk about our common interest in history
+          of mathematics? Why don't we get together at home?" In the fall of
+          2000 David Zitarelli of Temple University and Paul Wolfson of West
+          Chester University took the initiative, independently inviting people
+          to colloquia at their institutions. At West Chester spoke on in
+          November and in December at Temple Jim Stasheff talked about his
+          experiences as a graduate student at Princeton in the 1950's.
+        </p>
+        <p>
+          These two efforts prompted Tom Bartlow of Villanova University to
+          invite all interested persons to an organizational meeting at
+          Villanova University in January 2001. There it was agreed to establish
+          the Philadelphia Area Seminar on the History of Mathematics to share
+          our common interest in mathematics, to encourage one another in our
+          research efforts, and to offer a forum for reporting on work in
+          progress. Rudiger Thiele, who happed to be in town at the time,
+          attended, offered us encouragement, and spoke informally about his
+          investigation of Hilbert's twenty-fourth problem. He continues to
+          claim status as the only foreign associate of PASHoM. Since then the
+          seminar has met monthly, with interruptions in December and for
+          summer. There are no officers or formal structure but David Zitarelli
+          and Tom Bartlow have voluntarily assumed responsibility for necessary
+          arrangements.
+        </p>
+        <p>
+          The seminar will resume in the fall with a talk by Frederick
+          W. Hartman of Villanova University on "Apollonius’ Ellipse and Evolute
+          Revisited" on September 18, 2003 and a talk by Amy Ackerberg-Hastings
+          on October 23, 2003.
+        </p>
+        <p>
+
+          Meetings are at Villanova University, usually on the third Thursday of
+          the month.
+        </p>
+      </blockquote>
+      <p>
+        Tom Bartlow retired leadership in Summer 2012. Alan Gluchoff took over
+        Fall 2012.
+      </p>
+    </section>
+
+    <!-- <section  xml:id=""> -->
+    <!--   <title>  </title> -->
+    <!--   <p> -->
+    <!--     <dl> -->
+    <!--       <li> -->
+    <!--         <title></title> -->
+    <!--         <p> -->
+    <!--           <alert>Speaker:</alert>  -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Title: </alert> <pubtitle></pubtitle> -->
+    <!--         </p> -->
+    <!--         <p> -->
+    <!--           <alert>Abstract: </alert>  -->
+    <!--         </p> -->
+    <!--       </li> -->
+    <!--     </dl> -->
+    <!--   </p> -->
+    <!-- </section> -->
+
+    <section xml:id="spring-2002">
+      <title>Spring 2002</title>
+      <p>
+        <dl>   
+          <li>
+            <title>February 4 </title>
+            <p>
+              <alert>Speaker:</alert> George Rosenstein, Franklin and Marshal College:
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>The Man and His Book</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>March 21</title>
+            <p>
+              <alert>Speaker:</alert> Alan Gluchoff, Villanova University
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle> Thomas Gronwall</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>April 25</title>
+            <p>
+              <alert>Research-in-progress</alert> by Four Temple Graduate Students
+            </p>
+          </li>   
+        </dl>
+      </p>
+    </section>
+
+
+    <section  xml:id="fall-2001">
+      <title>Fall 2001</title>
+      <p>
+        <dl>
+          <li>
+            <title>November 30</title>
+            <p>
+              <alert>Speaker: </alert> Rob Bradley, Adelphi University
+            </p>
+            <p>
+              <alert>Title:</alert> <pubtitle>The Euler d'Alembert Correspondence and Complex Logarithms</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>October 25</title>
+            <p>
+              <alert>Speaker: </alert> Tom Foley, St. Joseph's University
+            </p>
+            <p>
+              <alert>Title:</alert> <pubtitle>The Golden Ratio in Physics</pubtitle>
+            </p>
+          </li>
+          <li>
+            <title>September 20 </title>
+            <p>
+              <alert>Speaker:</alert> Alan Gluchoff, Villanova University 
+            </p>
+            <p>
+              <alert>Title: </alert> <pubtitle>Close-to-Convexity: An Episode in Function Theory, 1915-1952</pubtitle>
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+    
+    <section  xml:id="spring-2001">
+      <title>Spring 2001</title>
+      <p>
+        <dl>
+
+                    <li>
+            <title>February 15</title>
+            <p>
+              <alert>Speaker:</alert> Fr. Homann, S.J., St. Joseph's University
+            </p>
+            <p>
+            <alert>Title:</alert> Mathematical History of Surveying</p>
+          </li>
+
+          <li>
+            <title>March 15</title>
+            <p>
+              Brief work-in-progress reports by members
+            </p>
+          </li>
+          <li>
+            <title>April 26</title>
+            <p>
+              <alert>Speaker:</alert>
+              Paul Wolfson, West Chester University
+            </p>
+            <p>
+              <alert>Title:</alert><pubtitle> How Relativity Changed Invariant Theory</pubtitle>
+            </p>
+          </li>  
+        </dl>
+      </p>
+    </section>
+
+  </article>
+</pretext>
