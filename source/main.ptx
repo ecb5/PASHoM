@@ -59,22 +59,31 @@
       </p>
     </section>
 
-    <!-- <section  xml:id=""> -->
+    <section  xml:id="spring-2024">
+      <title> Spring 2024  </title>
+      <p>
+        <dl>
+          <li>
+            <title></title>
+            <p>
+              <alert>Speaker: Jeffrey Oaks, University of Indianapolis </alert>
+            </p>
+            <p>
+              <alert>Title: How to Think Like a Medieval Algebraist</alert> <pubtitle> </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+There are many seemingly minor yet consistent differences in wording, procedure, and notation between what we read in pre-Vietan algebra and what we practice today. Together with how the earlier authors describe their work, they point to a radically different way of understanding monomials, polynomials, and equations. In this talk I describe this premodern algebra, focusing mainly on medieval Arabic algebra, though what I say applies equally to Diophantus, medieval Latin and Italian algebra, as well as the algebra of sixteenth-century Europe. Some attention will be given to delineating the role of algebra in premodern mathematics and to the concept of number upon which the concept of monomial was based.
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+ 
+    <!-- <section  xml:id="fall-spring"> -->
     <!--   <title>   </title> -->
     <!--   <p> -->
     <!--     <dl> -->
-    <!--       <li> -->
-    <!--         <title></title> -->
-    <!--         <p> -->
-    <!--           <alert>Speaker: </alert> -->
-    <!--         </p> -->
-    <!--         <p> -->
-    <!--           <alert>Title: </alert> <pubtitle> </pubtitle> -->
-    <!--         </p> -->
-    <!--         <p> -->
-    <!--           <alert>Abstract: </alert> -->
-    <!--         </p> -->
-    <!--       </li> -->
     <!--       <li> -->
     <!--         <title></title> -->
     <!--         <p> -->
@@ -110,7 +119,7 @@
           <li>
             <title>December 7</title>
             <p>
-              <alert>Speaker: </alert> Maryam Vulis, St. John’s University and Norwalk
+              <alert>Speaker: </alert> MaryamLLL Vulis, St. John’s University and Norwalk
               Community College 
             </p>
             <p>
@@ -852,7 +861,7 @@ non-research and even non-mathematical publics in the first place.
       </p>
     </section>
 
-    <section  xml:id="spring-2020 ">
+    <section  xml:id="spring-2020">
       <title>     Spring 2020   </title>
 <p>
 Online meetings began this semester due to the global Covid-19 pandemic.
