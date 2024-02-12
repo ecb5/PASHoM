@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <docinfo>
     <macros>\newcommand{\foo}{b^{ar}}</macros>
@@ -18,12 +18,12 @@
           colleges and universities in and around Philadelphia would greet one
           another at national meetings with the question, <q>Why do we have to
           travel hundreds of miles to talk about our common interest in history
-          of mathematics? Why don't we get together at home?</q> In the fall of
+          of mathematics? Why don<rsq/>t we get together at home?</q> In the fall of
           2000 David Zitarelli of Temple University and Paul Wolfson of West
           Chester University took the initiative, independently inviting people
           to colloquia at their institutions. At West Chester spoke on in
           November and in December at Temple Jim Stasheff talked about his
-          experiences as a graduate student at Princeton in the 1950's.
+          experiences as a graduate student at Princeton in the 1950<rsq/>s.
         </p>
         <p>
           These two efforts prompted Tom Bartlow of Villanova University to
@@ -34,7 +34,7 @@
           research efforts, and to offer a forum for reporting on work in
           progress. Rudiger Thiele, who happed to be in town at the time,
           attended, offered us encouragement, and spoke informally about his
-          investigation of Hilbert's twenty-fourth problem. He continues to
+          investigation of Hilbert<rsq/>s twenty-fourth problem. He continues to
           claim status as the only foreign associate of PASHoM. Since then the
           seminar has met monthly, with interruptions in December and for
           summer. There are no officers or formal structure but David Zitarelli
@@ -43,7 +43,7 @@
         </p>
         <p>
           The seminar will resume in the fall with a talk by Frederick
-          W. Hartman of Villanova University on <q>Apollonius’ Ellipse and Evolute
+          W. Hartman of Villanova University on <q>Apollonius<rsq/> Ellipse and Evolute
           Revisited</q> on September 18, 2003 and a talk by Amy Ackerberg-Hastings
           on October 23, 2003.
         </p>
@@ -59,27 +59,6 @@
       </p>
     </section>
 
-    <section  xml:id="spring-2024">
-      <title> Spring 2024  </title>
-      <p>
-        <dl>
-          <li>
-            <title></title>
-            <p>
-              <alert>Speaker: Jeffrey Oaks, University of Indianapolis </alert>
-            </p>
-            <p>
-              <alert>Title: How to Think Like a Medieval Algebraist</alert> <pubtitle> </pubtitle>
-            </p>
-            <p>
-              <alert>Abstract: </alert>
-There are many seemingly minor yet consistent differences in wording, procedure, and notation between what we read in pre-Vietan algebra and what we practice today. Together with how the earlier authors describe their work, they point to a radically different way of understanding monomials, polynomials, and equations. In this talk I describe this premodern algebra, focusing mainly on medieval Arabic algebra, though what I say applies equally to Diophantus, medieval Latin and Italian algebra, as well as the algebra of sixteenth-century Europe. Some attention will be given to delineating the role of algebra in premodern mathematics and to the concept of number upon which the concept of monomial was based.
-            </p>
-          </li>
-        </dl>
-      </p>
-    </section>
- 
     <!-- <section  xml:id="fall-spring"> -->
     <!--   <title>   </title> -->
     <!--   <p> -->
@@ -112,6 +91,73 @@ There are many seemingly minor yet consistent differences in wording, procedure,
     <!--   </p> -->
     <!-- </section> -->
 
+
+    
+
+
+
+    <section  xml:id="spring-2024">
+      <title> Spring 2024  </title>
+      <p>
+        <dl>
+          <li>
+            <title></title>
+            <p>
+              <alert>Speaker: Jeffrey Oaks, University of Indianapolis </alert>
+            </p>
+            <p>
+              <alert>Title: How to Think Like a Medieval Algebraist</alert> <pubtitle> </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert>
+There are many seemingly minor yet consistent differences in wording, procedure, and notation between what we read in pre-Vietan algebra and what we practice today. Together with how the earlier authors describe their work, they point to a radically different way of understanding monomials, polynomials, and equations. In this talk I describe this premodern algebra, focusing mainly on medieval Arabic algebra, though what I say applies equally to Diophantus, medieval Latin and Italian algebra, as well as the algebra of sixteenth-century Europe. Some attention will be given to delineating the role of algebra in premodern mathematics and to the concept of number upon which the concept of monomial was based.
+            </p>
+          </li>
+          <li>
+            <title></title>
+            <p>
+              <alert>Speaker: Bonita Lawrence, Marshall University </alert>
+            </p>
+            <p>
+              <alert>Title: Solving Dynamic Equations: Using Gifts from the Past</alert> <pubtitle> </pubtitle>
+            </p>
+            <p>
+              <alert>Abstract: </alert> The Marshall Differential
+              Analyzer Project developed from an idea sparked by a
+              visit to the London Science Museum<rsq/>s display of historic
+              differential analyzer machines. The primary goal of the
+              project was to offer an alternative perspective, and
+              hence an enhanced understanding, of the behavior of
+              solutions to dynamic equations. As our study and the
+              construction of our machines progressed, we found that
+              the dynamic motion of the machine<rsq/>s components and the
+              sounds created offered observers an amazing physical
+              connection to the <q>programed</q> mathematical
+              equation. 
+            </p>
+
+            <p>
+              Through the years, our machines have been used
+              to teach students about modeling physical systems with
+              dynamic equations, for research studies, and to offer
+              prospective students an alternative view of our
+              mathematical structure. This presentation will begin with
+              some discussion of the history of the development of
+              these machines and of our own project. A general
+              overview of the primary components of the machine and
+              the relationship between the mechanics and the
+              mathematics being modeled will follow. The big finale
+              will be a live streaming of a run of the large four
+              integrator machine, complete with a discussion of the
+              link between the physical connections between the
+              components and the differential equation under
+              consideration.
+            </p>
+          </li>
+        </dl>
+      </p>
+    </section>
+ 
     <section  xml:id="fall-2023">
       <title> Fall 2023  </title>
       <p>
@@ -119,7 +165,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
           <li>
             <title>December 7</title>
             <p>
-              <alert>Speaker: </alert> MaryamLLL Vulis, St. John’s University and Norwalk
+              <alert>Speaker: </alert> MaryamLLL Vulis, St. John<rsq/>s University and Norwalk
               Community College 
             </p>
             <p>
@@ -130,20 +176,20 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               This presentation will review the origins of Markov chains. Notably,
               Markov was inspired by poetry in his development of the chain link
               theory. His 1906 paper was the first to mention the idea of chains in
-              which he stated that the that it was not necessary for “quantities” to
-              be independent for the validity of the Law of Large Numbers. Markov’s
+              which he stated that the that it was not necessary for <q>quantities</q> to
+              be independent for the validity of the Law of Large Numbers. Markov<rsq/>s
               interest in studying chain dependence stemmed from a dispute with Pavel
               Nekrasov from Moscow Mathematical School. Nekrasov, a deeply religious
               man, believed that the Weak Law of Large numbers was true for pairwise
               independent events only due to <q>free will.</q> Markov intended to refute
-              Nekrasov’s statement and eventually proved that the Law of Large Numbers
+              Nekrasov<rsq/>s statement and eventually proved that the Law of Large Numbers
               did not have to apply to independent events only. Why Markov chains or
               the chains of linked events are of interest now? The insight is that the
               current event depends only on the immediate previous event, not on the
               prior events and this process can be used in AI such as chatbots. Thus,
               100 years after the Markov Chains were introduced they are used in
-              chatbots which prominently emerged in popular culture. Markov’s work has
-              a great impact on today’s technology.
+              chatbots which prominently emerged in popular culture. Markov<rsq/>s work has
+              a great impact on today<rsq/>s technology.
             </p>
           </li>
           <li>
@@ -165,9 +211,9 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               surface. Traditionally, history tells us that there were crude circular
               maps in the Middle Ages, and then a marked transition to Ptolemaic
               (mathematical) projections, followed by increasingly advanced
-              projections, such as Mercator's. However, this lecture will present the
+              projections, such as Mercator<rsq/>s. However, this lecture will present the
               conjecture that many of the circular maps from the late medieval and
-              early Renaissance period were created using Albrecht Dürer's simple
+              early Renaissance period were created using Albrecht Dürer<rsq/>s simple
               method of drawing a 3D object in 2D through the use of a device known as
               a perspectograph. This lecture will show how this method might have
               worked, and how it might have represented a way of creating 2D maps
@@ -188,7 +234,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               <alert>Abstract: </alert>
               The engineering drawings of Leonardo da Vinci are famous for both their
               ingenuity and aesthetic qualities. But Leonardo used drawing in a rather
-              unique way as a method of “visual thinking” or formal analysis, to
+              unique way as a method of <q>visual thinking</q> or formal analysis, to
               investigate and work out problems in fields ranging from anatomy to
               mechanics to hydraulics. Interestingly, Leonardo used this same method
               to investigate the possibility ― or impossibility ― of perpetual motion.
@@ -206,10 +252,10 @@ There are many seemingly minor yet consistent differences in wording, procedure,
           <li>
             <title>September 21</title>
             <p>
-              <alert>Speaker: </alert> Lawrence D'Antonio, Ramapo College:
+              <alert>Speaker: </alert> Lawrence D<rsq/>Antonio, Ramapo College:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Edmond Halley, Samuel Pepys, and the “Historia Piscium” </pubtitle>
+              <alert>Title: </alert> <pubtitle>Edmond Halley, Samuel Pepys, and the <q>Historia Piscium</q> </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
@@ -223,8 +269,8 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               London. It was a visit by Halley that encouraged Newton to write the
               Principia Mathematica and Halley used his own funds to publish the first
               edition. Halley also played a key role in the controversy surrounding
-              the publication of Flamsteed’s star catalog (the controversy ended with
-              a book burning!). Finally, we will discuss Halley’s election as the
+              the publication of Flamsteed<rsq/>s star catalog (the controversy ended with
+              a book burning!). Finally, we will discuss Halley<rsq/>s election as the
               Clerk of the Royal Society which will help explain the title of this talk. 
 
             </p>
@@ -251,9 +297,9 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               one-dimensional curves, two-dimensional surfaces, and
               three-dimensional solids. Yet dimension is a slippery idea
               that took mathematicians many years to understand. We will
-              discuss the history of dimension, which includes Cantor’s
+              discuss the history of dimension, which includes Cantor<rsq/>s
               troubling discovery, the surprise of space-filling curves,
-              the public’s infatuation with the fourth dimension, time as
+              the public<rsq/>s infatuation with the fourth dimension, time as
               an extra dimension, the meaning of non-integer dimensions,
               and the unexpected properties of high-dimensional spaces.
             </p>
@@ -299,7 +345,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               with the creation of (respectively) the 8-dimensional real normed
               algebra, certain block designs with block size 3, and the first finite
               geometry. During our tour, we learn about the truly ground-breaking work
-              of Julius Pl ̈ucker, John Graves (motivated by William Hamilton's
+              of Julius Pl ̈ucker, John Graves (motivated by William Hamilton<rsq/>s
               quaternions), Wesley Woolhouse and Thomas Kirkman, work that anticipated
               Cayley, Steiner and Fano by one, 18, and 57 years, respectively.
 
@@ -308,7 +354,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
           <li>
             <title>January 19</title>
             <p>
-              <alert>Speaker: </alert> Maryam Vulis, St John's University, Norwalk Community
+              <alert>Speaker: </alert> Maryam Vulis, St John<rsq/>s University, Norwalk Community
               College and CCNY:
             </p>
             <p>
@@ -323,14 +369,14 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               promoting Ukrainian culture and education. He was a member of the
               Ukrainian Academy of Sciences and in fact, his two-volume publication on
               differential equations was translated into English by the computer
-              pioneer John Atanasoff who found Kravchuk’s results for his computer
+              pioneer John Atanasoff who found Kravchuk<rsq/>s results for his computer
               construction. Kravchuk was well-known in international circles, and
               perhaps it cost him his life as he met the fate of many members of
               intelligentsia. One must mention Nina Virchenko, a mathematics
               researcher and a follower of Kravchuk. She was also persecuted by
               Soviets, amazingly survived incarceration in a camp, and continued for
               decades to work on mathematics and to promote the achievements of
-              Kravchuk. Naturally, the recognition of the Ukrainian mathematicians’
+              Kravchuk. Naturally, the recognition of the Ukrainian mathematicians<rsq/>
               achievements came with Ukrainian gaining independence in 1991.  
 
             </p>
@@ -424,7 +470,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               Making sense of mid-twentieth century abstraction posed problems for
               both new and ongoing practitioners. To historicize aspects of processes
               of generalization and abstraction can be tricky as it is easy to be
-              anachronistic. Hilbert's Grundlagen der Geometrie, for example,
+              anachronistic. Hilbert<rsq/>s Grundlagen der Geometrie, for example,
               indicates the recognition of several possible positions on the nature of
               axioms, for example as <q>self-evident,</q> as idealizations of experience,
               or as rules. Since the axioms interact with definitions, this variation
@@ -442,7 +488,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
                 view. In what follows, we discuss some research papers and look at
                 explicit or implicit efforts to explain the value of the approach. Such
                 justifications are so familiar now from textbook and other writing that
-                they are easy to overlook.These various ways of justifying one's
+                they are easy to overlook.These various ways of justifying one<rsq/>s
                 approach serve as a kind of guide to how the main models of innovation
                 in twentieth century mathematics became standard. We look in particular
                 at a set of examples around the <q>Lebesgue-Nikodym Decomposition</q>
@@ -461,7 +507,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
             </p>
             <p>
               <alert>Abstract: </alert>
-              When the United States entered World War II in December 1941, America’s
+              When the United States entered World War II in December 1941, America<rsq/>s
               mathematicians had already been bracing themselves for war. This talk
               will examine the various venues in which they contributed to the war
               effort and indicate the sorts of contributions they made.  
@@ -482,7 +528,7 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               <alert>Speaker: </alert> David Derbes, U of Chicago Lab School (retired):
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Mark Kac’s First Publication, /On a new way of solving equations of the
+              <alert>Title: </alert> <pubtitle>Mark Kac<rsq/>s First Publication, /On a new way of solving equations of the
               third degree/ </pubtitle>
             </p>
             <p>
@@ -494,13 +540,13 @@ There are many seemingly minor yet consistent differences in wording, procedure,
               mathematician. The derivation itself has been nearly
               impossible to locate, but it will be explained in this
               talk. Interestingly, it has some features in common with
-              Lodovico Ferrari’s solution of the
-              quartic. Additionally, some history of the cubic’s
+              Lodovico Ferrari<rsq/>s solution of the
+              quartic. Additionally, some history of the cubic<rsq/>s
               solution, some biographical details concerning Kac, and
               finally what may be the simplest derivation of the
               Cardano formula, due to François Viète, will be given in
               detail. This derivation seems easily within the reach of
-              high school students. If time allows, Viète’s
+              high school students. If time allows, Viète<rsq/>s
               trigonometric solution to the casus irreducibilis (three
               real roots) will be sketched.
             </p>
@@ -565,7 +611,7 @@ the future.
           <li>
             <title>January 20</title>
             <p>
-              <alert>Speaker: </alert> Maryam Vulis, St. John's University:
+              <alert>Speaker: </alert> Maryam Vulis, St. John<rsq/>s University:
             </p>
             <p>
               <alert>Title: </alert> <pubtitle>Sophia Yanovskaya (1896-1966) and Soviet Mathematical Logic  </pubtitle>
@@ -582,9 +628,9 @@ Philosophy of Mathematics - the center of research in mathematical
 logic. 1936 saw the first official course in Mathematical Logic taught
 at Moscow State University by Sophia Yanovskaya. In 1959 Yanovkaya
 oversaw the creation of the Division of Mathematical Logic at MSU in
-1959. Dr. Yanovskaya’s publications included topics on history and
+1959. Dr. Yanovskaya<rsq/>s publications included topics on history and
 philosophy of mathematics, foundations of mathematics, mathematical
-logic, and applications. There are many stories about Yanovskaya’s
+logic, and applications. There are many stories about Yanovskaya<rsq/>s
 dedication to her students and support of young mathematicians. The
 biography of the Sophia Yanovskaya was complicated and currently many
 regard her position to be not without a fault. One should remember that
@@ -607,7 +653,7 @@ political climate of the country.
               <alert>Speaker: </alert> Colin McKinney, Wabash College:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Clairaut’s Quatre Problèmes sur de Nouvelles Courbes  </pubtitle>
+              <alert>Title: </alert> <pubtitle>Clairaut<rsq/>s Quatre Problèmes sur de Nouvelles Courbes  </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
@@ -618,10 +664,10 @@ Clairaut gives the algebraic and geometric properties of each curve, and
 shows how they can be used to solve the ancient problem of finding any
 number of mean proportionals between two given straight lines. He also
 finds tangents to his curves, and computes their quadratures. In our
-presentation, we will motivate Clairaut’s investigations and relate one
+presentation, we will motivate Clairaut<rsq/>s investigations and relate one
 of his family of curves to those given by Descartes in La Géométrie.
-We’ll also discuss our process of creating a critical edition of
-Clairaut’s French text and translating the work into English. 
+We<rsq/>ll also discuss our process of creating a critical edition of
+Clairaut<rsq/>s French text and translating the work into English. 
 
             </p>
           </li>
@@ -637,13 +683,13 @@ Discernible in Typical Mathematical-logic Textbooks?  </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
-Tarski’s are famous, but Pieri’s? I will trace back two themes in
+Tarski<rsq/>s are famous, but Pieri<rsq/>s? I will trace back two themes in
 axiomatics: selecting primitive concepts and formulating postulates
 sufficient to develop a familiar informal theory; and deducing its
 theorems as logical consequences. The modern concept of logical
 consequence stems from Tarski (1953, 1935), then Ajdukiewicz (1921),
-Pieri (1898), and Bolzano (1830s). I will sketch Tarski’s and Pieri’s
-milieux in Warsaw and Turin, and survey Pieri’s pioneering development
+Pieri (1898), and Bolzano (1830s). I will sketch Tarski<rsq/>s and Pieri<rsq/>s
+milieux in Warsaw and Turin, and survey Pieri<rsq/>s pioneering development
 of postulate systems. This presentation is extracted from three recent
 books written with coauthors Elena Marchisotto and Francisco
 Rodríguez-Consuegra and with Andrew and Joanna McFarland. 
@@ -687,9 +733,9 @@ systems and their fate.
 The fundamental theorem of algebra says that every nonconstant
 polynomial with complex coefficients has a root in the complex plane. In
 this talk I will present a method of visualizing functions on the
-complex plane and use this method illustrate proofs by D'Alembert,
+complex plane and use this method illustrate proofs by D<rsq/>Alembert,
 Gauss, and Argand. At the end of the talk I will describe recent work on
-filling a gap in Gauss's proof.
+filling a gap in Gauss<rsq/>s proof.
 
             </p>
           </li>
@@ -758,8 +804,8 @@ Community College, CT
 The Polish mathematician Zygmunt Janiszewski made important mathematical
 contributions during his life cut short by the 1918 influenza pandemic.
 Janiszewski studied mathematics in Europe and after defending his
-dissertation /Sur les Continus Irréductibles Entre Deux Points/ (1911)
-under Lebesgue’s supervision, continued visiting mathematical centers in
+dissertation <pubtitle>Sur les Continus Irréductibles Entre Deux Points</pubtitle> (1911)
+under Lebesgue<rsq/>s supervision, continued visiting mathematical centers in
 Europe and attending conferences. Consequently, his meeting with the
 Lwow mathematicians Józef Puzyna and Waclaw Sierpinski at the Congress
 of Polish Scientists and Physicians in Krakow brought Janiszewski to
@@ -774,8 +820,8 @@ with Stefan Mazurkiewicz and Waclaw Sierpinski. Zygmundt Janiszewski
 published several important articles in pure mathematics and is
 considered to be one the founders of the Polish Mathematics School.
 Janiszewski was instrumental in setting the direction of Polish
-mathematics at the time and establishing the journal “Fundamenta
-Mathematicae” based on the novel idea of the journal devoted to a single
+mathematics at the time and establishing the journal <pubtitle>Fundamenta
+Mathematicae</pubtitle> based on the novel idea of the journal devoted to a single
 mathematical field. One cannot talk about Zygmunt Janiszewski without
 adding that he was a Polish patriot and a humanitarian whose liberal
 views were not easily shared by his colleagues.  
@@ -794,7 +840,7 @@ views were not easily shared by his colleagues.
           <li>
             <title>December 10</title>
             <p>
-              <alert>Speaker: </alert> Larry D'Antonio, Ramapo College :
+              <alert>Speaker: </alert> Larry D<rsq/>Antonio, Ramapo College :
             </p>
             <p>
               <alert>Title: </alert> <pubtitle>Newton and his Fudge Factors  </pubtitle>
@@ -805,13 +851,13 @@ Newton remarked to Halley that lunar theory gave him a headache. In
 particular the calculation of the motion of the lunar apsides frustrated
 Newton (an apse is an endpoint of the major axis of the ellipse defining
 the orbit of a body). The lunar apsides rotate approximately 3 degrees
-per month, but Newton’s calculations only showed half of this amount,
-leading Newton to say that the problem was “too complicated and
-cluttered with approximations.” In this talk we will examine Newton’s
+per month, but Newton<rsq/>s calculations only showed half of this amount,
+leading Newton to say that the problem was <q>too complicated and
+cluttered with approximations.</q> In this talk we will examine Newton<rsq/>s
 lunar theory, his failures and successes, and his occasional use of a
-fudge factor to get the theory to align with observation. Newton’s
-biographer, Richard Westfall, once commented that “no one can manipulate
-the fudge factor as the master mathematician himself.”
+fudge factor to get the theory to align with observation. Newton<rsq/>s
+biographer, Richard Westfall, once commented that <q>no one can manipulate
+the fudge factor as the master mathematician himself.</q>
 
             </p>
           </li>
@@ -828,7 +874,7 @@ University:
               <alert>Abstract: </alert>
 The overall theme of my talk is circularity. It pivots around research I
 conducted with an archaeologist to find the center of an ancient
-circular Olympic starting line. I'll begin with some history of the
+circular Olympic starting line. I<rsq/>ll begin with some history of the
 ancient and modern Olympics (hopefully next in Tokyo in 2021) and finish
 with examples of the importance of measuring the precision of circles in
 engineering (pistons, shafts, bearings, etc.) and in astronomy (event
@@ -966,7 +1012,7 @@ Paradox </pubtitle>
               <alert>Abstract: </alert>
 World War I had marked a break in business as usual within the American
 mathematical research community. In its aftermath, there was a strong
-sense of entering into “a new era in the development of our science.”
+sense of entering into <q>a new era in the development of our science.</q>
 And then the stock market crashed. Would it be possible in such newly
 straitened times to sustain into the 1930s the momentum that American
 mathematicians had managed to build in the 1920s? This talk will explore
@@ -980,7 +1026,7 @@ the contours of an answer to that question.
               <alert>Speaker: </alert>  Brittany Shields, University of Pennsylvania:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Engineering Education for “Vital War Industries”: Mathematical
+              <alert>Title: </alert> <pubtitle>Engineering Education for <q>Vital War Industries</q>: Mathematical
 Foundations in the US Engineering, Science and Management War Training
 Program during the Second World War </pubtitle>
             </p>
@@ -1011,7 +1057,7 @@ Japan  </pubtitle>
             <p>
               <alert>Abstract: </alert>
 The unique cultural traditions we associate with Japan flourished over
-the century and a half during which Japan’s borders were closed to
+the century and a half during which Japan<rsq/>s borders were closed to
 foreign influence during the Edo period (1603-1867). Among the many
 practices that were refined during this period, Japanese abstract
 mathematics is not one of the most familiar. In this talk I give a
@@ -1019,7 +1065,7 @@ glimpse of some powerful techniques and problem-solving conventions
 unique to Japanese mathematics, with a focus on how the ways they were
 shared were in keeping with ancient Japanese culture. In particular, I
 summarize the marvelous work done to date on historicizing the practice
-of sharing geometrical problems via wooden prayer boards — “sangaku” —
+of sharing geometrical problems via wooden prayer boards <mdash/> <q>sangaku</q> <mdash/>
 displayed to the public at shrines and temples. In our discussion I
 bring to bear my own work on public problem-solving exchange in early
 18th-c. Europe and introduce questions about the roles of economics,
@@ -1097,11 +1143,11 @@ popular view that deductive logic is central to mathematical practice?
 Mathematics, University of Toronto:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Soviet Mathematics Education Reforms of the 1970's and Their Aftermath </pubtitle>
+              <alert>Title: </alert> <pubtitle>Soviet Mathematics Education Reforms of the 1970<rsq/>s and Their Aftermath </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
-During the 1960's Soviet government initiated major education reform in
+During the 1960<rsq/>s Soviet government initiated major education reform in
 USSR. Professor of Mathematics at the Moscow State University Andrei
 Kolmogorov got appointed as the head of the mathematics committee of the
 Scientific Methodological Council and got heavily involved in
@@ -1157,13 +1203,13 @@ Ada Lovelace: The Making of a Computer Scientist
               <alert>Title: </alert> <pubtitle>
 
 Ada Lovelace is widely regarded as an early pioneer of computer science,
-due to an 1843 paper about Charles Babbage's Analytical Engine, which,
+due to an 1843 paper about Charles Babbage<rsq/>s Analytical Engine, which,
 had it been built, would have been a general-purpose computer.Her paper
 contains an account of the principles of the machine, along with a table
-often described as 'the first computer program'. However, over the
+often described as <rsq/>the first computer program<rsq/>. However, over the
 years, there has been considerable disagreement among scholars as to her
-mathematical proficiency, with opinions ranging from 'genius' to
-'charlatan'. This talk presents an analysis of Lovelace's extant
+mathematical proficiency, with opinions ranging from <lsq/>genius<rsq/> to
+<lsq/>>charlatan.<rsq/> This talk presents an analysis of Lovelace<rsq/>s extant
 mathematical writings and will attempt to convey a more nuanced
 assessment of her mathematical abilities than has hitherto been the case. 
 
@@ -1202,15 +1248,15 @@ The Phi-bonacci Sequence </pubtitle>
               <alert>Abstract: </alert>
 Sometimes innocent questions from students can stir long-forgotten
 memories and stimulate mathematical investigation.Last year I took over
-my wife's Discrete Mathematics course for a week.I spent much of the
+my wife<rsq/>s Discrete Mathematics course for a week.I spent much of the
 first class working out elementary induction proofs and introducing
 recurrence relations.At the end of the class, one of the students asked
 if there was a recurrence relation for the nth term of the Fibonacci
 sequence.I was in a hurry to teach a class 45 minutes away, so I
 foolishly replied that I did not think there was.On the drive to my
-other job, I recalled Binet's formula which prompted me to dig up notes
+other job, I recalled Binet<rsq/>s formula which prompted me to dig up notes
 on this subject that I had long since forgotten.This paper will discuss
-my discovery and re-discovery of the beautiful interplay between Binet's
+my discovery and re-discovery of the beautiful interplay between Binet<rsq/>s
 recurrence relation, the Golden Mean, and the Fibonnacci Sequence, as
 well as, discuss whether Binet was the first to discover the formula.
 
@@ -1285,7 +1331,7 @@ interesting life and make some remarks about his contributions to logic.
 In 2012 the Nobel memorial prize ( for <q>economics</q>) was awarded to Lloyd
 Shapley for work on the <q>stable marriage problem,</q> specifically for the
 1962 paper with David Gale <pubtitle>College Admissions and the Stability of
-Marriage</pubtitle> published in <mdash/> of all places <mdash/> the MAA Monthly and I'm sure
+Marriage</pubtitle> published in <mdash/> of all places <mdash/> the MAA Monthly and I<rsq/>m sure
 that Gale would have shared the prize if he had been alive. The paper
 was intended to be -- mostly -- a nice example of mathematics about
 something other than numbers or geometry. In 1961 Gale and I were both
@@ -1298,7 +1344,7 @@ think worth telling.
           <li>
             <title>November 16</title>
             <p>
-              <alert>Speaker: </alert> Lindsay Roberts , Prince George’s Community College:
+              <alert>Speaker: </alert> Lindsay Roberts , Prince George<rsq/>s Community College:
             </p>
             <p>
               <alert>Title: </alert> <pubtitle>An Antebellum Algebra Textbook: Proofs, Algorithms, and Slavery  </pubtitle>
@@ -1308,7 +1354,7 @@ think worth telling.
 In 1857 Daniel Harvey Hill, a professor at Davidson College in North
 Carolina, published a textbook titled Elements of Algebra, aimed at the
 college market. A twenty-first century mathematical reader will find in
-Hill’s book features both familiar and unfamiliar, and will gain insight
+Hill<rsq/>s book features both familiar and unfamiliar, and will gain insight
 into the state of the field at the time. Hill is comfortable with
 well-defined algorithms and symbol manipulation, but he flubs a proof
 involving the fundamental properties of prime numbers, and he treats
@@ -1316,7 +1362,7 @@ imaginary numbers with trepidation. Hill, an ardent southern loyalist
 who would later serve as a general in the Confederate army, also spices
 his book with anti-Yankee sentiments and unapologetic references to
 slavery. This talk will touch on both the mathematical and ideological
-aspects of Hill’s book, comparing it with some similar books of roughly
+aspects of Hill<rsq/>s book, comparing it with some similar books of roughly
 the same time period.  
 
             </p>
@@ -1327,7 +1373,7 @@ the same time period.
               <alert>Speaker: </alert> Laura Turner, Monmouth University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>E.V. Huntington's Postulates for the Real Numbers: a Preliminary Report  </pubtitle>
+              <alert>Title: </alert> <pubtitle>E.V. Huntington<rsq/>s Postulates for the Real Numbers: a Preliminary Report  </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
@@ -1385,7 +1431,7 @@ the original papers from the Academy Archives on Vasievskij Ostrov.
               <alert>Title: </alert> <pubtitle>John Playfair and His Misnamed Axiom  </pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert> The term <q>Playfair's Axiom</q> is
+              <alert>Abstract: </alert> The term <q>Playfair<rsq/>s Axiom</q> is
               a mainstay of school geometry textbooks as well as one
               of the few things many mathematicians know about John
               Playfair (1748–1819), Professor of Mathematics and then
@@ -1394,11 +1440,11 @@ the original papers from the Academy Archives on Vasievskij Ostrov.
               considerable historical complexity. At least three
               different versions of the statement circulate among
               speakers of English—only two of which appeared in the
-              editions of Playfair's Elements of Geometry—while the
+              editions of Playfair<rsq/>s Elements of Geometry—while the
               underlying concept dates back to Proclus.  Additionally,
               the versions are not logically equivalent with each
               other.  I will discuss recent research that has revealed
-              new information about when and why <q>Playfair's Axiom</q>
+              new information about when and why <q>Playfair<rsq/>s Axiom</q>
               became commonplace as a label.
 
             </p>
@@ -1421,7 +1467,7 @@ which various parts of mathematics are organized, etc.); (b) in terms of
 a structuralist semantics for mathematics (a conception, or several
 related conceptions, of what we talk about when we study <q>the natural
 numbers,</q> <q>the real numbers,</q> <q>the cyclic group with five elements,</q>
-etc.). In this talk, I will show that Richard Dedekind’s writings from
+etc.). In this talk, I will show that Richard Dedekind<rsq/>s writings from
 the nineteenth century should be seen as one of the main historical
 sources for both strands. Moreover, the two strands are intimately
 connected for him, as I will also try to establish. This will involve
@@ -1433,8 +1479,8 @@ his teachers and mentors, to be sure, especially Gauss, Dirichlet, and
 Riemann. But he went significantly beyond them precisely by initiating a
 structuralist transformation of modern mathematics, one that was later
 continued by Hilbert, Noether, Bourbaki, and in category theory. Some of
-the contents of this talk appeared in Professor Reck’s article
-“Dedekind’s Contributions to the Foundations of Mathematics” in the
+the contents of this talk appeared in Professor Reck<rsq/>s article
+<pubtitle>Dedekind<rsq/>s Contributions to the Foundations of Mathematics</pubtitle> in the
 Stanford Encyclopedia of Philosophy.  
 
             </p>
@@ -1468,7 +1514,7 @@ Academy:
             </p>
             <p>
               <alert>Abstract: </alert>
-How's that for the shortest title ever? How can you decide if a number
+How<rsq/>s that for the shortest title ever? How can you decide if a number
 is the sum of two squares? Euler begins with the dumbest possible
 algorithm you can think of: Take the number, subtract a square, and
 check if the remainder is a square. If not, repeat, repeat, repeat. But
@@ -1494,7 +1540,7 @@ method, to show that 1,000,009 is not prime.
           <li>
             <title>February 18</title>
             <p>
-              <alert>Speaker: </alert> Lawrence D’Antonio, Ramapo College:
+              <alert>Speaker: </alert> Lawrence D<rsq/>Antonio, Ramapo College:
             </p>
             <p>
               <alert>Title: </alert> <pubtitle>When Mathematicians were Rock Stars: the Academies of Science in the
@@ -1527,7 +1573,7 @@ political, in these Academies.
             <p>
               <alert>Abstract: </alert> Over a century ago Ernst Mach,
               the famous Austrian physicist and philosopher of
-              science, wrote a blistering criticism of Archimedes'
+              science, wrote a blistering criticism of Archimedes<rsq/>
               celebrated proof of the Law of the Lever. Mach accused
               Archimedes of overusing his <q>Grecian mania for
               demonstration</q> and succeeding in his proof only <q>by
@@ -1535,8 +1581,8 @@ political, in these Academies.
               His attack drew the expected objections from many
               historians and philosophers of science who, in turn,
               accused Mach of not understanding the subtleties of
-              Archimedes' proof. I will give my own interpretation of
-              this controversy from a mathematician’s point of view,
+              Archimedes<rsq/> proof. I will give my own interpretation of
+              this controversy from a mathematician<rsq/>s point of view,
               concluding with my belief that, while Archimedes did
               indeed prove something, it can hardly be called a proof
               of the Law of the Lever.
@@ -1611,11 +1657,11 @@ algorithms. No particular knowledge of graph theory is assumed.
               <alert>Speaker: </alert>: Robert Naugle, Shepherd University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Archimedes, Codex C, "The Method of Mechanical Theorem" : Controversy  </pubtitle>
+              <alert>Title: </alert> <pubtitle>Archimedes, Codex C, <q>The Method of Mechanical Theorem</q> : Controversy  </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
-The only extant copy of "The Method of Mechanical Theorems" in the
+The only extant copy of <q>The Method of Mechanical Theorems</q> in the
 original Greek has been known to exist in Codex C since Johan Ludvig
 Heiberg (1854-1928) examined it at the turn of the 20th Century. Heiberg
 succeeded in deciphering most of its contents using light, a magnifying
@@ -1647,20 +1693,20 @@ make his claim.
               <alert>Speaker: </alert>, Robert Bradley, Adelphi University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>L’Hôpital’s Synthesis of Calculus and Geometry  </pubtitle>
+              <alert>Title: </alert> <pubtitle>L<rsq/>Hôpital<rsq/>s Synthesis of Calculus and Geometry  </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
-Guillaume François Antoine, the Marquis de l’Hôpital, wrote the first
-differential calculus textbook, which he published in 1696. Leibniz’
+Guillaume François Antoine, the Marquis de l<rsq/>Hôpital, wrote the first
+differential calculus textbook, which he published in 1696. Leibniz<rsq/>
 calculus, which the Marquis had learned from Johann Bernoulli, was at
 this time a calculus of algebraic functions only. Nevertheless, by
 combining the techniques of the new calculus with methods of Euclidean
 geometry, Leibniz and the Bernoullis were able to investigate the
 properties of wide a variety of transcendental curves, including the
 cycloid, the quadratrix, and various spirals. Through his groundbreaking
-textbook, the Marquis de l’Hôpital shared these new methods with the
-French mathematical community. In this talk, I will describe l’Hôpital’s
+textbook, the Marquis de l<rsq/>Hôpital shared these new methods with the
+French mathematical community. In this talk, I will describe l<rsq/>Hôpital<rsq/>s
 calculus, providing a variety of examples drawn from my forthcoming
 translation of Analyse des infiniment petits, a joint project with Sal
 Petrilli and Ed Sandifer. 
@@ -1743,12 +1789,12 @@ in tandem.
               <alert>Speaker: </alert>, Shelley Costa, Swarthmore College:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>The Ladies' Diary: Society, Gender and Mathematics in early 18th-c.
+              <alert>Title: </alert> <pubtitle>The Ladies<rsq/> Diary: Society, Gender and Mathematics in early 18th-c.
 England </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert> Some of you may be familiar
-              with my work on the <pubtitle>Ladies' Diary</pubtitle>,
+              with my work on the <pubtitle>Ladies<rsq/> Diary</pubtitle>,
               an 18th- and 19th-c. British annual periodical that
               contained advanced mathematical problems (see
               esp. Osiris, 2002). Most of the research contained in my
@@ -1756,11 +1802,11 @@ England </pubtitle>
               unpublished. In this talk I will outline the historical
               perspectives that informed my approach to this material
               and report on my present experience of newly revising it
-              for publication nearly 15 years on. From Anne’s reign to
-              Victoria’s, the Ladies’ Diary or Woman’s Almanack hosted
+              for publication nearly 15 years on. From Anne<rsq/>s reign to
+              Victoria<rsq/>s, the <pubtitle>Ladies<rsq/> Diary or Woman<rsq/>s Almanack</pubtitle> hosted
               an annual mathematical exchange among an enthusiastic
               readership of men and women. In the dissertation I
-              analyze the social structures that shaped the Diary’s
+              analyze the social structures that shaped the Diary<rsq/>s
               first fifty years, including a feverishly consumerist
               print culture, genteel expectations of femininity, and
               the mathematization of early industrial technology.
@@ -1835,7 +1881,7 @@ teachers, and inspired discussions of curriculum reform.
 19th-century England could not get her mathematical textbook published </pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert> Mary Fairfax Somerville's
+              <alert>Abstract: </alert> Mary Fairfax Somerville<rsq/>s
               writings on mathematics and science made her a household
               name in Victorian England. Her most well-known work was
               Mechanism of the Heavens (1831), a highly valued
@@ -1898,7 +1944,7 @@ The conflict between the Newtonians and the Leibnizians is often
 portrayed as a dispute over priority for the invention of the calculus.
 It was that, but it was much more, since the participants differed on
 matters of substance concerning theology, natural philosophy, and
-mathematics. The first and second editions of Newton’s Principia were
+mathematics. The first and second editions of Newton<rsq/>s Principia were
 published during this protracted conflict. By examining a few
 propositions about orbits and some continental reactions to them we can
 infer some of the differences between the two schools concerning
@@ -1955,7 +2001,7 @@ through part of its historical development.
               them available to the public <url
               href="viahttp://collections.si.edu"
               visual="viahttp://collections.si.edu">viahttp://collections.si.edu</url>
-              . More recently, staff members at the Smithsonian's
+              . More recently, staff members at the Smithsonian<rsq/>s
               National Museum of American History (NMAH) have been
               organizing object records into groups and posting them
               as mini-exhibits at <url
@@ -2027,7 +2073,7 @@ a machine for enlarging and reducing figures, also deserve brief mention.
           <li>
             <title>April 18</title>
             <p>
-              <alert>Speaker: </alert>. David Lindsay Roberts, Prince George's Community
+              <alert>Speaker: </alert>. David Lindsay Roberts, Prince George<rsq/>s Community
 College 
             </p>
           </li>
@@ -2044,7 +2090,7 @@ College
             </p>
             <p>
               <alert>Title: </alert> <pubtitle>
-Correcting an Error in Book I of Archimedes' <q>On Floating Bodies</q> </pubtitle>
+Correcting an Error in Book I of Archimedes<rsq/> <q>On Floating Bodies</q> </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
@@ -2053,14 +2099,14 @@ gravity of an object and in his works he determined the locations of the
 centers of gravity of many planar and solid bodies. His calculations,
 however, implicitly assumed that the body was immersed in a uniform
 gravitational field, so he was actually determining the location of the
-body's center of mass (or centroid). He did not realize that the concept
+body<rsq/>s center of mass (or centroid). He did not realize that the concept
 of a center of gravity is not applicable in a nonuniform gravitational
 field, a fact that many are not aware of even today. This led to his
 incorrectly proving an erroneous theorem at the end of Book 1 of his
 work <q>On Floating Bodies.</q> His theorem states that a truncated sphere
 floating in a body of water on a spherical earth that attracts objects
 to its center will float stably with its base horizontally under very
-general conditions. I'll discuss his error and suggest an alternate
+general conditions. I<rsq/>ll discuss his error and suggest an alternate
 proof of a similar correct result. 
 
 </p>
@@ -2107,24 +2153,24 @@ proof of a similar correct result.
               <alert>Title: </alert> <pubtitle>Heron, Newton, Euler, and Barney </pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert> Heron's formula, giving the
+              <alert>Abstract: </alert> Heron<rsq/>s formula, giving the
               area of a triangle in terms of the lengths of its sides,
               is one of the great, peculiar results of plane geometry.
               It is thus to be expected that, over the years, there
               have been multiple demonstrations of this remarkable
-              formula. Here, I consider four such proofs. Heron's
+              formula. Here, I consider four such proofs. Heron<rsq/>s
               original was a clever if convoluted exercise in
               Euclidean geometry. Centuries later, Isaac Newton gave a
               demonstration whose heavy lifting was done by algebra
-              rather than geometry. Leonhard Euler’s proof was
+              rather than geometry. Leonhard Euler<rsq/>s proof was
               geometric and exhibited his characteristic flair. Then
               in 1990 Barney Oliver, a former recipient of the
               National Medal of Science, shared with me an elegant
               trigonometric argument where the symmetry of the formula
               was mirrored by the symmetry of the proof itself. The
-              first two of these – Heron’s and Newton’s – I’ll mention
-              only briefly. The second pair – Euler’s and Barney’s –
-              I'll prove in detail. Taken together, these should
+              first two of these – Heron<rsq/>s and Newton<rsq/>s – I<rsq/>ll mention
+              only briefly. The second pair – Euler<rsq/>s and Barney<rsq/>s –
+              I<rsq/>ll prove in detail. Taken together, these should
               remind us why the history of our discipline is such a
               fine source for wonderful mathematics.
 
@@ -2169,27 +2215,27 @@ these issues.
               <alert>Speaker: </alert> Robert E. Bradley, Adelphi University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>The Origins and Contents of de l’Hôpital’s Analyse </pubtitle>
+              <alert>Title: </alert> <pubtitle>The Origins and Contents of de l<rsq/>Hôpital<rsq/>s Analyse </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
-Guillaume François Antoine de l’Hôpital’s /Analyse des infiniment
-petits/ (1696) was the first ever calculus textbook. It was also
+Guillaume François Antoine de l<rsq/>Hôpital<rsq/>s <pubtitle>Analyse des infiniment
+petits</pubtitle> (1696) was the first ever calculus textbook. It was also
 something of an enigma. For one thing, it was published anonymously,
-although de L’Hôpital’s authorship was no secret. Also, it made no
+although de L<rsq/>Hôpital<rsq/>s authorship was no secret. Also, it made no
 mention of the integral calculus: instead, its introduction to the
 differential calculus was followed by what can only be described as an
 advanced text on differential geometry, motivated by what were then
 cutting-edge problems in mechanics and optics. However, the oddest
 aspect of this book is its genesis. The introductory chapters were based
-on Johann Bernoulli’s /Lectiones de calculo differentialium/, lessons
+on Johann Bernoulli<rsq/>s <pubtitle>Lectiones de calculo differentialium</pubtitle>, lessons
 that only ever existed in manuscript form and were unknown to the
-scholarly community until 1921. De l’Hôpital received his copy when he
-hired Bernoulli to tutor him in 1691-92. Subsequently, he “purchased”
+scholarly community until 1921. De l<rsq/>Hôpital received his copy when he
+hired Bernoulli to tutor him in 1691-92. Subsequently, he <q>purchased</q>
 the advanced material of the later chapters, in an arrangement under
 which he supported Bernoulli with a stipend in 1694-95. In this talk, we
 will consider both the mathematics that was presented in the Analyse and
-the process by which in came into being. We will compare de l’Hôpital’s
+the process by which in came into being. We will compare de l<rsq/>Hôpital<rsq/>s
 exposition of the elements of the differential calculus with that of
 Bernoulli and examine some of the more advanced results presented in the
 Analyse.
@@ -2209,7 +2255,7 @@ Analyse.
 The Moscow Mathematical Society, which grew out of a math circle, had
 its first meeting on September 27, 1864. It was founded with the purpose
 of promoting mathematical sciences in Russia. In few years, it started
-the publication of the “Mathematichekij Sbornik,” the first Russian
+the publication of the <pubtitle>Mathematichekij Sbornik</pubtitle>, the first Russian
 Mathematics Journal. The Moscow Society reflected the philosophy of the
 Moscow School of Mathematics which rejected the importance of applied
 mathematics and emphasized mysticism and spirituality, whereas the St.
@@ -2235,13 +2281,13 @@ concerned with studying the structure of established mathematical
 theories by examining fundamental assumptions. They examined alternative
 postulational formulations and considered desirable features of a
 postulate system: consistency, independence, completeness, categoricity,
-brevity. John Corcoran, “On Definitional Equivalence and Related
-Topics,” History of Symbolic Logic 1 (1980), 231—234, introduced the
-term “American postulate theory,” identified some of its practitioners
+brevity. John Corcoran, <pubtitle>On Definitional Equivalence and Related
+Topics</pubtitle>, History of Symbolic Logic 1 (1980), 231—234, introduced the
+term <q>American postulate theory,</q> identified some of its practitioners
 and suggested a need for historical study of their work. Michael Scanlan
-“Who Were the American Postulate Theorists?,” The Journal of Symbolic
-Logic 56 (1991), 981—1002 and “American Postulate Theorists and Alfred
-Tarski,”History and Philosophy of Logic 24 (2003), 307-325 identified
+<pubtitle>Who Were the American Postulate Theorists?</pubtitle>, The Journal of Symbolic
+Logic 56 (1991), 981—1002 and <pubtitle>American Postulate Theorists and Alfred
+Tarski</pubtitle>, History and Philosophy of Logic 24 (2003), 307-325 identified
 others, compared two American postulate theorists to European
 contemporaries, and analyzed their influence on mathematical logicians.
 I will undertake a broader review, attempting at least partial answers
@@ -2268,7 +2314,7 @@ Did a theory of postulation develop?
             </p>
             <p>
               <alert>Title: </alert> <pubtitle>The Architecture of Mathematical Institutes: A Comparative Study of
-Göttingen and NYU’s Mathematical Institutes under the Leadership of
+Göttingen and NYU<rsq/>s Mathematical Institutes under the Leadership of
 Richard Courant </pubtitle>
             </p>
             <p>
@@ -2283,7 +2329,7 @@ a case study, I consider the career of the mathematician Richard Courant
 world-class mathematical institutes – the first, in the late 1920s at
 the University of Göttingen (where he was exiled in 1933), and then in
 the 1960s at New York University. In both cases, I consider the
-buildings’ planning, development, construction, and habitation
+buildings<rsq/> planning, development, construction, and habitation
 processes, examining blueprints, committee meeting minutes, and
 correspondence between the mathematicians, university administrators,
 government officials and philanthropy representatives. Ultimately, I
@@ -2314,7 +2360,7 @@ Screw </pubtitle>
               of aquatic life. Within the last decade it has also
               found a new application in the generation of electricity
               by being run backwards. In this presentation I will give
-              a history of this device from Archimedes' time (3rd
+              a history of this device from Archimedes<rsq/> time (3rd
               century BC) to the present day and also discuss my past
               and proposed research on the design of the Screw that
               maximizes the amount of water lifted or lowered in each
@@ -2364,7 +2410,7 @@ Gregory and the /CMJ/, and will examine several of the problems.
               of the Warsaw School of Logic. He did seminal research
               in many-valued logics, propositional calculi, modal
               logic, and the history of logic, especially concerning
-              Aristotle's syllogistic. He left Warsaw toward the end
+              Aristotle<rsq/>s syllogistic. He left Warsaw toward the end
               of World War II and found a new home at the Royal Irish
               Academy in Dublin where he continued his creative work.
 
@@ -2384,7 +2430,7 @@ Gregory and the /CMJ/, and will examine several of the problems.
               <alert>Speaker: </alert> David Zitarelli,Temple University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>David Hilbert's American Colony </pubtitle>
+              <alert>Title: </alert> <pubtitle>David Hilbert<rsq/>s American Colony </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
@@ -2427,7 +2473,7 @@ Advancement of Science:
               boundary between the US and Canada concluding the War of
               1812. As a teacher his most famous student was
               Meriwether Lewis (a second motivation) who needed field
-              instruction before Lewis and Clark's great expedition to
+              instruction before Lewis and Clark<rsq/>s great expedition to
               the west. In 1813, he was appointed by President Monroe
               as a professor of mathematics at the Military Academy at
               West Point where he was among the first in the country
@@ -2442,39 +2488,46 @@ Advancement of Science:
               <alert>Speaker: </alert> Alan Gluchoff, Villanova University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Status (“Respect”) in Mathematics: The Case of Nomography </pubtitle>
+              <alert>Title: </alert> <pubtitle>Status (<q>Respect</q>) in Mathematics: The Case of Nomography </pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert>
-Nomography can be defined as the study and preparation of graphical
-representations of mathematical equations. These representations usually
-take the form of charts or diagrams from which the values of certain
-variables in the relation can be read once others have been given. The
-subject has a history which goes back several centuries and is closely
-tied with engineering applications. It was organized as a body of
-knowledge by Maurice d’Ocagne, a French engineer, at the turn of the
-twentieth century. Nomography then spread to other countries, including
-America, in later years, where it became of use to engineers and
-scientists, and of interest to mathematicians. From an American
-Nomography text of 1947 used at MIT comes the following quote: “The
-theory of the nomgraphic chart cannot be dismissed as a simple topic.
-Mathematicians who do so are unaware that a complete treatment of the
-subject draws on every aspect of analytic, descriptive, and projective
-geometries, the several fields of algebra, and other mathematical
-fields. This suggests a conflict over the status of nomography as a
-mathematical area: how deep is the mathematics of this subject? Is it
-more than just a set of techniques for drawing charts? Can nomography
-give rise to problems of genuine mathematical interest? We will examine
-these questions as they presented themselves to American mathematicians
-of the era 1900-1950 and give examples of the connections between
-nomography and: elementary properties of determinants, the duality
-principle of projective geometry, classification problems in elementary
-algebraic forms, finding roots of real polynomials, simple partial
-differential equations, cubic curves, and Hilbert’s thirteenth problem
-(number of examples to be limited by time constraints). An attempt will
-be made to determine how American mathematicians of this era felt about
-the mathematical status of nomography.
-
+              <alert>Abstract: </alert> Nomography can be defined as
+              the study and preparation of graphical representations
+              of mathematical equations. These representations usually
+              take the form of charts or diagrams from which the
+              values of certain variables in the relation can be read
+              once others have been given. The subject has a history
+              which goes back several centuries and is closely tied
+              with engineering applications. It was organized as a
+              body of knowledge by Maurice d<rsq/>Ocagne, a French
+              engineer, at the turn of the twentieth
+              century. Nomography then spread to other countries,
+              including America, in later years, where it became of
+              use to engineers and scientists, and of interest to
+              mathematicians. From an American Nomography text of 1947
+              used at MIT comes the following quote: <q>The theory of
+              the nomgraphic chart cannot be dismissed as a simple
+              topic.</q>  Mathematicians who do so are unaware that a
+              complete treatment of the subject draws on every aspect
+              of analytic, descriptive, and projective geometries, the
+              several fields of algebra, and other mathematical
+              fields. This suggests a conflict over the status of
+              nomography as a mathematical area: how deep is the
+              mathematics of this subject? Is it more than just a set
+              of techniques for drawing charts? Can nomography give
+              rise to problems of genuine mathematical interest? We
+              will examine these questions as they presented
+              themselves to American mathematicians of the era
+              1900-1950 and give examples of the connections between
+              nomography and: elementary properties of determinants,
+              the duality principle of projective geometry,
+              classification problems in elementary algebraic forms,
+              finding roots of real polynomials, simple partial
+              differential equations, cubic curves, and Hilbert<rsq/>s
+              thirteenth problem (number of examples to be limited by
+              time constraints). An attempt will be made to determine
+              how American mathematicians of this era felt about the
+              mathematical status of nomography.
             </p>
           </li>
           <li>
@@ -2483,27 +2536,32 @@ the mathematical status of nomography.
               <alert>Speaker: </alert> Eugene Boman, Pennsylvania State University, Harrisburg
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Benjamin Robins' 'Treatise on Fluxions': An Early Response to Berkeley </pubtitle>
+              <alert>Title: </alert> Benjamin Robins<rsq/> <pubtitle>Treatise on Fluxions</pubtitle> An Early Response to Berkeley 
             </p>
             <p>
-              <alert>Abstract: </alert>
-In 1734 Bishop George Berkeley published <pubtitle>The Analyst; or A Discourse
-Addressed to an Infidel Mathematician</pubtitle>, wherein he, quite famously and
-in some cases correctly, criticized Newton's Doctrine of Fluxions.
-Maclaurin's 1742 book <pubtitle>The Elements of the Method at Fluxions</pubtitle> is
-usually taken to be the definitive Newtonian response to Berkeley. But
-there were earlier attempts to clarify and/or rigorize Newton. One was
-Benjamin Robins' <pubtitle>Treatise on Fluxions</pubtitle> published only one year after
-Berkeley. In his introduction Robins explains his purpose, <q>For though
-Sir Isaac Newton has very distinctly explained . . . these subjects . . . yet
-as the great author's great brevity has made a more diffusive
-illustration not altogeher unnecessary; (1) have here endeavored to
-consider more at large each of these methods; whereby, I hope, it will
-appear that they have all the accuracy of the strictest mathematical
-demonstration.</q> That is, Robins presents his text as simply <q>filling in
-the blanks</q> left by Newton. I will examine some key theorems/proofs from
-Robins' text.
-
+              <alert>Abstract: </alert> In 1734 Bishop George Berkeley
+              published <pubtitle>The Analyst; or A Discourse
+              Addressed to an Infidel Mathematician</pubtitle>,
+              wherein he quite famously and in some cases correctly,
+              criticized Newton<rsq/>s Doctrine of Fluxions.
+              Maclaurin<rsq/>s 1742 book <pubtitle>The Elements of the
+              Method at Fluxions</pubtitle> is usually taken to be the
+              definitive Newtonian response to Berkeley. But there
+              were earlier attempts to clarify and/or rigorize
+              Newton. One was Benjamin Robins<rsq/> <pubtitle>Treatise
+              on Fluxions</pubtitle> published only one year after
+              Berkeley. In his introduction Robins explains his
+              purpose, <q>For though Sir Isaac Newton has very
+              distinctly explained . . . these subjects . . . yet as
+              the great author<rsq/>s great brevity has made a more
+              diffusive illustration not altogeher unnecessary; (1)
+              have here endeavored to consider more at large each of
+              these methods; whereby, I hope, it will appear that they
+              have all the accuracy of the strictest mathematical
+              demonstration.</q> That is, Robins presents his text as
+              simply <q>filling in the blanks</q> left by Newton. I
+              will examine some key theorems/proofs from Robins<rsq/>
+              text.
             </p>
           </li>
         </dl>
@@ -2526,7 +2584,7 @@ Robins' text.
               <alert>Abstract: </alert>
 Almost immediately after Einstein published his first paper on
 relativity in 1905, others reworked some of his arguments in a more
-geometrical language. Minkowski's was, of course, the broadest and most
+geometrical language. Minkowski<rsq/>s was, of course, the broadest and most
 successful effort, but beginning in 1909, Sommerfeld and Varicak
 developed a geometric representation of relativistic velocities. In this
 talk I shall discuss these developments and explain the setting in which
@@ -2580,17 +2638,19 @@ experienceand what we learned.
               <alert>Title: </alert> <pubtitle>Algebra: Creating New Mathematical Entities in Victorian Britain </pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert>
-Analytic geometry and mathematical physics may have interested a
-majority of mathematicians in Victorian Britain, but algebra also served
-to focus their mathematical attention.In the century’s first half,
-algebraic work centered on the development of the so-called “symbolical
-algebra” and the creation of new algebras, while in its second, the
-theory of invariants dominated and the theory of groups witnessed key
-developments.Underlying much of this research was the philosophical
-question of how free mathematicians were to create new mathematical
-entities.The Victorian British response to that question was ultimately,
-<q>quite.</q>
+              <alert>Abstract: </alert> Analytic geometry and
+              mathematical physics may have interested a majority of
+              mathematicians in Victorian Britain, but algebra also
+              served to focus their mathematical attention.In the
+              century<rsq/>s first half, algebraic work centered on
+              the development of the so-called <q>symbolical
+              algebra</q> and the creation of new algebras, while in
+              its second, the theory of invariants dominated and the
+              theory of groups witnessed key developments.Underlying
+              much of this research was the philosophical question of
+              how free mathematicians were to create new mathematical
+              entities.The Victorian British response to that question
+              was ultimately, <q>quite.</q>
 
             </p>
           </li>
@@ -2616,7 +2676,7 @@ entities.The Victorian British response to that question was ultimately,
               evaluation of ordinary functional relations can be
               accomplished geometrically. (The slide rule is a simple
               example of one such method.)It was established as a
-              mathematical discipline in 1899 by Maurice d'Ocagne
+              mathematical discipline in 1899 by Maurice d<rsq/>Ocagne
               (1862-1938), an accomplished French engineer who
               synthesized earlier work on this subject. His 1899
               volume <pubtitle>Traite de Nomographie</pubtitle> is a
@@ -2639,7 +2699,7 @@ entities.The Victorian British response to that question was ultimately,
 <p>
              This talk attempts to survey how nomography was
              introduced into the United States in the years following
-             the publication of d'Ocagne's book, looking at its debut
+             the publication of d<rsq/>Ocagne<rsq/>s book, looking at its debut
              in the various communities of mechanical, civil, and
              electrical engineers, scientists, and mathematicians,
              with special focus on the latter. During the period from
@@ -2671,7 +2731,7 @@ entities.The Victorian British response to that question was ultimately,
             </p>
             <p>
               <alert>Abstract: </alert> As is well known, there was
-              little concern in Apollonius' Conics about the actual
+              little concern in Apollonius<rsq/> Conics about the actual
               <q>mechanical</q> construction of the conic sections. In
               fact, it is not entirely clear whether there ever was an
               interest in Classical Antiquity in any tool that would
@@ -2691,7 +2751,7 @@ entities.The Victorian British response to that question was ultimately,
               <alert>Speaker: </alert>   Steven H. Weintraub, Lehigh University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>On Legendre's Work on the Law of Quadratic Reciprocity </pubtitle>
+              <alert>Title: </alert> <pubtitle>On Legendre<rsq/>s Work on the Law of Quadratic Reciprocity </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
@@ -2699,7 +2759,7 @@ As is well-known, Legendre was the first to state the Law of Quadratic
 Reciprocity in the form that we now know it (though an equivalent result
 had earlier been conjectured by Euler), and he was able to prove it in
 some but not all cases, with the first complete proof being given by
-Gauss. In this talk we trace the evolution of Legendre's work on
+Gauss. In this talk we trace the evolution of Legendre<rsq/>s work on
 quadratic reciprocity in his four great works on number theory, from
 1785, 1797, 1808, and 1830. 
 
@@ -2712,13 +2772,14 @@ quadratic reciprocity in his four great works on number theory, from
 Harrisburg:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Ghosts of Departed Errors: A Look at Bishop Berkeley's "The
-Analyst" and the Scientific Community's Initial Response to It </pubtitle>
+              <alert>Title: </alert> <pubtitle>Ghosts of Departed Errors: A Look at Bishop Berkeley<rsq/>s <q>The
+Analyst</q> and the Scientific Community<rsq/>s Initial Response to It </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
 In 1734 Bishop Berkeley criticized the logical foundations of the
-Calculus in <pubtitle>The Analyst</pubtitle> and set off a small 'pamphlet war'. James
+Calculus in <pubtitle>The Analyst</pubtitle> and set off a small 
+<lsq/>pamphlet war.<rsq/> James
 Jurin and John Walton replied immediately and angrily. Berkeley then
 responded to each of them. Shortly after this exchange Jurin and
 Benjamin Robins engaged in a lengthy and eventually acrimonious public
@@ -2758,7 +2819,7 @@ for years thereafter connections between the two notions of compactness
 lay unrecognized and applications of compactness in logical contexts
 were not pursued. This talk will survey how the Compactness Theorem
 eventually came to be regarded as a fundamental tool in model theory and
-algebra, and will explore why recognition of it's usefulness was so long
+algebra, and will explore why recognition of it<rsq/>s usefulness was so long
 delayed.
 
             </p>
@@ -2774,7 +2835,7 @@ delayed.
             <p>
               <alert>Abstract: </alert> In this talk I contrast the
               careers of late seventeenth-/mid-eighteenth-century
-              mathematical authors Guillaume de I' Hôpital
+              mathematical authors Guillaume de I<rsq/> Hôpital
               (1661-1704), Emilie du Châtelet (1706-1749), and Maria
               Gaetana Agnesi (1718-1799). My basic aim is to assess
               the impact of social factors such as class, gender, and
@@ -2887,7 +2948,7 @@ to the field of cryptology.
               with Marin Mersenne, the 17-year-old Christiaan Huygens
               showed that the hanging chain did not in fact take the
               form of a parabola. We will investigate some of
-              Huygens's geometrical arguments in detail, and we will
+              Huygens<rsq/>s geometrical arguments in detail, and we will
               discuss some of the general history of the problem.
 
             </p>
@@ -2927,7 +2988,7 @@ to the field of cryptology.
               towards algebra. Nevertheless, some followed other lines
               of research.  Mathematicians had originally introduced a
               resolvent equation as a step towards solving a given
-              equation by radicals. After Galois' theory became known,
+              equation by radicals. After Galois<rsq/> theory became known,
               mathematicians still studied resolvent equations, but
               now with new aims. This talk is the outgrowth of my
               attempt understand the background to one of the late
@@ -2960,7 +3021,7 @@ China before 1966, the speaker will provide a setting for the Cultural
 Revolution by showing a 10-minute documentary film. He will then take
 two leading Chinese mathematicians, Wu Wenjun, better known in the West
 as Wen- tsun Wu, and Gong Sheng, as examples, to discuss how the
-Cultural Revolution affected mathematicians’ personal lives and
+Cultural Revolution affected mathematicians<rsq/> personal lives and
 research. In order to show how politics and Marxist ideology determined
 mathematical research in mainland China during this period, the talk
 will also discuss Chinese translations of Karl Marx’s Mathematical
@@ -3015,10 +3076,10 @@ Mathematics, Franklin &amp; Marshall College:
             </p>
             <p>
               <alert>Abstract: </alert> Although it is very easy with
-              computers to demonstrate the Gibb's Phenomena to today's
+              computers to demonstrate the Gibb<rsq/>s Phenomena to today<rsq/>s
               students of Fourier Series, it was not a simple matter
               in 1899. I will trace the interesting history leading up
-              to Gibb's announcement, and then speculate on his
+              to Gibb<rsq/>s announcement, and then speculate on his
               discovery.
 
             </p>
@@ -3029,7 +3090,7 @@ Mathematics, Franklin &amp; Marshall College:
               <alert>Speaker: </alert> Steven Weintraub, Lehigh University :
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Cayley Documents in Lehigh's Possession </pubtitle>
+              <alert>Title: </alert> <pubtitle>Cayley Documents in Lehigh<rsq/>s Possession </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert> The Lehigh University Library
@@ -3062,19 +3123,19 @@ Jersey twenty years ago.
     </section>
 
     <section  xml:id="spring-2008">
-      <title>     Spring 2008 (poem to Tom here)  </title>
+      <title>     Spring 2008 (poem to Tom Bartlow here)  </title>
 <pre>
 To Tom on his Retirement [from Villanova University]
 by Doug Norton, May 13, 2008
 
-The hist’ry of things mathematical
+The hist'ry of things mathematical
 At times can make folks quite fanatical;
 But someone we know,
 Our own Tom Bartlow,
 Instead made a move not so radical:
 
 Along with his bud Zitarelli,
-He runs a series that’s quite swell. He,
+He runs a series that's quite swell. He,
 With grace and aplomb,
  Hosts talks at PASHoM
   [The Philadelphia Area Seminar on the History of Mathematics],
@@ -3082,17 +3143,17 @@ And also puts food in your belly
   [As usual, I will provide a light supper, at a cost of $6, or $7, or
 $8 …].
 
-So now that his teaching he’s leaving,
-You Math Hist’ry folks: please, no grieving!
+So now that his teaching he's leaving,
+You Math Hist'ry folks: please, no grieving!
 With all that free time,
-He’s still in his prime:
-Math Hist’ry we’ll all keep receiving.
+He's still in his prime:
+Math Hist'ry we'll all keep receiving.
 
 So as you go off in the sunset,
 We all know you are not quite done yet:
-You’ll make with Michele
+You'll make with Michele
 More stories to tell;
-We know you’re not through having fun yet!
+We know you're not through having fun yet!
 </pre>
       <p>
         <dl>
@@ -3160,17 +3221,17 @@ Lindsay Roberts, and will include a few highlights from the entire volume.
               <alert>Speaker: </alert> Paul Pasles, Villanova University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Benjamin Franklin's Numbers </pubtitle>
+              <alert>Title: </alert> <pubtitle>Benjamin Franklin<rsq/>s Numbers </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert> Quantitative literacy is a
               necessity for good citizenship, so it is appropriate
               that the <q>first American</q> was numerate in the
-              extreme.  That's not to say that Ben Franklin ever
+              extreme.  That<rsq/>s not to say that Ben Franklin ever
               proved a novel theorem, but he was willing to apply
               basic mathematics to situations where only qualitative
               arguments had been admitted previously. This talk will
-              explore the various mathematical aspects of Franklin’s
+              explore the various mathematical aspects of Franklin<rsq/>s
               life.
 
             </p>
@@ -3235,10 +3296,10 @@ Trajectory </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
-We will examine Luca Pacioli’s contributions to mathematics. The Italian
+We will examine Luca Pacioli<rsq/>s contributions to mathematics. The Italian
 mathematician Luca Pacioli discussed mathematics with Leonardo Da Vinci,
 wrote books on arithmetic, and worked on chess problems. His long-lost
-manuscript on chess was recently discovered in Italy. Pacioli’s system
+manuscript on chess was recently discovered in Italy. Pacioli<rsq/>s system
 of double-entry bookkeeping has a group structure and can be viewed as
 error-detecting code. We will also discuss some of the controversy
 surrounding his work and publications.
@@ -3260,7 +3321,7 @@ important, perhaps the most important, institution for American science.
 With little graduate work available in the United States, it served as
 an essential training ground as well as a source of employment for
 American scientists. When Peirce took over the Coast Survey after
-Bache’s death, he had no administrative experience. Yet he was able to
+Bache<rsq/>s death, he had no administrative experience. Yet he was able to
 garner even better congressional support for the Survey than had the
 politically savvy Bache. Peirce continued to support a broad spectrum of
 scientific activity. He was also successful in expanding the Survey my
@@ -3298,14 +3359,14 @@ most important mathematical work, during this period.
               <alert>Speaker: </alert> Dave Richeson, Dickenson College:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Euler's Polyhedron Formula: a Prehistory of Topology </pubtitle>
+              <alert>Title: </alert> <pubtitle>Euler<rsq/>s Polyhedron Formula: a Prehistory of Topology </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert> A polyhedron with V vertices,
               E edges, and F faces satisfies the relation <m>V-E+F=2</m>.
               This relationship was first noticed by Euler in 1750
               (although a related formula was known to Descartes in
-              1630). Euler's proof turned out to be flawed. From 1750
+              1630). Euler<rsq/>s proof turned out to be flawed. From 1750
               to 1850 mathematicians tried to come to grips with this
               formula. Legendre, Cauchy, Staudt, and others presented
               new proofs and generalizations. Meanwhile, Lhuilier,
@@ -3321,21 +3382,21 @@ most important mathematical work, during this period.
           <li>
             <title>February 15</title>
             <p>
-              <alert>Speaker: </alert> Lawrence D’Antonio, Ramapo College of New Jersey:
+              <alert>Speaker: </alert> Lawrence D<rsq/>Antonio, Ramapo College of New Jersey:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Euler’s Contributions to Diophantine Analysis </pubtitle>
+              <alert>Title: </alert> <pubtitle>Euler<rsq/>s Contributions to Diophantine Analysis </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
-In 2007 we celebrate the 300th anniversary of Euler’s birth. Many
-aspects of Euler’s vast output will be examined during this year. In
-this talk we will focus on Euler’s research in the field of Diophantine
+In 2007 we celebrate the 300th anniversary of Euler<rsq/>s birth. Many
+aspects of Euler<rsq/>s vast output will be examined during this year. In
+this talk we will focus on Euler<rsq/>s research in the field of Diophantine
 problems. Such problems were a long-term interest of Euler and are still
-of interest today.We will consider particular highlights from Euler’s
-work on Diophantine equations, such as Euler’s landmark text
-Vollständige Anleitung zur Algebra, his work on Fermat’s Last Theorem
-and the Euler conjecture. This conjecture is related to Fermat’s Last
+of interest today.We will consider particular highlights from Euler<rsq/>s
+work on Diophantine equations, such as Euler<rsq/>s landmark text
+Vollständige Anleitung zur Algebra, his work on Fermat<rsq/>s Last Theorem
+and the Euler conjecture. This conjecture is related to Fermat<rsq/>s Last
 Theorem. Euler had proven the special case that the sum of two cubes is
 never a cube. He then conjectured that the sum of three fourth-powers is
 never a fourth-power, the sum of four fifth-powers never a fifth power
@@ -3385,7 +3446,7 @@ make a truly rigorous proof of the Fundamental Theorem.
             </p>
             <p>
               <alert>Abstract: </alert>
-During the 1930’s and 40’s, several mathematicians—notably Stiefel,
+During the 1930<rsq/>s and 40<rsq/>s, several mathematicians—notably Stiefel,
 Whitney, Pontrjagin, and Chern—developed the basic ideas of
 characteristic classes. These cohomology classes of a bundle over a
 manifold measure how far that bundle is from being a product. The
@@ -3407,7 +3468,7 @@ topology and geometry.
               <alert>Title: </alert> <pubtitle>The Life and Legacy of Augustus De Morgan (1806-1871) </pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert> De Morgan's Laws are familiar
+              <alert>Abstract: </alert> De Morgan<rsq/>s Laws are familiar
               to any mathematician who has taken an undergraduate
               course in set theory.  Yet it is ironic that the man
               afterwhom they were named is remembered almost
@@ -3416,10 +3477,10 @@ topology and geometry.
               legacy of Augustus De Morgan spreads far wider than his
               limited fame of today would suggest.  In the last few
               decades historical research has shed light on forgotten
-              aspects of De Morgan's work to give us a more complete
+              aspects of De Morgan<rsq/>s work to give us a more complete
               picture of the range and diversity of his mathematical
               activities.  To mark the 200th anniversary of De
-              Morgan's birth, this talk will examine the influence of
+              Morgan<rsq/>s birth, this talk will examine the influence of
               these contributions and thus re-evaluate the impact of
               his work on the mathematical landscape of both his time
               and ours.
@@ -3444,7 +3505,7 @@ Rutgers University, Center for Discrete Mathematics (DIMACS), University
 of Colorado:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Bartel-Shur-Van der Waerden’s Theorem </pubtitle>
+              <alert>Title: </alert> <pubtitle>Bartel-Shur-Van der Waerden<rsq/>s Theorem </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>
@@ -3455,17 +3516,17 @@ that the set of whole rational numbers 1, 2, ..., /N/, partitioned into
 the classes. This result, which I call (in honor of the authors of the
 conjecture and the author of the first proof) /Baudet-Schur-Van der
 Waerden Theorem/, belongs to a few revolutionary, classic results which
-form “/Ramsey Theory before Ramsey/”, and it has awakened my interest in
+form <q>Ramsey Theory before Ramsey,</q> and it has awakened my interest in
 the life of Van der Waerden. I found the literature about his life
 surprisingly contradictory. On the one hand, in the writings of Günther
 Frei, Yvonne Dold-Samplonius, W. Peremans, and most recently Rüdiger
 Thiele, I found the highest praise of Van der Waerden as a man of utmost
 integrity, a hero of the opposition to the Third Reich. On the other
 hand, Queen Wilhelmina of the Netherlands refused to sign off on Van der
-Waerden’s appointment to a chair at the University of Amsterdam in 1946,
-and Miles Reid in his 1988 book wrote that “a number of mathematicians
+Waerden<rsq/>s appointment to a chair at the University of Amsterdam in 1946,
+and Miles Reid in his 1988 book wrote that <q>a number of mathematicians
 of the immediate post-war period, including some of the leading
-algebraic geometers, considered him a Nazi collaborator
+algebraic geometers,</q> considered him a Nazi collaborator.
             </p>
 <p>
 As a trained problem-solver, I commenced the search for the real Van der
@@ -3474,7 +3535,7 @@ grant my predecessors one thing: it is hard to understand B. L. van der
 Waerden. And while a complete insight is impossible, my research has
 produced, I believe for the first time, a comprehensive portrait of Van
 der Waerden the man. I would have liked to share with you much of my
-findings, but it would take a few days, and thus overstep Tom Bartlow’s
+findings, but it would take a few days, and thus overstep Tom Bartlow<rsq/>s
 hospitality. I will therefore try to do my best with the time I am
 given. We will visit Van der Waerden during his early years, although my
 main interest will be the two turbulent decades of his life: 1931-1951. 
@@ -3495,8 +3556,8 @@ main interest will be the two turbulent decades of his life: 1931-1951.
               <alert>Speaker: </alert> Shelley Costa, Swarthmore College:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Making a Name for Oneself in Professional Mathematics: Women’s Lives
-and “Women’s Work” in the 19th Century  </pubtitle>
+              <alert>Title: </alert> <pubtitle>Making a Name for Oneself in Professional Mathematics: Women<rsq/>s Lives
+and <q>Women<rsq/>s Work</q> in the 19th Century  </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert> The concept of the
@@ -3517,7 +3578,7 @@ and “Women’s Work” in the 19th Century  </pubtitle>
               to pay homage to exceptional talent, luck, and
               resources, but to highlight commonalities in their
               experiences as women.I wish to pose an important and
-              difficult question: What do these women’s experiences
+              difficult question: What do these women<rsq/>s experiences
               tell us about the construction of mathematical
               knowledge?
 
@@ -3544,8 +3605,8 @@ and “Women’s Work” in the 19th Century  </pubtitle>
               <alert>Abstract: </alert> Joseph B. Reynolds (1881-1975)
               was a student and professor at Lehigh University from
               1903 to 1948.We examine his major accomplishments in
-              terms of Lehigh's change to a research mission in the
-              1920s.Reynolds's exploits include contributions to
+              terms of Lehigh<rsq/>s change to a research mission in the
+              1920s.Reynolds<rsq/>s exploits include contributions to
               engineering as well as pure and applied mathematics.He
               is also viewed as an amateur historian, departmental
               administrator at Lehigh, and founder of our local EPADEL
@@ -3560,8 +3621,8 @@ and “Women’s Work” in the 19th Century  </pubtitle>
 
             </p>
             <p>
-             Informal Presentation on the State of Hilbert's Papers and Progress on
-a Forthcoming Volume of Hilbert's Papers and Notebooks on Logic in the
+             Informal Presentation on the State of Hilbert<rsq/>s Papers and Progress on
+a Forthcoming Volume of Hilbert<rsq/>s Papers and Notebooks on Logic in the
 1920s              </p>
        
           </li>
@@ -3616,7 +3677,7 @@ a Forthcoming Volume of Hilbert's Papers and Notebooks on Logic in the
               <alert>Speaker: </alert> Alan Gluchoff, Villanova University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>The Contributions of Four 'Mathematical People' to the Mathematical
+              <alert>Title: </alert> <pubtitle>The Contributions of Four <lsq/>Mathematical People<rsq/> to the Mathematical
 Ballistics of the World War I Era in America </pubtitle>
             </p>
             <p>
@@ -3657,31 +3718,36 @@ Norway:
 Philosophy and Politics  </pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert>
- The main focus of the talk is von Mises’s “outsider-position” or
-“non-conformism” in scientific, philosophical, and - to a lesser degree
-- political respects and the implications for the reception of his
-theory of probability, the one achievement he is still most known for
-today. Not unexpectedly, a considerable part of von Mises’
-“non-conformism” was related to his “betweenness” with respect to
-mathematics and its applications, which can be related to his education
-as an engineer and mathematician and to his practical work.
-Von Mises gave in 1919 a definition for the then rather new discipline
-“theory of probability” and tried to relate and connect it to existing
-“pure mathematics” on the one hand and to applications in statistics and
-physics on the other. This attempt was, indeed, very influential, if
-perhaps even more in a “critical” than in a constructive meaning,
-“critical” including both von Mises’s criticism of existing notions and
-applications of probability and ensuing criticism of von Mises’s
-proposals by others such as A.N.Kolmogorov and A.Ya.Khinchin.
-
+              <alert>Abstract: </alert> The main focus of the talk is
+              von Mises<rsq/>s <q>outsider-position</q> or
+              <q>non-conformism</q> in scientific, philosophical, and
+              - to a lesser degree - political respects and the
+              implications for the reception of his theory of
+              probability, the one achievement he is still most known
+              for today. Not unexpectedly, a considerable part of von
+              Mises<rsq/> <q>non-conformism</q> was related to his
+              <q>betweenness”</q> with respect to mathematics and its
+              applications, which can be related to his education as
+              an engineer and mathematician and to his practical work.
+              Von Mises gave in 1919 a definition for the then rather
+              new discipline <q>theory of probability</q> and tried to
+              relate and connect it to existing <q>pure
+              mathematics</q> on the one hand and to applications in
+              statistics and physics on the other. This attempt was,
+              indeed, very influential, if perhaps even more in a
+              <q>critical</q> than in a constructive meaning,
+              <q>critical</q> including both von Mises<rsq/>s
+              criticism of existing notions and applications of
+              probability and ensuing criticism of von Mises<rsq/>s
+              proposals by others such as A.N.Kolmogorov and
+              A.Ya.Khinchin.
             </p>
-<p>
-Literature: Siegmund-Schultze, R.: A non-conformist longing for unity in
-the fractures of modernity: towards a scientific biography of Richard
-von Mises (1883-1953); Science in Context 17 (2004), 333-370.
-
-</p>
+            <p>
+              Literature: Siegmund-Schultze, R.: A non-conformist
+              longing for unity in the fractures of modernity: towards
+              a scientific biography of Richard von Mises (1883-1953);
+              Science in Context 17 (2004), 333-370.
+            </p>
           </li>
           <li>
             <title>September 15</title>
@@ -3700,7 +3766,7 @@ Over 80 of his papers are about series, and two of his books deal
 primarily with series.Some of his results appear in <q>blockbuster</q> papers
 that make a huge contribution in just a single paper. Examples include
 the Basel Problem paper in which he evaluates 
-<m>\zeta(2)</m>, Philip Naudé's
+<m>\zeta(2)</m>, Philip Naudé<rsq/>s
 problem in which he solves many problems of partition numbers, his paper
 on the Sum-Product formula for the zeta function and his paper on the
 foundations of continued fractions.There are other ideas, though, where
@@ -3723,10 +3789,10 @@ to the mathematical and scientific life in the 18th century.
           <li>
             <title>April 21</title>
             <p>
-              <alert>Speaker: </alert> David L. Roberts, Prince George's Community College:
+              <alert>Speaker: </alert> David L. Roberts, Prince George<rsq/>s Community College:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Mathematicians in the Schools: The 'New Math' as an Arena of
+              <alert>Title: </alert> <pubtitle>Mathematicians in the Schools: The <lsq/>New Math<rsq/> as an Arena of
 Professional Struggle, 1950-1970 </pubtitle>
             </p>
             <p>
@@ -3776,7 +3842,7 @@ Psychological Profile of the Ideal Computer Scientist </pubtitle>
               considered by many to be a <q>black art,</q> a private
               arcane matter. General programming principles were
               largely nonexistent and the success of a program
-              depended primarily on the programmer's private
+              depended primarily on the programmer<rsq/>s private
               techniques and inventions. Those scientists and
               mathematicians who left <q>respectable</q> disciplines
               for the uncharted waters of computer science faced
@@ -3833,7 +3899,7 @@ and prominent exhibit space for its valuable collection of mathematical
 models and instruments. Only four years later, however, the ascendancy
 of the Nazi party forced the faculty to emigrate to the United States.
 Their hastily chosen replacements needed to steer an impossible course
-between the department's hallowed tradition and the odious dictates of
+between the department<rsq/>s hallowed tradition and the odious dictates of
 the regime.
 
             </p>
@@ -3856,7 +3922,7 @@ the regime.
             </p>
             <p>
               <alert>Abstract: </alert> One of the unusual features of
-              the 1904 edition of Granville's calculus, a book I have
+              the 1904 edition of Granville<rsq/>s calculus, a book I have
               described as the first 20th century calculus text, is a
               final chapter called <q>Integraph. Table of
               Integrals.</q> In this chapter, Granville describes the
@@ -3888,7 +3954,7 @@ the regime.
               Philadelphia. Most prominent of these early
               mathematicians was Benjamin Franklin, master of the
               magic square.  Until recently it appeared that only two
-              of Franklin's magic squares were still extant. In fact
+              of Franklin<rsq/>s magic squares were still extant. In fact
               these were really two instances of the same example,
               extended to different orders. Now, however, it is clear
               that more than a half-dozen squares survive. How do
@@ -3916,7 +3982,7 @@ the regime.
               because of their social or economic standing. They are
               best characterized as <q>blue collar mathematicians.</q>
               Several of the human computers, notably the staff at the
-              U. S. Nautical Almanac, the workers at George Snedecor's
+              U. S. Nautical Almanac, the workers at George Snedecor<rsq/>s
               Statistical Laboratory and the members of the WPA
               Mathematical Tables Project, made many small
               contributions to the development of numerical
@@ -3936,7 +4002,7 @@ the regime.
               <alert>Speaker: </alert> Tom Archibald,Dibner Institute and Acadia University:
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Aspects of the Reception of Fredholm's Work on Integral Equations </pubtitle>
+              <alert>Title: </alert> <pubtitle>Aspects of the Reception of Fredholm<rsq/>s Work on Integral Equations </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert> In 1899, Ivar Fredholm
@@ -3944,15 +4010,15 @@ the regime.
               functional equation where the unknown function appears
               under the integral sign, a problem going back to Abel
               and which had already received some study at the hands
-              of Vito Volterra and Picard's student J. Le Roux. This
+              of Vito Volterra and Picard<rsq/>s student J. Le Roux. This
               rather special-sounding problem had profound
               resonances. For one thing, it could be combined with
               methods of Carl Neumann and Henri Poincaré to prove the
               existence of solutions to many boundary-value problems,
-              and indeed to find these solutions using Picard's
+              and indeed to find these solutions using Picard<rsq/>s
               successive approximation method. Still more far-reaching
               were the insights it provided to David Hilbert and his
-              student Erhard Schmidt, who reinterpreted Fredholm's
+              student Erhard Schmidt, who reinterpreted Fredholm<rsq/>s
               methods into the point of departure for what we now term
               operator theory on Hilbert spaces. In this paper, I
               examine the first of these threads, mostly concentrating
@@ -4037,7 +4103,7 @@ the regime.
               Midwestern United States, but designed and made several
               hundred types of mathematical models. He sold copies of
               many of these to colleges and high schools throughout
-              the country. Baker’s models reflect traditions in
+              the country. Baker<rsq/>s models reflect traditions in
               American teaching, the concerns of contemporary
               mathematicians and scientists, and his own wide-ranging
               interests.
@@ -4075,7 +4141,7 @@ the regime.
               <alert>Title: </alert> <pubtitle> The Brachistochrone Problem and its Sequels</pubtitle>
             </p>
             <p>
-              <alert>Abstract: </alert>To a large extent Hilbert's
+              <alert>Abstract: </alert>To a large extent Hilbert<rsq/>s
               list of problems (Paris, 1900) steered the course of
               mathematics in the 20th century. However, posing
               problems is an old mathematical tradition and there are
@@ -4144,15 +4210,15 @@ the regime.
               little-known figure whose most significant
               accomplishment may have been commissioning Thomas and
               George Palmer to print the first American edition of
-              John Playfair's Elements of Geometry in 1806. Over the
+              John Playfair<rsq/>s Elements of Geometry in 1806. Over the
               next fifteen years, Nichols sold numerous copies of this
               book to the students at Yale via Jeremiah Day, the
               professor of mathematics and natural philosophy
               there. Letters by Nichols in the Day Correspondence
-              discuss the necessary transactions, Day's efforts to
+              discuss the necessary transactions, Day<rsq/>s efforts to
               complete a series of mathematical textbooks, and the
               textbook series translated by Harvard professor John
-              Farrar. The paper will explore Nichols's comments on
+              Farrar. The paper will explore Nichols<rsq/>s comments on
               these works as a case study of the reception of
               mathematics textbooks in early republican America.
             </p>
@@ -4163,7 +4229,7 @@ the regime.
               <alert>Speaker: </alert> Fritz Hartmann, Villanova University
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle> Apollonius’ Ellipse and Evolute Revisited</pubtitle>
+              <alert>Title: </alert> <pubtitle> Apollonius<rsq/> Ellipse and Evolute Revisited</pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert>The ancient work of Apollonius studying the normals to an ellipse from any point in the plane is reviewed from a modern point of view.
@@ -4214,10 +4280,10 @@ the regime.
           <li>
             <title>March 20</title>
             <p>
-              <alert>Speaker: </alert> Frederick A. Homann, S.J., St. Joseph's University
+              <alert>Speaker: </alert> Frederick A. Homann, S.J., St. Joseph<rsq/>s University
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>Combinatorial Theory in Boscovich's Mathematics  </pubtitle>
+              <alert>Title: </alert> <pubtitle>Combinatorial Theory in Boscovich<rsq/>s Mathematics  </pubtitle>
             </p>
           </li>
           <li>
@@ -4261,7 +4327,7 @@ the regime.
               <alert>Speaker: </alert> Robert Jantzen, Villanova University
             </p>
             <p>
-              <alert>Title: </alert> <pubtitle>The Princeton Mathematics Community of the 1930's: An Oral History Project </pubtitle>
+              <alert>Title: </alert> <pubtitle>The Princeton Mathematics Community of the 1930<rsq/>s: An Oral History Project </pubtitle>
             </p>
             <p>
               <alert>Abstract: </alert> A paper only oral history project on the Princeton University math department and Institute for Advanced Study which shared a building on campus during this decade was converted to a web document at Princeton University and given context with mny history of math articles.
@@ -4332,13 +4398,13 @@ the regime.
               <alert>Speaker: </alert> Rob Bradley, Adelphi University
             </p>
             <p>
-              <alert>Title:</alert> <pubtitle>The Euler d'Alembert Correspondence and Complex Logarithms</pubtitle>
+              <alert>Title:</alert> <pubtitle>The Euler d<rsq/>Alembert Correspondence and Complex Logarithms</pubtitle>
             </p>
           </li>
           <li>
             <title>October 25</title>
             <p>
-              <alert>Speaker: </alert> Tom Foley, St. Joseph's University
+              <alert>Speaker: </alert> Tom Foley, St. Joseph<rsq/>s University
             </p>
             <p>
               <alert>Title:</alert> <pubtitle>The Golden Ratio in Physics</pubtitle>
@@ -4381,7 +4447,7 @@ the regime.
           <li>
             <title>February 15</title>
             <p>
-              <alert>Speaker: </alert> Fr. Homann, S.J., St. Joseph's University
+              <alert>Speaker: </alert> Fr. Homann, S.J., St. Joseph<rsq/>s University
             </p>
             <p>
             <alert>Title: </alert> Mathematical History of Surveying</p>

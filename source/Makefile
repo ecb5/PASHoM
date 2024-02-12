@@ -1,4 +1,6 @@
-web: *.ptx  Makefile 
+web: *.ptx jing html Makefile view
+
+html:
 	/home/ecb5/.local/bin/pretext build web
 #
 
